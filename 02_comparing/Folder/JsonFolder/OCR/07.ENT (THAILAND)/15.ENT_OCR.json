@@ -1,0 +1,74 @@
+[
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.6166,
+    "AMOUNT": 616.6,
+    "% Confidence": 0.6627604166666666,
+    "filename": "15.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 4000,
+    "UNIT_PRICE": 0.6166,
+    "AMOUNT": 2466.4,
+    "% Confidence": 0.662109375,
+    "filename": "15.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 10000,
+    "UNIT_PRICE": 3,
+    "AMOUNT": 4378,
+    "% Confidence": 0.596337890625,
+    "filename": "15.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.4378,
+    "AMOUNT": 4,
+    "% Confidence": 0.5962565104166667,
+    "filename": "15.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 1000,
+    "UNIT_PRICE": 3.35753,
+    "AMOUNT": 3357.53,
+    "% Confidence": 0.6622721354166666,
+    "filename": "15.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 6,
+    "UNIT_PRICE": 10.23159,
+    "AMOUNT": 20463.18,
+    "% Confidence": 0.59609375,
+    "filename": "15.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 7,
+    "UNIT_PRICE": 0.96853,
+    "AMOUNT": 4842.65,
+    "% Confidence": 0.5962565104166667,
+    "filename": "15.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 8,
+    "UNIT_PRICE": 0.3775,
+    "AMOUNT": 377.5,
+    "% Confidence": 0.5960123697916667,
+    "filename": "15.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 4000,
+    "UNIT_PRICE": 0.3775,
+    "AMOUNT": 1510,
+    "% Confidence": 0.6621907552083334,
+    "filename": "15.ENT.json"
+  }
+]

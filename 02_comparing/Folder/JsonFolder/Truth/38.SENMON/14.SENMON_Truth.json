@@ -1,0 +1,18 @@
+[
+  {
+    "INVOICE_NO": "SMP66-02250",
+    "PO_NO": 1252784006,
+    "ITEM_NO": "T00134701",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.55,
+    "AMOUNT": 550
+  },
+  {
+    "INVOICE_NO": "SMP66-02250",
+    "PO_NO": 1254912022,
+    "ITEM_NO": "T00134701",
+    "QTY": 500,
+    "UNIT_PRICE": 0.55,
+    "AMOUNT": 275
+  }
+]

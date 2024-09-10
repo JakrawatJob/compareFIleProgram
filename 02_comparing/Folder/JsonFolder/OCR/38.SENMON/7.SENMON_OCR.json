@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "SMP66-02267",
+    "PO_NO": "1254912010",
+    "ITEM_NO": "454676901",
+    "QTY": 873,
+    "UNIT_PRICE": 3.72,
+    "AMOUNT": 3247.56,
+    "% Confidence": 0.9884440104166666,
+    "filename": "7.SENMON.json"
+  },
+  {
+    "INVOICE_NO": "SMP66-02267",
+    "PO_NO": "1255535011",
+    "ITEM_NO": "454676901",
+    "QTY": 127,
+    "UNIT_PRICE": 3.72,
+    "AMOUNT": 472.44,
+    "% Confidence": 0.9871012369791666,
+    "filename": "7.SENMON.json"
+  }
+]

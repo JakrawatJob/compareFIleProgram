@@ -1,0 +1,92 @@
+[
+  {
+    "INVOICE_NO": "DY233819",
+    "PO_NO": "1256747253",
+    "ITEM_NO": "501759701",
+    "QTY": 1013,
+    "UNIT_PRICE": 1.7918,
+    "AMOUNT": 1815.09,
+    "% Confidence": 0.9944661458333334,
+    "filename": "28.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233819",
+    "PO_NO": "1257363349",
+    "ITEM_NO": "501759701",
+    "QTY": 2400,
+    "UNIT_PRICE": 1.7918,
+    "AMOUNT": 4300.32,
+    "% Confidence": 0.9955240885416666,
+    "filename": "28.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233819",
+    "PO_NO": "1257363350",
+    "ITEM_NO": "501759701",
+    "QTY": 1387,
+    "UNIT_PRICE": 1.7918,
+    "AMOUNT": 2485.23,
+    "% Confidence": 0.9921061197916666,
+    "filename": "28.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233819",
+    "PO_NO": "1257363356",
+    "ITEM_NO": "501761502",
+    "QTY": 800,
+    "UNIT_PRICE": 1.9544,
+    "AMOUNT": 1563.52,
+    "% Confidence": 0.995849609375,
+    "filename": "28.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233819",
+    "PO_NO": "1256951074",
+    "ITEM_NO": "501777201",
+    "QTY": 4800,
+    "UNIT_PRICE": 0.3658,
+    "AMOUNT": 1755.84,
+    "% Confidence": 0.99658203125,
+    "filename": "28.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233819",
+    "PO_NO": "9100915022",
+    "ITEM_NO": "501838701",
+    "QTY": 600,
+    "UNIT_PRICE": 0.5597,
+    "AMOUNT": 335.82,
+    "% Confidence": 0.9959309895833334,
+    "filename": "28.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233819",
+    "PO_NO": "1257363361",
+    "ITEM_NO": "501899002",
+    "QTY": 800,
+    "UNIT_PRICE": 0.6431,
+    "AMOUNT": 514.48,
+    "% Confidence": 0.9966634114583334,
+    "filename": "28.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233819",
+    "PO_NO": "1256312060",
+    "ITEM_NO": "501904101",
+    "QTY": 1920,
+    "UNIT_PRICE": 2.1033,
+    "AMOUNT": 4038.34,
+    "% Confidence": 0.9947916666666666,
+    "filename": "28.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233819",
+    "PO_NO": "1256951075",
+    "ITEM_NO": "501904101",
+    "QTY": 1650,
+    "UNIT_PRICE": 2.1033,
+    "AMOUNT": 20279.09,
+    "% Confidence": 0.92958984375,
+    "filename": "28.VEL.json"
+  }
+]

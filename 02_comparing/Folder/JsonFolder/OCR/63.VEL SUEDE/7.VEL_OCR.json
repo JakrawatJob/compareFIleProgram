@@ -1,0 +1,32 @@
+[
+  {
+    "INVOICE_NO": "DY233784",
+    "PO_NO": "1256951131",
+    "ITEM_NO": "504862301",
+    "QTY": 4800,
+    "UNIT_PRICE": 0.3451,
+    "AMOUNT": 1656.48,
+    "% Confidence": 0.9950358072916666,
+    "filename": "7.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233784",
+    "PO_NO": "1256951154",
+    "ITEM_NO": "505295601",
+    "QTY": 3000,
+    "UNIT_PRICE": 0.3418,
+    "AMOUNT": 1025.4,
+    "% Confidence": 0.9947916666666666,
+    "filename": "7.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233784",
+    "PO_NO": "1256951155",
+    "ITEM_NO": "505295601",
+    "QTY": 500,
+    "UNIT_PRICE": 0.3418,
+    "AMOUNT": 170.9,
+    "% Confidence": 0.9954427083333334,
+    "filename": "7.VEL.json"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "INVOICE_NO": "DY233801",
+    "PO_NO": "1257363169",
+    "ITEM_NO": "459859811",
+    "QTY": 25,
+    "UNIT_PRICE": 4.9056,
+    "AMOUNT": 122.64,
+    "% Confidence": 0.994140625,
+    "filename": "25.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233801",
+    "PO_NO": "1257363170",
+    "ITEM_NO": "459859811",
+    "QTY": 125,
+    "UNIT_PRICE": 4.9056,
+    "AMOUNT": 613.2,
+    "% Confidence": 0.993896484375,
+    "filename": "25.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233801",
+    "PO_NO": "1257363171",
+    "ITEM_NO": "459974001",
+    "QTY": 660,
+    "UNIT_PRICE": 0.5992,
+    "AMOUNT": 395.47,
+    "% Confidence": 0.99462890625,
+    "filename": "25.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233801",
+    "PO_NO": "1257363176",
+    "ITEM_NO": "469016801",
+    "QTY": 137,
+    "UNIT_PRICE": 17.7478,
+    "AMOUNT": 2431.45,
+    "% Confidence": 0.993408203125,
+    "filename": "25.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233801",
+    "PO_NO": "1257363177",
+    "ITEM_NO": "469016801",
+    "QTY": 300,
+    "UNIT_PRICE": 17.7478,
+    "AMOUNT": 5324.34,
+    "% Confidence": 0.9930013020833334,
+    "filename": "25.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233801",
+    "PO_NO": "1257363178",
+    "ITEM_NO": "469016801",
+    "QTY": 163,
+    "UNIT_PRICE": 17.7478,
+    "AMOUNT": 11779.99,
+    "% Confidence": 0.928369140625,
+    "filename": "25.VEL.json"
+  }
+]

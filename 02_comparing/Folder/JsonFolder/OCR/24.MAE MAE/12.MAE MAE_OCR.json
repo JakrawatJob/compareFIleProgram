@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "MM6609-0773",
+    "PO_NO": "9101240035",
+    "ITEM_NO": "502671601",
+    "QTY": 124,
+    "UNIT_PRICE": 5,
+    "AMOUNT": 721.68,
+    "% Confidence": 0.9290608723958332,
+    "filename": "12.MAE MAE.json"
+  },
+  {
+    "INVOICE_NO": "MM6609-0773",
+    "PO_NO": "9101240055",
+    "ITEM_NO": "1474828702",
+    "QTY": 23,
+    "UNIT_PRICE": 7,
+    "AMOUNT": 174.11,
+    "% Confidence": 0.9277452256944444,
+    "filename": "12.MAE MAE.json"
+  }
+]

@@ -1,0 +1,1030 @@
+[
+  {
+    "fileName": "1.TDK.xlsx",
+    "INVOICE_tag": "10263958",
+    "data": [
+      {
+        "INVOICE_NO": "10263958",
+        "PO_NO": "1232804015",
+        "ITEM_NO": "148292011",
+        "QTY": "20000",
+        "UNIT_PRICE": "0.31378",
+        "AMOUNT": "6275.6"
+      }
+    ]
+  },
+  {
+    "fileName": "10.TDK.xlsx",
+    "INVOICE_tag": "10264423",
+    "data": [
+      {
+        "INVOICE_NO": "10264423",
+        "PO_NO": "1247009006",
+        "ITEM_NO": "100155211",
+        "QTY": "6000",
+        "UNIT_PRICE": "9.95327",
+        "AMOUNT": "59719.62"
+      }
+    ]
+  },
+  {
+    "fileName": "11.TDK.xlsx",
+    "INVOICE_tag": "10264424",
+    "data": [
+      {
+        "INVOICE_NO": "10264424",
+        "PO_NO": "1251842011",
+        "ITEM_NO": "150011322",
+        "QTY": "132000",
+        "UNIT_PRICE": "0.1687",
+        "AMOUNT": "22268.4"
+      },
+      {
+        "INVOICE_NO": "10264424",
+        "PO_NO": "1247951017",
+        "ITEM_NO": "180498821",
+        "QTY": "8000",
+        "UNIT_PRICE": "0.29691",
+        "AMOUNT": "2375.28"
+      }
+    ]
+  },
+  {
+    "fileName": "12.TDK.xlsx",
+    "INVOICE_tag": "10264005",
+    "data": [
+      {
+        "INVOICE_NO": "10264005",
+        "PO_NO": "1233736016",
+        "ITEM_NO": "148291911",
+        "QTY": "30000",
+        "UNIT_PRICE": "0.9734",
+        "AMOUNT": "29202"
+      },
+      {
+        "INVOICE_NO": "10264005",
+        "PO_NO": "1233736015",
+        "ITEM_NO": "148291911",
+        "QTY": "30000",
+        "UNIT_PRICE": "0.9734",
+        "AMOUNT": "29202"
+      },
+      {
+        "INVOICE_NO": "10264005",
+        "PO_NO": "1233736027",
+        "ITEM_NO": "148292311",
+        "QTY": "30000",
+        "UNIT_PRICE": "0.27329",
+        "AMOUNT": "8198.7"
+      }
+    ]
+  },
+  {
+    "fileName": "13.TDK.xlsx",
+    "INVOICE_tag": "10264104",
+    "data": [
+      {
+        "INVOICE_NO": "10264104",
+        "PO_NO": "1245917001",
+        "ITEM_NO": "100154911",
+        "QTY": "10000",
+        "UNIT_PRICE": "0.13496",
+        "AMOUNT": "1349.6"
+      },
+      {
+        "INVOICE_NO": "10264104",
+        "PO_NO": "1245917013",
+        "ITEM_NO": "120005011",
+        "QTY": "2500",
+        "UNIT_PRICE": "9.95327",
+        "AMOUNT": "24883.18"
+      },
+      {
+        "INVOICE_NO": "10264104",
+        "PO_NO": "1245917014",
+        "ITEM_NO": "120005011",
+        "QTY": "2500",
+        "UNIT_PRICE": "9.95327",
+        "AMOUNT": "24883.18"
+      }
+    ]
+  },
+  {
+    "fileName": "14.TDK.xlsx",
+    "INVOICE_tag": "10263956",
+    "data": [
+      {
+        "INVOICE_NO": "10263956",
+        "PO_NO": "1247724002",
+        "ITEM_NO": "100817811",
+        "QTY": "6000",
+        "UNIT_PRICE": "1.28549",
+        "AMOUNT": "7712.94"
+      }
+    ]
+  },
+  {
+    "fileName": "15.TDK.xlsx",
+    "INVOICE_tag": "10264002",
+    "data": [
+      {
+        "INVOICE_NO": "10264002",
+        "PO_NO": "1250716010",
+        "ITEM_NO": "148220011",
+        "QTY": "1000",
+        "UNIT_PRICE": "1.72748",
+        "AMOUNT": "1727.48"
+      },
+      {
+        "INVOICE_NO": "10264002",
+        "PO_NO": "1250716011",
+        "ITEM_NO": "148220011",
+        "QTY": "1000",
+        "UNIT_PRICE": "1.72748",
+        "AMOUNT": "1727.48"
+      },
+      {
+        "INVOICE_NO": "10264002",
+        "PO_NO": "1255408015",
+        "ITEM_NO": "175493011",
+        "QTY": "4000",
+        "UNIT_PRICE": "2.86789",
+        "AMOUNT": "11471.56"
+      }
+    ]
+  },
+  {
+    "fileName": "16.TDK.xlsx",
+    "INVOICE_tag": "10263802",
+    "data": [
+      {
+        "INVOICE_NO": "10263802",
+        "PO_NO": "1249741003",
+        "ITEM_NO": "145512912",
+        "QTY": "1344",
+        "UNIT_PRICE": "303.6591",
+        "AMOUNT": "408117.83"
+      },
+      {
+        "INVOICE_NO": "10263802",
+        "PO_NO": "1250276001",
+        "ITEM_NO": "145512912",
+        "QTY": "1344",
+        "UNIT_PRICE": "303.6591",
+        "AMOUNT": "408117.83"
+      },
+      {
+        "INVOICE_NO": "10263802",
+        "PO_NO": "1252574004",
+        "ITEM_NO": "149230714",
+        "QTY": "1500",
+        "UNIT_PRICE": "112.18517",
+        "AMOUNT": "168277.76"
+      }
+    ]
+  },
+  {
+    "fileName": "17.TDK.xlsx",
+    "INVOICE_tag": "10264004",
+    "data": [
+      {
+        "INVOICE_NO": "10264004",
+        "PO_NO": "1250837002",
+        "ITEM_NO": "145512912",
+        "QTY": "1344",
+        "UNIT_PRICE": "303.6591",
+        "AMOUNT": "408117.83"
+      }
+    ]
+  },
+  {
+    "fileName": "18.TDK.xlsx",
+    "INVOICE_tag": "10263957",
+    "data": [
+      {
+        "INVOICE_NO": "10263957",
+        "PO_NO": "1250276002",
+        "ITEM_NO": "145513012",
+        "QTY": "1280",
+        "UNIT_PRICE": "303.6591",
+        "AMOUNT": "388683.65"
+      }
+    ]
+  },
+  {
+    "fileName": "19.TDK.xlsx",
+    "INVOICE_tag": "10263798",
+    "data": [
+      {
+        "INVOICE_NO": "10263798",
+        "PO_NO": "1244774001",
+        "ITEM_NO": "100154911",
+        "QTY": "10000",
+        "UNIT_PRICE": "0.13496",
+        "AMOUNT": "1349.6"
+      },
+      {
+        "INVOICE_NO": "10263798",
+        "PO_NO": "1245917010",
+        "ITEM_NO": "100155211",
+        "QTY": "6000",
+        "UNIT_PRICE": "9.95327",
+        "AMOUNT": "59719.62"
+      },
+      {
+        "INVOICE_NO": "10263798",
+        "PO_NO": "1235604031",
+        "ITEM_NO": "180209021",
+        "QTY": "130000",
+        "UNIT_PRICE": "0.16195",
+        "AMOUNT": "21053.5"
+      },
+      {
+        "INVOICE_NO": "10263798",
+        "PO_NO": "1235604031",
+        "ITEM_NO": "180209021",
+        "QTY": "20000",
+        "UNIT_PRICE": "0.16195",
+        "AMOUNT": "3239"
+      },
+      {
+        "INVOICE_NO": "10263798",
+        "PO_NO": "1235604031",
+        "ITEM_NO": "180209021",
+        "QTY": "100000",
+        "UNIT_PRICE": "0.16195",
+        "AMOUNT": "16195"
+      },
+      {
+        "INVOICE_NO": "10263798",
+        "PO_NO": "1236448017",
+        "ITEM_NO": "180209021",
+        "QTY": "100000",
+        "UNIT_PRICE": "0.16195",
+        "AMOUNT": "16195"
+      }
+    ]
+  },
+  {
+    "fileName": "2.TDK.xlsx",
+    "INVOICE_tag": "10264103",
+    "data": [
+      {
+        "INVOICE_NO": "10264103",
+        "PO_NO": "1234228017",
+        "ITEM_NO": "148241211",
+        "QTY": "20000",
+        "UNIT_PRICE": "0.36439",
+        "AMOUNT": "7287.8"
+      },
+      {
+        "INVOICE_NO": "10264103",
+        "PO_NO": "1232348016",
+        "ITEM_NO": "148245511",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.59045",
+        "AMOUNT": "2361.8"
+      },
+      {
+        "INVOICE_NO": "10264103",
+        "PO_NO": "1234673011",
+        "ITEM_NO": "148265611",
+        "QTY": "44000",
+        "UNIT_PRICE": "0.60732",
+        "AMOUNT": "26722.08"
+      },
+      {
+        "INVOICE_NO": "10264103",
+        "PO_NO": "1232348023",
+        "ITEM_NO": "148292011",
+        "QTY": "20000",
+        "UNIT_PRICE": "0.31378",
+        "AMOUNT": "6275.6"
+      },
+      {
+        "INVOICE_NO": "10264103",
+        "PO_NO": "1234228032",
+        "ITEM_NO": "148292111",
+        "QTY": "24000",
+        "UNIT_PRICE": "0.31378",
+        "AMOUNT": "7530.72"
+      },
+      {
+        "INVOICE_NO": "10264103",
+        "PO_NO": "1234228033",
+        "ITEM_NO": "",
+        "QTY": "112000",
+        "UNIT_PRICE": "",
+        "AMOUNT": "3512.46"
+      }
+    ]
+  },
+  {
+    "fileName": "20.TDK.xlsx",
+    "INVOICE_tag": "10264106",
+    "data": [
+      {
+        "INVOICE_NO": "10264106",
+        "PO_NO": "1250837003",
+        "ITEM_NO": "145513012",
+        "QTY": "1280",
+        "UNIT_PRICE": "303.6591",
+        "AMOUNT": "388683.65"
+      }
+    ]
+  },
+  {
+    "fileName": "21.TDK.xlsx",
+    "INVOICE_tag": "10264446",
+    "data": [
+      {
+        "INVOICE_NO": "10264446",
+        "PO_NO": "1252443005",
+        "ITEM_NO": "146057211",
+        "QTY": "2000",
+        "UNIT_PRICE": "1.72411",
+        "AMOUNT": "3448.22"
+      },
+      {
+        "INVOICE_NO": "10264446",
+        "PO_NO": "1257227009",
+        "ITEM_NO": "175493011",
+        "QTY": "4000",
+        "UNIT_PRICE": "2.86789",
+        "AMOUNT": "11471.56"
+      }
+    ]
+  },
+  {
+    "fileName": "22.TDK.xlsx",
+    "INVOICE_tag": "10264134",
+    "data": [
+      {
+        "INVOICE_NO": "10264134",
+        "PO_NO": "1249291008",
+        "ITEM_NO": "100531511",
+        "QTY": "45000",
+        "UNIT_PRICE": "0.04116",
+        "AMOUNT": "1852.2"
+      },
+      {
+        "INVOICE_NO": "10264134",
+        "PO_NO": "1248720004",
+        "ITEM_NO": "100531611",
+        "QTY": "15000",
+        "UNIT_PRICE": "0.04116",
+        "AMOUNT": "617.4"
+      },
+      {
+        "INVOICE_NO": "10264134",
+        "PO_NO": "1249291009",
+        "ITEM_NO": "100531611",
+        "QTY": "30000",
+        "UNIT_PRICE": "0.04116",
+        "AMOUNT": "1234.8"
+      },
+      {
+        "INVOICE_NO": "10264134",
+        "PO_NO": "1249291010",
+        "ITEM_NO": "100531711",
+        "QTY": "15000",
+        "UNIT_PRICE": "0.04116",
+        "AMOUNT": "617.4"
+      },
+      {
+        "INVOICE_NO": "10264134",
+        "PO_NO": "1249291011",
+        "ITEM_NO": "100531711",
+        "QTY": "30000",
+        "UNIT_PRICE": "0.04116",
+        "AMOUNT": "1234.8"
+      },
+      {
+        "INVOICE_NO": "10264134",
+        "PO_NO": "1249291012",
+        "ITEM_NO": "100531811",
+        "QTY": "60000",
+        "UNIT_PRICE": "0.04116",
+        "AMOUNT": "2469.6"
+      },
+      {
+        "INVOICE_NO": "10264134",
+        "PO_NO": "1249291013",
+        "ITEM_NO": "100531911",
+        "QTY": "15000",
+        "UNIT_PRICE": "0.04116",
+        "AMOUNT": "617.4"
+      },
+      {
+        "INVOICE_NO": "10264134",
+        "PO_NO": "1249291014",
+        "ITEM_NO": "100531911",
+        "QTY": "30000",
+        "UNIT_PRICE": "0.04116",
+        "AMOUNT": "1234.8"
+      }
+    ]
+  },
+  {
+    "fileName": "23.TDK.xlsx",
+    "INVOICE_tag": "10264105",
+    "data": [
+      {
+        "INVOICE_NO": "10264105",
+        "PO_NO": "1251288001",
+        "ITEM_NO": "141297841",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.25744",
+        "AMOUNT": "1029.76"
+      },
+      {
+        "INVOICE_NO": "10264105",
+        "PO_NO": "1250716004",
+        "ITEM_NO": "141298541",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.25744",
+        "AMOUNT": "1029.76"
+      },
+      {
+        "INVOICE_NO": "10264105",
+        "PO_NO": "1250716005",
+        "ITEM_NO": "141298541",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.25744",
+        "AMOUNT": "1029.76"
+      },
+      {
+        "INVOICE_NO": "10264105",
+        "PO_NO": "1251288002",
+        "ITEM_NO": "141298541",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.25744",
+        "AMOUNT": "1029.76"
+      },
+      {
+        "INVOICE_NO": "10264105",
+        "PO_NO": "1250167005",
+        "ITEM_NO": "148257111",
+        "QTY": "10000",
+        "UNIT_PRICE": "0.28342",
+        "AMOUNT": "2834.2"
+      },
+      {
+        "INVOICE_NO": "10264105",
+        "PO_NO": "1250716012",
+        "ITEM_NO": "148257111",
+        "QTY": "10000",
+        "UNIT_PRICE": "0.28342",
+        "AMOUNT": "2834.2"
+      },
+      {
+        "INVOICE_NO": "10264105",
+        "PO_NO": "1250716013",
+        "ITEM_NO": "148259711",
+        "QTY": "10000",
+        "UNIT_PRICE": "0.28342",
+        "AMOUNT": "2834.2"
+      },
+      {
+        "INVOICE_NO": "10264105",
+        "PO_NO": "1250716015",
+        "ITEM_NO": "150011322",
+        "QTY": "84000",
+        "UNIT_PRICE": "0.1687",
+        "AMOUNT": "14170.8"
+      }
+    ]
+  },
+  {
+    "fileName": "24.TDK.xlsx",
+    "INVOICE_tag": "10264385",
+    "data": [
+      {
+        "INVOICE_NO": "10264385",
+        "PO_NO": "1251842001",
+        "ITEM_NO": "141297841",
+        "QTY": "12000",
+        "UNIT_PRICE": "0.25744",
+        "AMOUNT": "3089.28"
+      },
+      {
+        "INVOICE_NO": "10264385",
+        "PO_NO": "1251288003",
+        "ITEM_NO": "141298541",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.25744",
+        "AMOUNT": "1029.76"
+      },
+      {
+        "INVOICE_NO": "10264385",
+        "PO_NO": "1251842003",
+        "ITEM_NO": "141298541",
+        "QTY": "8000",
+        "UNIT_PRICE": "0.25744",
+        "AMOUNT": "2059.52"
+      },
+      {
+        "INVOICE_NO": "10264385",
+        "PO_NO": "1251288004",
+        "ITEM_NO": "146057211",
+        "QTY": "1000",
+        "UNIT_PRICE": "1.72411",
+        "AMOUNT": "1724.11"
+      },
+      {
+        "INVOICE_NO": "10264385",
+        "PO_NO": "1251842005",
+        "ITEM_NO": "146057211",
+        "QTY": "4000",
+        "UNIT_PRICE": "1.72411",
+        "AMOUNT": "6896.44"
+      },
+      {
+        "INVOICE_NO": "10264385",
+        "PO_NO": "1251842006",
+        "ITEM_NO": "146057211",
+        "QTY": "1000",
+        "UNIT_PRICE": "1.72411",
+        "AMOUNT": "1724.11"
+      },
+      {
+        "INVOICE_NO": "10264385",
+        "PO_NO": "1252443004",
+        "ITEM_NO": "146057211",
+        "QTY": "1000",
+        "UNIT_PRICE": "1.72411",
+        "AMOUNT": "1724.11"
+      },
+      {
+        "INVOICE_NO": "10264385",
+        "PO_NO": "9094772019",
+        "ITEM_NO": "148133021",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.17882",
+        "AMOUNT": "715.28"
+      }
+    ]
+  },
+  {
+    "fileName": "25.TDK.xlsx",
+    "INVOICE_tag": "10264003",
+    "data": [
+      {
+        "INVOICE_NO": "10264003",
+        "PO_NO": "1245520007",
+        "ITEM_NO": "180203421",
+        "QTY": "10000",
+        "UNIT_PRICE": "0.43862",
+        "AMOUNT": "4386.2"
+      }
+    ]
+  },
+  {
+    "fileName": "26.TDK.xlsx",
+    "INVOICE_tag": "10264448",
+    "data": [
+      {
+        "INVOICE_NO": "10264448",
+        "PO_NO": "1252574003",
+        "ITEM_NO": "145513012",
+        "QTY": "1280",
+        "UNIT_PRICE": "303.6591",
+        "AMOUNT": "388683.65"
+      },
+      {
+        "INVOICE_NO": "10264448",
+        "PO_NO": "1252574003",
+        "ITEM_NO": "145513012",
+        "QTY": "1280",
+        "UNIT_PRICE": "303.6591",
+        "AMOUNT": "388683.65"
+      },
+      {
+        "INVOICE_NO": "10264448",
+        "PO_NO": "1253741001",
+        "ITEM_NO": "149230714",
+        "QTY": "1500",
+        "UNIT_PRICE": "112.18517",
+        "AMOUNT": "168277.76"
+      }
+    ]
+  },
+  {
+    "fileName": "27.TDK.xlsx",
+    "INVOICE_tag": "10264387",
+    "data": [
+      {
+        "INVOICE_NO": "10264387",
+        "PO_NO": "1250837001",
+        "ITEM_NO": "145512912",
+        "QTY": "1344",
+        "UNIT_PRICE": "303.6591",
+        "AMOUNT": "408117.83"
+      },
+      {
+        "INVOICE_NO": "10264387",
+        "PO_NO": "1251420001",
+        "ITEM_NO": "145512912",
+        "QTY": "1344",
+        "UNIT_PRICE": "303.6591",
+        "AMOUNT": "408117.83"
+      },
+      {
+        "INVOICE_NO": "10264387",
+        "PO_NO": "1251974002",
+        "ITEM_NO": "145513012",
+        "QTY": "1280",
+        "UNIT_PRICE": "303.6591",
+        "AMOUNT": "388683.65"
+      }
+    ]
+  },
+  {
+    "fileName": "28.TDK.xlsx",
+    "INVOICE_tag": "10264447",
+    "data": [
+      {
+        "INVOICE_NO": "10264447",
+        "PO_NO": "1251018003",
+        "ITEM_NO": "145796511",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.45549",
+        "AMOUNT": "1821.96"
+      },
+      {
+        "INVOICE_NO": "10264447",
+        "PO_NO": "9097412053",
+        "ITEM_NO": "180209021",
+        "QTY": "40000",
+        "UNIT_PRICE": "0.16195",
+        "AMOUNT": "6478"
+      },
+      {
+        "INVOICE_NO": "10264447",
+        "PO_NO": "1248319002",
+        "ITEM_NO": "180225121",
+        "QTY": "10000",
+        "UNIT_PRICE": "0.16195",
+        "AMOUNT": "1619.5"
+      },
+      {
+        "INVOICE_NO": "10264447",
+        "PO_NO": "1246120008",
+        "ITEM_NO": "181235911",
+        "QTY": "15000",
+        "UNIT_PRICE": "0.10797",
+        "AMOUNT": "1619.55"
+      },
+      {
+        "INVOICE_NO": "10264447",
+        "PO_NO": "1254683002",
+        "ITEM_NO": "181246011",
+        "QTY": "15000",
+        "UNIT_PRICE": "0.10797",
+        "AMOUNT": "1619.55"
+      }
+    ]
+  },
+  {
+    "fileName": "29.TDK.xlsx",
+    "INVOICE_tag": "10264057",
+    "data": [
+      {
+        "INVOICE_NO": "10264057",
+        "PO_NO": "1249291003",
+        "ITEM_NO": "100485011",
+        "QTY": "24000",
+        "UNIT_PRICE": "0.59787",
+        "AMOUNT": "14348.88"
+      },
+      {
+        "INVOICE_NO": "10264057",
+        "PO_NO": "1249291004",
+        "ITEM_NO": "100485011",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.59787",
+        "AMOUNT": "2391.48"
+      },
+      {
+        "INVOICE_NO": "10264057",
+        "PO_NO": "1249291004",
+        "ITEM_NO": "100485011",
+        "QTY": "8000",
+        "UNIT_PRICE": "0.59787",
+        "AMOUNT": "4782.96"
+      },
+      {
+        "INVOICE_NO": "10264057",
+        "PO_NO": "1248720002",
+        "ITEM_NO": "100485011",
+        "QTY": "32000",
+        "UNIT_PRICE": "0.59787",
+        "AMOUNT": "19131.84"
+      },
+      {
+        "INVOICE_NO": "10264057",
+        "PO_NO": "1249291005",
+        "ITEM_NO": "100485011",
+        "QTY": "128000",
+        "UNIT_PRICE": "0.59787",
+        "AMOUNT": "76527.36"
+      },
+      {
+        "INVOICE_NO": "10264057",
+        "PO_NO": "1250370001",
+        "ITEM_NO": "100485011",
+        "QTY": "40000",
+        "UNIT_PRICE": "0.59787",
+        "AMOUNT": "23914.8"
+      },
+      {
+        "INVOICE_NO": "10264057",
+        "PO_NO": "1250935001",
+        "ITEM_NO": "100485011",
+        "QTY": "76000",
+        "UNIT_PRICE": "0.59787",
+        "AMOUNT": "45438.12"
+      }
+    ]
+  },
+  {
+    "fileName": "3.TDK.xlsx",
+    "INVOICE_tag": "10264190",
+    "data": [
+      {
+        "INVOICE_NO": "10264190",
+        "PO_NO": "1253777001",
+        "ITEM_NO": "147158511",
+        "QTY": "2880",
+        "UNIT_PRICE": "10.97896",
+        "AMOUNT": "31619.4"
+      },
+      {
+        "INVOICE_NO": "10264190",
+        "PO_NO": "1254356001",
+        "ITEM_NO": "147158511",
+        "QTY": "2880",
+        "UNIT_PRICE": "10.97896",
+        "AMOUNT": "31619.4"
+      },
+      {
+        "INVOICE_NO": "10264190",
+        "PO_NO": "1254356002",
+        "ITEM_NO": "147158511",
+        "QTY": "2880",
+        "UNIT_PRICE": "10.97896",
+        "AMOUNT": "31619.4"
+      }
+    ]
+  },
+  {
+    "fileName": "30.TDK.xlsx",
+    "INVOICE_tag": "10264445",
+    "data": [
+      {
+        "INVOICE_NO": "10264445",
+        "PO_NO": "1252544010",
+        "ITEM_NO": "181206111",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.53984",
+        "AMOUNT": "2159.36"
+      }
+    ]
+  },
+  {
+    "fileName": "4.TDK.xlsx",
+    "INVOICE_tag": "10264188",
+    "data": [
+      {
+        "INVOICE_NO": "10264188",
+        "PO_NO": "1247074003",
+        "ITEM_NO": "X25808691",
+        "QTY": "4500",
+        "UNIT_PRICE": "16.17153",
+        "AMOUNT": "72771.89"
+      },
+      {
+        "INVOICE_NO": "10264188",
+        "PO_NO": "1247074004",
+        "ITEM_NO": "X25808691",
+        "QTY": "4500",
+        "UNIT_PRICE": "16.17153",
+        "AMOUNT": "72771.89"
+      },
+      {
+        "INVOICE_NO": "10264188",
+        "PO_NO": "1247604002",
+        "ITEM_NO": "X25808691",
+        "QTY": "4500",
+        "UNIT_PRICE": "16.17153",
+        "AMOUNT": "72771.89"
+      },
+      {
+        "INVOICE_NO": "10264188",
+        "PO_NO": "1248103002",
+        "ITEM_NO": "X25808691",
+        "QTY": "4500",
+        "UNIT_PRICE": "16.17153",
+        "AMOUNT": "72771.89"
+      },
+      {
+        "INVOICE_NO": "10264188",
+        "PO_NO": "1248654002",
+        "ITEM_NO": "X25808691",
+        "QTY": "9000",
+        "UNIT_PRICE": "16.17153",
+        "AMOUNT": "145543.77"
+      }
+    ]
+  },
+  {
+    "fileName": "5.TDK.xlsx",
+    "INVOICE_tag": "10264191",
+    "data": [
+      {
+        "INVOICE_NO": "10264191",
+        "PO_NO": "1245985008",
+        "ITEM_NO": "X25887101",
+        "QTY": "1800",
+        "UNIT_PRICE": "78.81641",
+        "AMOUNT": "141869.54"
+      },
+      {
+        "INVOICE_NO": "10264191",
+        "PO_NO": "1247074005",
+        "ITEM_NO": "X25887101",
+        "QTY": "1200",
+        "UNIT_PRICE": "78.81641",
+        "AMOUNT": "94579.69"
+      },
+      {
+        "INVOICE_NO": "10264191",
+        "PO_NO": "1247074006",
+        "ITEM_NO": "X25887101",
+        "QTY": "1200",
+        "UNIT_PRICE": "78.81641",
+        "AMOUNT": "94579.69"
+      },
+      {
+        "INVOICE_NO": "10264191",
+        "PO_NO": "1247604004",
+        "ITEM_NO": "X25887101",
+        "QTY": "1800",
+        "UNIT_PRICE": "78.81641",
+        "AMOUNT": "141869.54"
+      },
+      {
+        "INVOICE_NO": "10264191",
+        "PO_NO": "1247604005",
+        "ITEM_NO": "X25887101",
+        "QTY": "1200",
+        "UNIT_PRICE": "78.81641",
+        "AMOUNT": "94579.69"
+      }
+    ]
+  },
+  {
+    "fileName": "6.TDK.xlsx",
+    "INVOICE_tag": "10264435",
+    "data": [
+      {
+        "INVOICE_NO": "10264435",
+        "PO_NO": "1238187002",
+        "ITEM_NO": "101136011",
+        "QTY": "24000",
+        "UNIT_PRICE": "3.71139",
+        "AMOUNT": "89073.36"
+      }
+    ]
+  },
+  {
+    "fileName": "7.TDK.xlsx",
+    "INVOICE_tag": "10264449",
+    "data": [
+      {
+        "INVOICE_NO": "10264449",
+        "PO_NO": "1238187004",
+        "ITEM_NO": "101136211",
+        "QTY": "20000",
+        "UNIT_PRICE": "0.32053",
+        "AMOUNT": "6410.6"
+      },
+      {
+        "INVOICE_NO": "10264449",
+        "PO_NO": "1238187004",
+        "ITEM_NO": "101136211",
+        "QTY": "28000",
+        "UNIT_PRICE": "0.32053",
+        "AMOUNT": "8974.84"
+      },
+      {
+        "INVOICE_NO": "10264449",
+        "PO_NO": "1238187004",
+        "ITEM_NO": "101136211",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.32053",
+        "AMOUNT": "1282.12"
+      },
+      {
+        "INVOICE_NO": "10264449",
+        "PO_NO": "1233736018",
+        "ITEM_NO": "148292011",
+        "QTY": "8000",
+        "UNIT_PRICE": "0.31378",
+        "AMOUNT": "2510.24"
+      },
+      {
+        "INVOICE_NO": "10264449",
+        "PO_NO": "1233736018",
+        "ITEM_NO": "148292011",
+        "QTY": "20000",
+        "UNIT_PRICE": "0.31378",
+        "AMOUNT": "6275.6"
+      }
+    ]
+  },
+  {
+    "fileName": "8.TDK.xlsx",
+    "INVOICE_tag": "10264425",
+    "data": [
+      {
+        "INVOICE_NO": "10264425",
+        "PO_NO": "1244631001",
+        "ITEM_NO": "100272311",
+        "QTY": "45000",
+        "UNIT_PRICE": "0.6748",
+        "AMOUNT": "30366"
+      }
+    ]
+  },
+  {
+    "fileName": "9.TDK.xlsx",
+    "INVOICE_tag": "10264436",
+    "data": [
+      {
+        "INVOICE_NO": "10264436",
+        "PO_NO": "1252443006",
+        "ITEM_NO": "148220011",
+        "QTY": "1000",
+        "UNIT_PRICE": "1.72748",
+        "AMOUNT": "1727.48"
+      }
+    ]
+  },
+  {
+    "fileName": "TDK THAILAND (1) (3).xlsx",
+    "INVOICE_tag": "10257139",
+    "data": [
+      {
+        "INVOICE_NO": "10257139",
+        "PO_NO": "1225248001",
+        "ITEM_NO": "101333511",
+        "QTY": "12029",
+        "UNIT_PRICE": "293.47674",
+        "AMOUNT": "3530231.71"
+      }
+    ]
+  },
+  {
+    "fileName": "TDK THAILAND (1).xlsx",
+    "INVOICE_tag": "10257139",
+    "data": [
+      {
+        "INVOICE_NO": "10257139",
+        "PO_NO": "1225248001",
+        "ITEM_NO": "101333511",
+        "QTY": "12029",
+        "UNIT_PRICE": "293.47674",
+        "AMOUNT": "3530231.71"
+      }
+    ]
+  },
+  {
+    "fileName": "TDK THAILAND (2) (16).xlsx",
+    "INVOICE_tag": "10254925",
+    "data": [
+      {
+        "INVOICE_NO": "10254925",
+        "PO_NO": "9092199001",
+        "ITEM_NO": "100630511",
+        "QTY": "20064",
+        "UNIT_PRICE": "179.04608",
+        "AMOUNT": "3592380.55"
+      }
+    ]
+  },
+  {
+    "fileName": "TDK THAILAND (2).xlsx",
+    "INVOICE_tag": "10254925",
+    "data": [
+      {
+        "INVOICE_NO": "10254925",
+        "PO_NO": "9092199001",
+        "ITEM_NO": "100630511",
+        "QTY": "20064",
+        "UNIT_PRICE": "179.04608",
+        "AMOUNT": "3592380.55"
+      }
+    ]
+  }
+]

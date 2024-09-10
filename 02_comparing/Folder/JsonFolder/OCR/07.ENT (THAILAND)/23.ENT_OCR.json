@@ -1,0 +1,28 @@
+[
+  {
+    "INVOICE_NO": "41/89",
+    "ITEM_NO": "1",
+    "QTY": 5000,
+    "UNIT_PRICE": 2.9774,
+    "AMOUNT": 14887,
+    "% Confidence": 0.8290571732954546,
+    "filename": "23.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 5000,
+    "UNIT_PRICE": 2.9774,
+    "AMOUNT": 14887,
+    "% Confidence": 0.6627160274621212,
+    "filename": "23.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "ITEM_NO": "3",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.21492,
+    "AMOUNT": 2149.2,
+    "% Confidence": 0.828161991003788,
+    "filename": "23.ENT.json"
+  }
+]

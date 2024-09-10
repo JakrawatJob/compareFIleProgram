@@ -1,0 +1,74 @@
+[
+  {
+    "INVOICE_NO": "DY233888",
+    "PO_NO": "1256810049",
+    "ITEM_NO": "502251201",
+    "QTY": 905,
+    "UNIT_PRICE": 1.5316,
+    "AMOUNT": 1386.1
+  },
+  {
+    "INVOICE_NO": "DY233888",
+    "PO_NO": "1256810050",
+    "ITEM_NO": "502251201",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.5316,
+    "AMOUNT": 1531.6
+  },
+  {
+    "INVOICE_NO": "DY233888",
+    "PO_NO": "1257419047",
+    "ITEM_NO": "502251201",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.5316,
+    "AMOUNT": 1531.6
+  },
+  {
+    "INVOICE_NO": "DY233888",
+    "PO_NO": "1257419048",
+    "ITEM_NO": "502251201",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.5316,
+    "AMOUNT": 1531.6
+  },
+  {
+    "INVOICE_NO": "DY233888",
+    "PO_NO": "1257419049",
+    "ITEM_NO": "502251201",
+    "QTY": 120,
+    "UNIT_PRICE": 1.5316,
+    "AMOUNT": 183.79
+  },
+  {
+    "INVOICE_NO": "DY233888",
+    "PO_NO": "1256810052",
+    "ITEM_NO": "502251301",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.5091,
+    "AMOUNT": 1509.1
+  },
+  {
+    "INVOICE_NO": "DY233888",
+    "PO_NO": "1257419050",
+    "ITEM_NO": "502251301",
+    "QTY": 2000,
+    "UNIT_PRICE": 1.5091,
+    "AMOUNT": 3018.2
+  },
+  {
+    "INVOICE_NO": "DY233888",
+    "PO_NO": "1256810054",
+    "ITEM_NO": "502251401",
+    "QTY": 850,
+    "UNIT_PRICE": 1.5601,
+    "AMOUNT": 1326.09
+  },
+  {
+    "INVOICE_NO": "DY233888",
+    "PO_NO": "1257419052",
+    "ITEM_NO": "502251401",
+    "QTY": 1175,
+    "UNIT_PRICE": 1.5601,
+    "AMOUNT": 1833.12
+  }
+]

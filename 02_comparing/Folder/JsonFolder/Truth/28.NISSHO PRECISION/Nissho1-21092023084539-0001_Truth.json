@@ -1,0 +1,34 @@
+[
+  {
+    "INVOICE_NO": "L23090629",
+    "PO_NO": "1254386049",
+    "ITEM_NO": "503624301",
+    "QTY": 4000,
+    "UNIT_PRICE": 1.524,
+    "AMOUNT": 6096
+  },
+  {
+    "INVOICE_NO": "L23090629",
+    "PO_NO": "1254386050",
+    "ITEM_NO": "503624301",
+    "QTY": 2000,
+    "UNIT_PRICE": 1.524,
+    "AMOUNT": 3048
+  },
+  {
+    "INVOICE_NO": "L23090629",
+    "PO_NO": "1254969069",
+    "ITEM_NO": "503623601",
+    "QTY": 2000,
+    "UNIT_PRICE": 1.464,
+    "AMOUNT": 2928
+  },
+  {
+    "INVOICE_NO": "L23090629",
+    "PO_NO": "1254969070",
+    "ITEM_NO": "503623601",
+    "QTY": 2000,
+    "UNIT_PRICE": 1.464,
+    "AMOUNT": 2928
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "INVOICE_NO": "DY233889",
+    "PO_NO": "1256810055",
+    "ITEM_NO": "502251501",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.3238,
+    "AMOUNT": 647.6,
+    "% Confidence": 0.9979654947916666,
+    "filename": "08 Vel8-20092023084804-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233889",
+    "PO_NO": "1256810056",
+    "ITEM_NO": "502251501",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.3238,
+    "AMOUNT": 647.6,
+    "% Confidence": 0.9983723958333334,
+    "filename": "08 Vel8-20092023084804-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233889",
+    "PO_NO": "1257419054",
+    "ITEM_NO": "502251501",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.3238,
+    "AMOUNT": 647.6,
+    "% Confidence": 0.9986979166666666,
+    "filename": "08 Vel8-20092023084804-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233889",
+    "PO_NO": "1256810058",
+    "ITEM_NO": "502251601",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.6379,
+    "AMOUNT": 1637.9,
+    "% Confidence": 0.997802734375,
+    "filename": "08 Vel8-20092023084804-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233889",
+    "PO_NO": "1257419057",
+    "ITEM_NO": "502251601",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.6379,
+    "AMOUNT": 1637.9,
+    "% Confidence": 0.9984537760416666,
+    "filename": "08 Vel8-20092023084804-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233889",
+    "PO_NO": "1257419058",
+    "ITEM_NO": "502251601",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.6379,
+    "AMOUNT": 1637.9,
+    "% Confidence": 0.997802734375,
+    "filename": "08 Vel8-20092023084804-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233889",
+    "PO_NO": "1254971044",
+    "ITEM_NO": "504275701",
+    "QTY": 801,
+    "UNIT_PRICE": 0.3338,
+    "AMOUNT": 267.37,
+    "% Confidence": 0.998779296875,
+    "filename": "08 Vel8-20092023084804-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233889",
+    "PO_NO": "1257419061",
+    "ITEM_NO": "504275701",
+    "QTY": 3199,
+    "UNIT_PRICE": 0.3338,
+    "AMOUNT": 8191.7,
+    "% Confidence": 0.93154296875,
+    "filename": "08 Vel8-20092023084804-0001.json"
+  }
+]

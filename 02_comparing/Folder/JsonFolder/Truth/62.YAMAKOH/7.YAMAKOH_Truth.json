@@ -1,0 +1,114 @@
+[
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1253503002",
+    "ITEM_NO": "443873403",
+    "QTY": 1920,
+    "UNIT_PRICE": 1.3806,
+    "AMOUNT": 2650.75
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1253936002",
+    "ITEM_NO": "443873403",
+    "QTY": 960,
+    "UNIT_PRICE": 1.3806,
+    "AMOUNT": 1325.38
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1253936003",
+    "ITEM_NO": "443873403",
+    "QTY": 4800,
+    "UNIT_PRICE": 1.3806,
+    "AMOUNT": 6626.88
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1253936004",
+    "ITEM_NO": "443873403",
+    "QTY": 2880,
+    "UNIT_PRICE": 1.3806,
+    "AMOUNT": 3976.13
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1254501008",
+    "ITEM_NO": "448079503",
+    "QTY": 4173,
+    "UNIT_PRICE": 1.019,
+    "AMOUNT": 4252.29
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1255111010",
+    "ITEM_NO": "448079503",
+    "QTY": 3827,
+    "UNIT_PRICE": 1.019,
+    "AMOUNT": 3899.71
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1253936011",
+    "ITEM_NO": "448787501",
+    "QTY": 14000,
+    "UNIT_PRICE": 1.1965,
+    "AMOUNT": 16751
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1255538001",
+    "ITEM_NO": "454755802",
+    "QTY": 640,
+    "UNIT_PRICE": 78.2148,
+    "AMOUNT": 50057.47
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1255538002",
+    "ITEM_NO": "454755802",
+    "QTY": 40,
+    "UNIT_PRICE": 78.2148,
+    "AMOUNT": 3128.59
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1253362013",
+    "ITEM_NO": "459920801",
+    "QTY": 1800,
+    "UNIT_PRICE": 1.5639,
+    "AMOUNT": 2815.02
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1253936014",
+    "ITEM_NO": "459920801",
+    "QTY": 900,
+    "UNIT_PRICE": 1.5639,
+    "AMOUNT": 1407.51
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1253936015",
+    "ITEM_NO": "474502701",
+    "QTY": 3000,
+    "UNIT_PRICE": 1.3457,
+    "AMOUNT": 4037.1
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1253936016",
+    "ITEM_NO": "500294602",
+    "QTY": 5600,
+    "UNIT_PRICE": 1.5443,
+    "AMOUNT": 8648.08
+  },
+  {
+    "INVOICE_NO": "IV-23080216",
+    "PO_NO": "1253529001",
+    "ITEM_NO": "500526502",
+    "QTY": 480,
+    "UNIT_PRICE": 5.4206,
+    "AMOUNT": 2601.89
+  }
+]

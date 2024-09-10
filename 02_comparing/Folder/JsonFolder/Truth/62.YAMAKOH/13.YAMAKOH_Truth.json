@@ -1,0 +1,42 @@
+[
+  {
+    "INVOICE_NO": "IV-23080247",
+    "PO_NO": "1253936061",
+    "ITEM_NO": "X50019522",
+    "QTY": 300,
+    "UNIT_PRICE": 39.6469,
+    "AMOUNT": 11894.07
+  },
+  {
+    "INVOICE_NO": "IV-23080247",
+    "PO_NO": "1253362062",
+    "ITEM_NO": "X50029891",
+    "QTY": 400,
+    "UNIT_PRICE": 11.1247,
+    "AMOUNT": 4449.88
+  },
+  {
+    "INVOICE_NO": "IV-23080247",
+    "PO_NO": "1254501052",
+    "ITEM_NO": "X50038851",
+    "QTY": 800,
+    "UNIT_PRICE": 1211.931,
+    "AMOUNT": 969544.8
+  },
+  {
+    "INVOICE_NO": "IV-23080247",
+    "PO_NO": "1253936007",
+    "ITEM_NO": "443873431",
+    "QTY": 558,
+    "UNIT_PRICE": 2.6079,
+    "AMOUNT": 1455.21
+  },
+  {
+    "INVOICE_NO": "IV-23080247",
+    "PO_NO": "1253936008",
+    "ITEM_NO": "443873431",
+    "QTY": 402,
+    "UNIT_PRICE": 2.6079,
+    "AMOUNT": 1048.38
+  }
+]

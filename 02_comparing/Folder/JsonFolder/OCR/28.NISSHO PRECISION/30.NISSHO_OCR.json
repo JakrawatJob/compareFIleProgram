@@ -1,0 +1,72 @@
+[
+  {
+    "INVOICE_NO": "L23090359",
+    "PO_NO": "1256743087",
+    "ITEM_NO": "503439711",
+    "QTY": 2000,
+    "UNIT_PRICE": 1.67,
+    "AMOUNT": 3340,
+    "% Confidence": 0.9970703125,
+    "filename": "30.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090359",
+    "PO_NO": "1256743088",
+    "ITEM_NO": "503439711",
+    "QTY": 2000,
+    "UNIT_PRICE": 1.67,
+    "AMOUNT": 3340,
+    "% Confidence": 0.9979654947916666,
+    "filename": "30.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090359",
+    "PO_NO": "1255110138",
+    "ITEM_NO": "505271001",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.55,
+    "AMOUNT": 5500,
+    "% Confidence": 0.997314453125,
+    "filename": "30.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090359",
+    "PO_NO": "1256309049",
+    "ITEM_NO": "500068101",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.3386,
+    "AMOUNT": 338.6,
+    "% Confidence": 0.996337890625,
+    "filename": "30.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090359",
+    "PO_NO": "1256948037",
+    "ITEM_NO": "500068101",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.3386,
+    "AMOUNT": 338.6,
+    "% Confidence": 0.9972330729166666,
+    "filename": "30.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090359",
+    "PO_NO": "1256309078",
+    "ITEM_NO": "501904001",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.6773,
+    "AMOUNT": 1354.6,
+    "% Confidence": 0.9969075520833334,
+    "filename": "30.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090359",
+    "PO_NO": "1256743081",
+    "ITEM_NO": "502654401",
+    "QTY": 1000,
+    "UNIT_PRICE": 3,
+    "AMOUNT": 1204.83,
+    "% Confidence": 0.930810546875,
+    "filename": "30.NISSHO.json"
+  }
+]

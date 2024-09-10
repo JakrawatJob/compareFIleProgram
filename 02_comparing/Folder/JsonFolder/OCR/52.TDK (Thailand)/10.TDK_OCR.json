@@ -1,0 +1,12 @@
+[
+  {
+    "INVOICE_NO": "10264423",
+    "PO_NO": "1247009006",
+    "ITEM_NO": "100155211",
+    "QTY": 6000,
+    "UNIT_PRICE": 9.95327,
+    "AMOUNT": 59719.62,
+    "% Confidence": 0.996337890625,
+    "filename": "10.TDK.json"
+  }
+]

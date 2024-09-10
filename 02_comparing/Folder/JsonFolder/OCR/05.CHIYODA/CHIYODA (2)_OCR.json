@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "SI1000292553",
+    "PO_NO": "1227459006",
+    "ITEM_NO": "503098401",
+    "QTY": 15000,
+    "UNIT_PRICE": 1.8369,
+    "AMOUNT": 27553.5,
+    "% Confidence": 0.9986165364583334,
+    "filename": "CHIYODA (2).json"
+  },
+  {
+    "INVOICE_NO": "SI1000292553",
+    "PO_NO": "1227927003",
+    "ITEM_NO": "503098401",
+    "QTY": 5000,
+    "UNIT_PRICE": 1.8369,
+    "AMOUNT": 9184.5,
+    "% Confidence": 0.9986165364583334,
+    "filename": "CHIYODA (2).json"
+  }
+]

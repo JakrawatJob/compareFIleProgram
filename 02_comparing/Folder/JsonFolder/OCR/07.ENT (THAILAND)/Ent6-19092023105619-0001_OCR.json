@@ -1,0 +1,82 @@
+[
+  {
+    "INVOICE_NO": "E2309368",
+    "PO_NO": "1256816040",
+    "ITEM_NO": "430011501",
+    "QTY": 35000,
+    "UNIT_PRICE": 0.08954,
+    "AMOUNT": 3133.9,
+    "% Confidence": 0.9984537760416666,
+    "filename": "Ent6-19092023105619-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309368",
+    "PO_NO": "1257425039",
+    "ITEM_NO": "430011501",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.08954,
+    "AMOUNT": 895.4,
+    "% Confidence": 0.998291015625,
+    "filename": "Ent6-19092023105619-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309368",
+    "PO_NO": "1257425040",
+    "ITEM_NO": "430011501",
+    "QTY": 40000,
+    "UNIT_PRICE": 0.08954,
+    "AMOUNT": 3581.6,
+    "% Confidence": 0.9981282552083334,
+    "filename": "Ent6-19092023105619-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309368",
+    "PO_NO": "1257425042",
+    "ITEM_NO": "430011511",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.06756,
+    "AMOUNT": 675.6,
+    "% Confidence": 0.9983723958333334,
+    "filename": "Ent6-19092023105619-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309368",
+    "PO_NO": "1257425043",
+    "ITEM_NO": "430011511",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.06756,
+    "AMOUNT": 337.8,
+    "% Confidence": 0.998291015625,
+    "filename": "Ent6-19092023105619-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309368",
+    "PO_NO": "1257425044",
+    "ITEM_NO": "430011521",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.06787,
+    "AMOUNT": 678.7,
+    "% Confidence": 0.9990234375,
+    "filename": "Ent6-19092023105619-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309368",
+    "PO_NO": "1257425045",
+    "ITEM_NO": "430011521",
+    "QTY": 50000,
+    "UNIT_PRICE": 0.06787,
+    "AMOUNT": 3393.5,
+    "% Confidence": 0.9988606770833334,
+    "filename": "Ent6-19092023105619-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309368",
+    "PO_NO": "1257425046",
+    "ITEM_NO": "430011521",
+    "QTY": 55000,
+    "UNIT_PRICE": 0.06787,
+    "AMOUNT": 3732.85,
+    "% Confidence": 0.9986979166666666,
+    "filename": "Ent6-19092023105619-0001.json"
+  }
+]

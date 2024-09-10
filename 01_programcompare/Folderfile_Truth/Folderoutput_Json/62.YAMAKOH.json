@@ -1,0 +1,3230 @@
+[
+  {
+    "fileName": "1.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080192",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "1253362018",
+        "ITEM_NO": "500367201",
+        "QTY": "108",
+        "UNIT_PRICE": "1.0346",
+        "AMOUNT": "111.74"
+      },
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "1253936018",
+        "ITEM_NO": "500367201",
+        "QTY": "2892",
+        "UNIT_PRICE": "1.0346",
+        "AMOUNT": "2992.06"
+      },
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "1253362019",
+        "ITEM_NO": "500389901",
+        "QTY": "3000",
+        "UNIT_PRICE": "1.5834",
+        "AMOUNT": "4750.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "1250467026",
+        "ITEM_NO": "500423402",
+        "QTY": "900",
+        "UNIT_PRICE": "1.5413",
+        "AMOUNT": "1387.17"
+      },
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "1253529001",
+        "ITEM_NO": "500526502",
+        "QTY": "720",
+        "UNIT_PRICE": "5.4206",
+        "AMOUNT": "3902.83"
+      },
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "1251202004",
+        "ITEM_NO": "500526902",
+        "QTY": "4000",
+        "UNIT_PRICE": "4.6784",
+        "AMOUNT": "18713.6"
+      },
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "1252362001",
+        "ITEM_NO": "500526902",
+        "QTY": "4000",
+        "UNIT_PRICE": "4.6784",
+        "AMOUNT": "18713.6"
+      },
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "9099927001",
+        "ITEM_NO": "500527302",
+        "QTY": "800",
+        "UNIT_PRICE": "4.9988",
+        "AMOUNT": "3999.04"
+      },
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "1250634002",
+        "ITEM_NO": "500528502",
+        "QTY": "750",
+        "UNIT_PRICE": "6.7827",
+        "AMOUNT": "5087.03"
+      },
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "1253362021",
+        "ITEM_NO": "502248702",
+        "QTY": "900",
+        "UNIT_PRICE": "4.1422",
+        "AMOUNT": "3727.98"
+      },
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "1252954003",
+        "ITEM_NO": "502260601",
+        "QTY": "640",
+        "UNIT_PRICE": "15.4375",
+        "AMOUNT": "9880"
+      },
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "1252954004",
+        "ITEM_NO": "502260701",
+        "QTY": "180",
+        "UNIT_PRICE": "19.7509",
+        "AMOUNT": "3555.16"
+      },
+      {
+        "INVOICE_NO": "IV-23080192",
+        "PO_NO": "1251771002",
+        "ITEM_NO": "502260701",
+        "QTY": "540",
+        "UNIT_PRICE": "19.7509",
+        "AMOUNT": "10665.49"
+      }
+    ]
+  },
+  {
+    "fileName": "10.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080231",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1252641020",
+        "ITEM_NO": "503610401",
+        "QTY": "900",
+        "UNIT_PRICE": "11.1732",
+        "AMOUNT": "10055.88"
+      },
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1253362023",
+        "ITEM_NO": "503652701",
+        "QTY": "400",
+        "UNIT_PRICE": "4.9228",
+        "AMOUNT": "1969.12"
+      },
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1251614042",
+        "ITEM_NO": "504642901",
+        "QTY": "900",
+        "UNIT_PRICE": "2.7622",
+        "AMOUNT": "2485.98"
+      },
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1251614043",
+        "ITEM_NO": "504644601",
+        "QTY": "900",
+        "UNIT_PRICE": "2.9048",
+        "AMOUNT": "2614.32"
+      },
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1251614044",
+        "ITEM_NO": "504644701",
+        "QTY": "900",
+        "UNIT_PRICE": "2.5987",
+        "AMOUNT": "2338.83"
+      },
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1251614045",
+        "ITEM_NO": "504644801",
+        "QTY": "900",
+        "UNIT_PRICE": "3.186",
+        "AMOUNT": "2867.4"
+      },
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1251614046",
+        "ITEM_NO": "504644901",
+        "QTY": "900",
+        "UNIT_PRICE": "3.3512",
+        "AMOUNT": "3016.08"
+      },
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1251614047",
+        "ITEM_NO": "504645001",
+        "QTY": "900",
+        "UNIT_PRICE": "2.8061",
+        "AMOUNT": "2525.49"
+      },
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1251614048",
+        "ITEM_NO": "504645101",
+        "QTY": "900",
+        "UNIT_PRICE": "2.6216",
+        "AMOUNT": "2359.44"
+      },
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1251614049",
+        "ITEM_NO": "504646101",
+        "QTY": "720",
+        "UNIT_PRICE": "2.6216",
+        "AMOUNT": "1887.55"
+      },
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1252185039",
+        "ITEM_NO": "504646701",
+        "QTY": "2800",
+        "UNIT_PRICE": "2.4108",
+        "AMOUNT": "6750.24"
+      },
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1251614050",
+        "ITEM_NO": "504649801",
+        "QTY": "900",
+        "UNIT_PRICE": "2.5514",
+        "AMOUNT": "2296.26"
+      },
+      {
+        "INVOICE_NO": "IV-23080231",
+        "PO_NO": "1251614051",
+        "ITEM_NO": "504649901",
+        "QTY": "900",
+        "UNIT_PRICE": "2.8346",
+        "AMOUNT": "2551.14"
+      }
+    ]
+  },
+  {
+    "fileName": "11.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080230",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1253529001",
+        "ITEM_NO": "500626502",
+        "QTY": "240",
+        "UNIT_PRICE": "5.4206",
+        "AMOUNT": "1300.94"
+      },
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1252362001",
+        "ITEM_NO": "500526902",
+        "QTY": "4000",
+        "UNIT_PRICE": "4.6784",
+        "AMOUNT": "18713.6"
+      },
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1252362003",
+        "ITEM_NO": "500527302",
+        "QTY": "400",
+        "UNIT_PRICE": "4.9988",
+        "AMOUNT": "1999.52"
+      },
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1250634002",
+        "ITEM_NO": "500528502",
+        "QTY": "250",
+        "UNIT_PRICE": "6.7827",
+        "AMOUNT": "1695.68"
+      },
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1253362021",
+        "ITEM_NO": "502248702",
+        "QTY": "900",
+        "UNIT_PRICE": "4.1422",
+        "AMOUNT": "3727.98"
+      },
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1252954003",
+        "ITEM_NO": "502260601",
+        "QTY": "320",
+        "UNIT_PRICE": "15.4375",
+        "AMOUNT": "4940"
+      },
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1251771002",
+        "ITEM_NO": "502260701",
+        "QTY": "320",
+        "UNIT_PRICE": "19.7509",
+        "AMOUNT": "6320.29"
+      },
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1253362022",
+        "ITEM_NO": "502789601",
+        "QTY": "900",
+        "UNIT_PRICE": "1.9352",
+        "AMOUNT": "1741.68"
+      },
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1252185032",
+        "ITEM_NO": "502790701",
+        "QTY": "900",
+        "UNIT_PRICE": "2.3077",
+        "AMOUNT": "2076.93"
+      },
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1252185033",
+        "ITEM_NO": "502790801",
+        "QTY": "1200",
+        "UNIT_PRICE": "2.2128",
+        "AMOUNT": "2655.36"
+      },
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1251614038",
+        "ITEM_NO": "502794901",
+        "QTY": "1350",
+        "UNIT_PRICE": "3.2659",
+        "AMOUNT": "4408.97"
+      },
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1249386028",
+        "ITEM_NO": "503605501",
+        "QTY": "400",
+        "UNIT_PRICE": "2.7986",
+        "AMOUNT": "1119.44"
+      },
+      {
+        "INVOICE_NO": "IV-23080230",
+        "PO_NO": "1248250034",
+        "ITEM_NO": "503608701",
+        "QTY": "1200",
+        "UNIT_PRICE": "3.0609",
+        "AMOUNT": "3673.08"
+      }
+    ]
+  },
+  {
+    "fileName": "12.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080229",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1253936004",
+        "ITEM_NO": "443873403",
+        "QTY": "960",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "1325.38"
+      },
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1253936005",
+        "ITEM_NO": "443873403",
+        "QTY": "1920",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "2650.75"
+      },
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1254078001",
+        "ITEM_NO": "443873403",
+        "QTY": "960",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "1325.38"
+      },
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1253936006",
+        "ITEM_NO": "443873431",
+        "QTY": "558",
+        "UNIT_PRICE": "2.6079",
+        "AMOUNT": "1455.21"
+      },
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1253936007",
+        "ITEM_NO": "443873431",
+        "QTY": "402",
+        "UNIT_PRICE": "2.6079",
+        "AMOUNT": "1048.38"
+      },
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1253936011",
+        "ITEM_NO": "448787501",
+        "QTY": "2564",
+        "UNIT_PRICE": "1.1965",
+        "AMOUNT": "3067.83"
+      },
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1253936012",
+        "ITEM_NO": "448787501",
+        "QTY": "5836",
+        "UNIT_PRICE": "1.1965",
+        "AMOUNT": "6982.77"
+      },
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1254734004",
+        "ITEM_NO": "455876502",
+        "QTY": "357",
+        "UNIT_PRICE": "31.6",
+        "AMOUNT": "11281.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1254734005",
+        "ITEM_NO": "455876502",
+        "QTY": "183",
+        "UNIT_PRICE": "31.6",
+        "AMOUNT": "5782.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1253936016",
+        "ITEM_NO": "500294602",
+        "QTY": "2800",
+        "UNIT_PRICE": "1.5443",
+        "AMOUNT": "4324.04"
+      },
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1253936019",
+        "ITEM_NO": "500389901",
+        "QTY": "3000",
+        "UNIT_PRICE": "1.5834",
+        "AMOUNT": "4750.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1250467026",
+        "ITEM_NO": "500423402",
+        "QTY": "420",
+        "UNIT_PRICE": "1.5413",
+        "AMOUNT": "647.35"
+      },
+      {
+        "INVOICE_NO": "IV-23080229",
+        "PO_NO": "1254501017",
+        "ITEM_NO": "500423402",
+        "QTY": "480",
+        "UNIT_PRICE": "1.5413",
+        "AMOUNT": "739.82"
+      }
+    ]
+  },
+  {
+    "fileName": "13.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080247",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080247",
+        "PO_NO": "1253936061",
+        "ITEM_NO": "X50019522",
+        "QTY": "300",
+        "UNIT_PRICE": "39.6469",
+        "AMOUNT": "11894.07"
+      },
+      {
+        "INVOICE_NO": "IV-23080247",
+        "PO_NO": "1253362062",
+        "ITEM_NO": "X50029891",
+        "QTY": "400",
+        "UNIT_PRICE": "11.1247",
+        "AMOUNT": "4449.88"
+      },
+      {
+        "INVOICE_NO": "IV-23080247",
+        "PO_NO": "1254501052",
+        "ITEM_NO": "X50038851",
+        "QTY": "800",
+        "UNIT_PRICE": "1211.931",
+        "AMOUNT": "969544.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080247",
+        "PO_NO": "1253936007",
+        "ITEM_NO": "443873431",
+        "QTY": "558",
+        "UNIT_PRICE": "2.6079",
+        "AMOUNT": "1455.21"
+      },
+      {
+        "INVOICE_NO": "IV-23080247",
+        "PO_NO": "1253936008",
+        "ITEM_NO": "443873431",
+        "QTY": "402",
+        "UNIT_PRICE": "2.6079",
+        "AMOUNT": "1048.38"
+      }
+    ]
+  },
+  {
+    "fileName": "14.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080246",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1253362039",
+        "ITEM_NO": "505274301",
+        "QTY": "800",
+        "UNIT_PRICE": "3.1938",
+        "AMOUNT": "2555.04"
+      },
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1253362041",
+        "ITEM_NO": "5074501",
+        "QTY": "900",
+        "UNIT_PRICE": "1.8093",
+        "AMOUNT": "1628.37"
+      },
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1253362043",
+        "ITEM_NO": "505277801",
+        "QTY": "900",
+        "UNIT_PRICE": "1.967",
+        "AMOUNT": "1770.3"
+      },
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1253936052",
+        "ITEM_NO": "X25917971",
+        "QTY": "800",
+        "UNIT_PRICE": "5.0485",
+        "AMOUNT": "4038.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1253362053",
+        "ITEM_NO": "X25919321",
+        "QTY": "2000",
+        "UNIT_PRICE": "4.448",
+        "AMOUNT": "8896"
+      },
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1254915007",
+        "ITEM_NO": "X25923402",
+        "QTY": "225",
+        "UNIT_PRICE": "17.4938",
+        "AMOUNT": "3936.11"
+      },
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1255538005",
+        "ITEM_NO": "X25923402",
+        "QTY": "975",
+        "UNIT_PRICE": "17.4938",
+        "AMOUNT": "17065.46"
+      },
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1254915009",
+        "ITEM_NO": "X25930201",
+        "QTY": "137",
+        "UNIT_PRICE": "9.2645",
+        "AMOUNT": "1269.24"
+      },
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1254915010",
+        "ITEM_NO": "X25930201",
+        "QTY": "13",
+        "UNIT_PRICE": "9.2645",
+        "AMOUNT": "120.44"
+      },
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1253936057",
+        "ITEM_NO": "X25945931",
+        "QTY": "400",
+        "UNIT_PRICE": "37.2445",
+        "AMOUNT": "14897.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1252786064",
+        "ITEM_NO": "X50004464",
+        "QTY": "225",
+        "UNIT_PRICE": "75.025",
+        "AMOUNT": "16880.63"
+      },
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1253936060",
+        "ITEM_NO": "X50009261",
+        "QTY": "800",
+        "UNIT_PRICE": "29.9303",
+        "AMOUNT": "23944.24"
+      },
+      {
+        "INVOICE_NO": "IV-23080246",
+        "PO_NO": "1254501048",
+        "ITEM_NO": "X50009261",
+        "QTY": "800",
+        "UNIT_PRICE": "29.9303",
+        "AMOUNT": "23944.24"
+      }
+    ]
+  },
+  {
+    "fileName": "15.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080245",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1251614045",
+        "ITEM_NO": "504644801",
+        "QTY": "900",
+        "UNIT_PRICE": "3.186",
+        "AMOUNT": "2867.4"
+      },
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1251614046",
+        "ITEM_NO": "504644901",
+        "QTY": "900",
+        "UNIT_PRICE": "3.3512",
+        "AMOUNT": "3016.08"
+      },
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1251614047",
+        "ITEM_NO": "504645001",
+        "QTY": "900",
+        "UNIT_PRICE": "2.8061",
+        "AMOUNT": "2525.49"
+      },
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1251614049",
+        "ITEM_NO": "504646101",
+        "QTY": "360",
+        "UNIT_PRICE": "2.6216",
+        "AMOUNT": "943.78"
+      },
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1251614050",
+        "ITEM_NO": "504649801",
+        "QTY": "900",
+        "UNIT_PRICE": "2.5514",
+        "AMOUNT": "2296.26"
+      },
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1251614051",
+        "ITEM_NO": "504649901",
+        "QTY": "900",
+        "UNIT_PRICE": "2.8346",
+        "AMOUNT": "2551.14"
+      },
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1251614052",
+        "ITEM_NO": "504650901",
+        "QTY": "720",
+        "UNIT_PRICE": "3.53",
+        "AMOUNT": "2541.6"
+      },
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1253362027",
+        "ITEM_NO": "505269201",
+        "QTY": "900",
+        "UNIT_PRICE": "1.953",
+        "AMOUNT": "1757.7"
+      },
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1253362029",
+        "ITEM_NO": "505270801",
+        "QTY": "1200",
+        "UNIT_PRICE": "4.8299",
+        "AMOUNT": "5795.88"
+      },
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1253362031",
+        "ITEM_NO": "505270901",
+        "QTY": "720",
+        "UNIT_PRICE": "1.9927",
+        "AMOUNT": "1434.74"
+      },
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1253362033",
+        "ITEM_NO": "505271801",
+        "QTY": "720",
+        "UNIT_PRICE": "2.2197",
+        "AMOUNT": "1598.18"
+      },
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1253362035",
+        "ITEM_NO": "505271901",
+        "QTY": "720",
+        "UNIT_PRICE": "2.2996",
+        "AMOUNT": "1655.71"
+      },
+      {
+        "INVOICE_NO": "IV-23080245",
+        "PO_NO": "1253362037",
+        "ITEM_NO": "505272301",
+        "QTY": "900",
+        "UNIT_PRICE": "2.0335",
+        "AMOUNT": "1830.15"
+      }
+    ]
+  },
+  {
+    "fileName": "16.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080244",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1251614038",
+        "ITEM_NO": "503794901",
+        "QTY": "900",
+        "UNIT_PRICE": "3.2659",
+        "AMOUNT": "2939.31"
+      },
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1252786027",
+        "ITEM_NO": "503604401",
+        "QTY": "900",
+        "UNIT_PRICE": "2.298",
+        "AMOUNT": "2068.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1252786028",
+        "ITEM_NO": "503604901",
+        "QTY": "900",
+        "UNIT_PRICE": "2.4395",
+        "AMOUNT": "2195.55"
+      },
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1249386028",
+        "ITEM_NO": "503605501",
+        "QTY": "1200",
+        "UNIT_PRICE": "2.7986",
+        "AMOUNT": "3358.32"
+      },
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1252641017",
+        "ITEM_NO": "503608701",
+        "QTY": "1200",
+        "UNIT_PRICE": "3.0609",
+        "AMOUNT": "3673.08"
+      },
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1252641018",
+        "ITEM_NO": "503610201",
+        "QTY": "900",
+        "UNIT_PRICE": "11.3969",
+        "AMOUNT": "10257.21"
+      },
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1254501035",
+        "ITEM_NO": "503610301",
+        "QTY": "900",
+        "UNIT_PRICE": "11.4425",
+        "AMOUNT": "10298.25"
+      },
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1252641020",
+        "ITEM_NO": "503610401",
+        "QTY": "900",
+        "UNIT_PRICE": "11.1732",
+        "AMOUNT": "10055.88"
+      },
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1252641021",
+        "ITEM_NO": "503610501",
+        "QTY": "900",
+        "UNIT_PRICE": "11.0455",
+        "AMOUNT": "9940.95"
+      },
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1253362023",
+        "ITEM_NO": "503652701",
+        "QTY": "400",
+        "UNIT_PRICE": "4.9228",
+        "AMOUNT": "1969.12"
+      },
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1251614042",
+        "ITEM_NO": "504642901",
+        "QTY": "900",
+        "UNIT_PRICE": "2.7622",
+        "AMOUNT": "2485.98"
+      },
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1251614043",
+        "ITEM_NO": "504644601",
+        "QTY": "900",
+        "UNIT_PRICE": "2.9048",
+        "AMOUNT": "2614.32"
+      },
+      {
+        "INVOICE_NO": "IV-23080244",
+        "PO_NO": "1251614044",
+        "ITEM_NO": "504644701",
+        "QTY": "900",
+        "UNIT_PRICE": "2.5987",
+        "AMOUNT": "2338.83"
+      }
+    ]
+  },
+  {
+    "fileName": "17.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080243",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1250634002",
+        "ITEM_NO": "500528502",
+        "QTY": "250",
+        "UNIT_PRICE": "6.7827",
+        "AMOUNT": "1695.68"
+      },
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1252786019",
+        "ITEM_NO": "582901",
+        "QTY": "200",
+        "UNIT_PRICE": "8.773",
+        "AMOUNT": "1754.6"
+      },
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1252786020",
+        "ITEM_NO": "500583001",
+        "QTY": "200",
+        "UNIT_PRICE": "7.7239",
+        "AMOUNT": "1544.78"
+      },
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1254501018",
+        "ITEM_NO": "500583101",
+        "QTY": "360",
+        "UNIT_PRICE": "4.4482",
+        "AMOUNT": "1601.35"
+      },
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1252954003",
+        "ITEM_NO": "502260601",
+        "QTY": "320",
+        "UNIT_PRICE": "15.4375",
+        "AMOUNT": "4940"
+      },
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1251771002",
+        "ITEM_NO": "502260701",
+        "QTY": "320",
+        "UNIT_PRICE": "19.7509",
+        "AMOUNT": "6320.29"
+      },
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1253529003",
+        "ITEM_NO": "502261201",
+        "QTY": "900",
+        "UNIT_PRICE": "2.64",
+        "AMOUNT": "2376"
+      },
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1255305006",
+        "ITEM_NO": "502261402",
+        "QTY": "240",
+        "UNIT_PRICE": "9.8477",
+        "AMOUNT": "2363.45"
+      },
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1253362022",
+        "ITEM_NO": "502789601",
+        "QTY": "900",
+        "UNIT_PRICE": "1.9352",
+        "AMOUNT": "1741.68"
+      },
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1252185030",
+        "ITEM_NO": "502790401",
+        "QTY": "900",
+        "UNIT_PRICE": "1.9014",
+        "AMOUNT": "1711.26"
+      },
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1252185032",
+        "ITEM_NO": "502790701",
+        "QTY": "1800",
+        "UNIT_PRICE": "2.3077",
+        "AMOUNT": "4153.86"
+      },
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1252185034",
+        "ITEM_NO": "502794801",
+        "QTY": "90",
+        "UNIT_PRICE": "2.1292",
+        "AMOUNT": "191.63"
+      },
+      {
+        "INVOICE_NO": "IV-23080243",
+        "PO_NO": "1252185035",
+        "ITEM_NO": "502794801",
+        "QTY": "1110",
+        "UNIT_PRICE": "2.1292",
+        "AMOUNT": "2363.41"
+      }
+    ]
+  },
+  {
+    "fileName": "18.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080242",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1254501001",
+        "ITEM_NO": "415468001",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.8505",
+        "AMOUNT": "3402"
+      },
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1254078002",
+        "ITEM_NO": "443873403",
+        "QTY": "960",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "1325.38"
+      },
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1254501002",
+        "ITEM_NO": "443873403",
+        "QTY": "1920",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "2650.75"
+      },
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1254501003",
+        "ITEM_NO": "443873403",
+        "QTY": "960",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "1325.38"
+      },
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1253936012",
+        "ITEM_NO": "448787501",
+        "QTY": "11200",
+        "UNIT_PRICE": "1.1965",
+        "AMOUNT": "13400.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1255339003",
+        "ITEM_NO": "455876301",
+        "QTY": "400",
+        "UNIT_PRICE": "20.4",
+        "AMOUNT": "8160"
+      },
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1254734005",
+        "ITEM_NO": "455876502",
+        "QTY": "177",
+        "UNIT_PRICE": "31.6",
+        "AMOUNT": "5593.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1255339004",
+        "ITEM_NO": "455876502",
+        "QTY": "423",
+        "UNIT_PRICE": "31.6",
+        "AMOUNT": "13366.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1253936017",
+        "ITEM_NO": "500294602",
+        "QTY": "5600",
+        "UNIT_PRICE": "1.5443",
+        "AMOUNT": "8648.08"
+      },
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1253936018",
+        "ITEM_NO": "500367201",
+        "QTY": "108",
+        "UNIT_PRICE": "1.0346",
+        "AMOUNT": "111.74"
+      },
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1254501013",
+        "ITEM_NO": "500367201",
+        "QTY": "2892",
+        "UNIT_PRICE": "1.0346",
+        "AMOUNT": "2992.06"
+      },
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1254501015",
+        "ITEM_NO": "500389901",
+        "QTY": "3000",
+        "UNIT_PRICE": "1.5834",
+        "AMOUNT": "4750.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080242",
+        "PO_NO": "1252362002",
+        "ITEM_NO": "500526902",
+        "QTY": "4000",
+        "UNIT_PRICE": "4.6784",
+        "AMOUNT": "18713.6"
+      }
+    ]
+  },
+  {
+    "fileName": "19.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080260",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080260",
+        "PO_NO": "1253180001",
+        "ITEM_NO": "X0544",
+        "QTY": "180",
+        "UNIT_PRICE": "386.4863",
+        "AMOUNT": "69567.53"
+      },
+      {
+        "INVOICE_NO": "IV-23080260",
+        "PO_NO": "1255538005",
+        "ITEM_NO": "X25923402",
+        "QTY": "225",
+        "UNIT_PRICE": "17.4938",
+        "AMOUNT": "3936.11"
+      },
+      {
+        "INVOICE_NO": "IV-23080260",
+        "PO_NO": "1255538006",
+        "ITEM_NO": "X25923402",
+        "QTY": "1350",
+        "UNIT_PRICE": "17.4938",
+        "AMOUNT": "23616.63"
+      },
+      {
+        "INVOICE_NO": "IV-23080260",
+        "PO_NO": "1255538007",
+        "ITEM_NO": "X25923402",
+        "QTY": "675",
+        "UNIT_PRICE": "17.4938",
+        "AMOUNT": "11808.32"
+      },
+      {
+        "INVOICE_NO": "IV-23080260",
+        "PO_NO": "1253936057",
+        "ITEM_NO": "X25945931",
+        "QTY": "160",
+        "UNIT_PRICE": "37.2445",
+        "AMOUNT": "5959.12"
+      },
+      {
+        "INVOICE_NO": "IV-23080260",
+        "PO_NO": "1254501045",
+        "ITEM_NO": "X25945931",
+        "QTY": "1200",
+        "UNIT_PRICE": "37.2445",
+        "AMOUNT": "44693.4"
+      },
+      {
+        "INVOICE_NO": "IV-23080260",
+        "PO_NO": "1254501046",
+        "ITEM_NO": "X25945931",
+        "QTY": "240",
+        "UNIT_PRICE": "37.2445",
+        "AMOUNT": "8938.68"
+      },
+      {
+        "INVOICE_NO": "IV-23080260",
+        "PO_NO": "1254501049",
+        "ITEM_NO": "X50009261",
+        "QTY": "3200",
+        "UNIT_PRICE": "29.9303",
+        "AMOUNT": "95776.96"
+      },
+      {
+        "INVOICE_NO": "IV-23080260",
+        "PO_NO": "1254501050",
+        "ITEM_NO": "X50009261",
+        "QTY": "1600",
+        "UNIT_PRICE": "29.9303",
+        "AMOUNT": "47888.48"
+      },
+      {
+        "INVOICE_NO": "IV-23080260",
+        "PO_NO": "1254501051",
+        "ITEM_NO": "X50009261",
+        "QTY": "800",
+        "UNIT_PRICE": "29.9303",
+        "AMOUNT": "23944.24"
+      },
+      {
+        "INVOICE_NO": "IV-23080260",
+        "PO_NO": "1253936061",
+        "ITEM_NO": "X50019522",
+        "QTY": "900",
+        "UNIT_PRICE": "39.6469",
+        "AMOUNT": "35682.21"
+      },
+      {
+        "INVOICE_NO": "IV-23080260",
+        "PO_NO": "1252786070",
+        "ITEM_NO": "X50020962",
+        "QTY": "1200",
+        "UNIT_PRICE": "12.6873",
+        "AMOUNT": "15244.76"
+      }
+    ]
+  },
+  {
+    "fileName": "2.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080221",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1253936058",
+        "ITEM_NO": "X50009261",
+        "QTY": "400",
+        "UNIT_PRICE": "29.9303",
+        "AMOUNT": "11972.12"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1253936059",
+        "ITEM_NO": "X50009261",
+        "QTY": "1200",
+        "UNIT_PRICE": "29.9303",
+        "AMOUNT": "35916.36"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1253936061",
+        "ITEM_NO": "X50019522",
+        "QTY": "600",
+        "UNIT_PRICE": "39.6469",
+        "AMOUNT": "23788.14"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1253362062",
+        "ITEM_NO": "X50029891",
+        "QTY": "400",
+        "UNIT_PRICE": "11.1247",
+        "AMOUNT": "4449.88"
+      }
+    ]
+  },
+  {
+    "fileName": "20.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080259",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1251614051",
+        "ITEM_NO": "549901",
+        "QTY": "1800",
+        "UNIT_PRICE": "2.8346",
+        "AMOUNT": "5102.28"
+      },
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1251614052",
+        "ITEM_NO": "504650901",
+        "QTY": "2160",
+        "UNIT_PRICE": "3.53",
+        "AMOUNT": "7624.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1252786040",
+        "ITEM_NO": "504801701",
+        "QTY": "3600",
+        "UNIT_PRICE": "2.694",
+        "AMOUNT": "9698.4"
+      },
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1253362027",
+        "ITEM_NO": "505269201",
+        "QTY": "3600",
+        "UNIT_PRICE": "1.953",
+        "AMOUNT": "7030.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1253362029",
+        "ITEM_NO": "505270801",
+        "QTY": "1600",
+        "UNIT_PRICE": "4.8299",
+        "AMOUNT": "7727.84"
+      },
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1253362031",
+        "ITEM_NO": "505270901",
+        "QTY": "2880",
+        "UNIT_PRICE": "1.9927",
+        "AMOUNT": "5738.98"
+      },
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1253362033",
+        "ITEM_NO": "505271801",
+        "QTY": "3600",
+        "UNIT_PRICE": "2.2197",
+        "AMOUNT": "7990.92"
+      },
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1253362035",
+        "ITEM_NO": "505271901",
+        "QTY": "3600",
+        "UNIT_PRICE": "2.2996",
+        "AMOUNT": "8278.56"
+      },
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1253362037",
+        "ITEM_NO": "505272301",
+        "QTY": "3600",
+        "UNIT_PRICE": "2.0335",
+        "AMOUNT": "7320.6"
+      },
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1253362039",
+        "ITEM_NO": "505274301",
+        "QTY": "3600",
+        "UNIT_PRICE": "3.1938",
+        "AMOUNT": "11497.68"
+      },
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1253362041",
+        "ITEM_NO": "505274501",
+        "QTY": "3600",
+        "UNIT_PRICE": "1.8093",
+        "AMOUNT": "6513.48"
+      },
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1253362043",
+        "ITEM_NO": "505277801",
+        "QTY": "3600",
+        "UNIT_PRICE": "1.967",
+        "AMOUNT": "7081.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080259",
+        "PO_NO": "1254501042",
+        "ITEM_NO": "X25917971",
+        "QTY": "800",
+        "UNIT_PRICE": "5.0485",
+        "AMOUNT": "4038.8"
+      }
+    ]
+  },
+  {
+    "fileName": "21.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080258",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1252641020",
+        "ITEM_NO": "503610401",
+        "QTY": "900",
+        "UNIT_PRICE": "11.1732",
+        "AMOUNT": "10055.88"
+      },
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1252641021",
+        "ITEM_NO": "503610501",
+        "QTY": "900",
+        "UNIT_PRICE": "11.0455",
+        "AMOUNT": "9940.95"
+      },
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1251614042",
+        "ITEM_NO": "504642901",
+        "QTY": "1800",
+        "UNIT_PRICE": "2.7622",
+        "AMOUNT": "4971.96"
+      },
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1251614043",
+        "ITEM_NO": "504644601",
+        "QTY": "1800",
+        "UNIT_PRICE": "2.9048",
+        "AMOUNT": "5228.64"
+      },
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1251614044",
+        "ITEM_NO": "504644701",
+        "QTY": "1800",
+        "UNIT_PRICE": "2.5987",
+        "AMOUNT": "4677.66"
+      },
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1251614045",
+        "ITEM_NO": "504644801",
+        "QTY": "1800",
+        "UNIT_PRICE": "3.186",
+        "AMOUNT": "5734.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1251614046",
+        "ITEM_NO": "504644901",
+        "QTY": "1800",
+        "UNIT_PRICE": "3.3512",
+        "AMOUNT": "6032.16"
+      },
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1251614047",
+        "ITEM_NO": "504645001",
+        "QTY": "1800",
+        "UNIT_PRICE": "2.8061",
+        "AMOUNT": "5050.98"
+      },
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1251614048",
+        "ITEM_NO": "504645101",
+        "QTY": "1800",
+        "UNIT_PRICE": "2.6216",
+        "AMOUNT": "4718.88"
+      },
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1251614049",
+        "ITEM_NO": "504646101",
+        "QTY": "2160",
+        "UNIT_PRICE": "2.6216",
+        "AMOUNT": "5662.66"
+      },
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1252185039",
+        "ITEM_NO": "504646701",
+        "QTY": "2600",
+        "UNIT_PRICE": "2.4108",
+        "AMOUNT": "6268.08"
+      },
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1253362024",
+        "ITEM_NO": "504646701",
+        "QTY": "200",
+        "UNIT_PRICE": "2.4108",
+        "AMOUNT": "482.16"
+      },
+      {
+        "INVOICE_NO": "IV-23080258",
+        "PO_NO": "1251614050",
+        "ITEM_NO": "504649801",
+        "QTY": "1800",
+        "UNIT_PRICE": "2.5514",
+        "AMOUNT": "4592.52"
+      }
+    ]
+  },
+  {
+    "fileName": "22.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080257",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1252185030",
+        "ITEM_NO": "502790401",
+        "QTY": "2700",
+        "UNIT_PRICE": "1.9014",
+        "AMOUNT": "5133.78"
+      },
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1252185033",
+        "ITEM_NO": "502790801",
+        "QTY": "1200",
+        "UNIT_PRICE": "2.2128",
+        "AMOUNT": "2655.36"
+      },
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1253936021",
+        "ITEM_NO": "502790801",
+        "QTY": "1800",
+        "UNIT_PRICE": "2.2128",
+        "AMOUNT": "3983.04"
+      },
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1252185035",
+        "ITEM_NO": "502794801",
+        "QTY": "2400",
+        "UNIT_PRICE": "2.1292",
+        "AMOUNT": "5110.08"
+      },
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1251614038",
+        "ITEM_NO": "502794901",
+        "QTY": "900",
+        "UNIT_PRICE": "3.2659",
+        "AMOUNT": "2939.31"
+      },
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1252185037",
+        "ITEM_NO": "502794901",
+        "QTY": "1800",
+        "UNIT_PRICE": "3.2659",
+        "AMOUNT": "5878.62"
+      },
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1252786027",
+        "ITEM_NO": "503604401",
+        "QTY": "900",
+        "UNIT_PRICE": "2.298",
+        "AMOUNT": "2068.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1252786028",
+        "ITEM_NO": "503604901",
+        "QTY": "900",
+        "UNIT_PRICE": "2.4395",
+        "AMOUNT": "2195.55"
+      },
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1249386028",
+        "ITEM_NO": "503605501",
+        "QTY": "800",
+        "UNIT_PRICE": "2.7986",
+        "AMOUNT": "2238.88"
+      },
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1252641016",
+        "ITEM_NO": "503605501",
+        "QTY": "400",
+        "UNIT_PRICE": "2.7986",
+        "AMOUNT": "1119.44"
+      },
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1252641017",
+        "ITEM_NO": "503608701",
+        "QTY": "1200",
+        "UNIT_PRICE": "3.0609",
+        "AMOUNT": "3673.08"
+      },
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1252641018",
+        "ITEM_NO": "503610201",
+        "QTY": "900",
+        "UNIT_PRICE": "11.3969",
+        "AMOUNT": "10257.21"
+      },
+      {
+        "INVOICE_NO": "IV-23080257",
+        "PO_NO": "1254501035",
+        "ITEM_NO": "503610301",
+        "QTY": "1800",
+        "UNIT_PRICE": "11.4425",
+        "AMOUNT": "20596.5"
+      }
+    ]
+  },
+  {
+    "fileName": "23.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080256",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1254501021",
+        "ITEM_NO": "501778401",
+        "QTY": "2400",
+        "UNIT_PRICE": "1.5475",
+        "AMOUNT": "3714"
+      },
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1254501022",
+        "ITEM_NO": "501778501",
+        "QTY": "2400",
+        "UNIT_PRICE": "1.4281",
+        "AMOUNT": "3427.44"
+      },
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1254501024",
+        "ITEM_NO": "501778701",
+        "QTY": "2400",
+        "UNIT_PRICE": "1.498",
+        "AMOUNT": "3595.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1252185027",
+        "ITEM_NO": "502245801",
+        "QTY": "1120",
+        "UNIT_PRICE": "7.438",
+        "AMOUNT": "8330.56"
+      },
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1254501025",
+        "ITEM_NO": "502245801",
+        "QTY": "320",
+        "UNIT_PRICE": "7.438",
+        "AMOUNT": "2380.16"
+      },
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1254501026",
+        "ITEM_NO": "502246801",
+        "QTY": "1200",
+        "UNIT_PRICE": "7.0213",
+        "AMOUNT": "8425.56"
+      },
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1253362021",
+        "ITEM_NO": "502248702",
+        "QTY": "900",
+        "UNIT_PRICE": "4.1422",
+        "AMOUNT": "3727.98"
+      },
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1252954003",
+        "ITEM_NO": "502260601",
+        "QTY": "320",
+        "UNIT_PRICE": "15.4375",
+        "AMOUNT": "4940"
+      },
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1251771002",
+        "ITEM_NO": "502260701",
+        "QTY": "320",
+        "UNIT_PRICE": "19.7509",
+        "AMOUNT": "6320.29"
+      },
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1253529003",
+        "ITEM_NO": "502261201",
+        "QTY": "900",
+        "UNIT_PRICE": "2.64",
+        "AMOUNT": "2376"
+      },
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1255305006",
+        "ITEM_NO": "502261402",
+        "QTY": "960",
+        "UNIT_PRICE": "9.8477",
+        "AMOUNT": "9453.79"
+      },
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1253362022",
+        "ITEM_NO": "502789601",
+        "QTY": "900",
+        "UNIT_PRICE": "1.9352",
+        "AMOUNT": "1741.68"
+      },
+      {
+        "INVOICE_NO": "IV-23080256",
+        "PO_NO": "1254501028",
+        "ITEM_NO": "502789601",
+        "QTY": "1800",
+        "UNIT_PRICE": "1.9352",
+        "AMOUNT": "3483.36"
+      }
+    ]
+  },
+  {
+    "fileName": "24.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080255",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1255339005",
+        "ITEM_NO": "436101",
+        "QTY": "1440",
+        "UNIT_PRICE": "11.15",
+        "AMOUNT": "16056"
+      },
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1254501010",
+        "ITEM_NO": "474502601",
+        "QTY": "6000",
+        "UNIT_PRICE": "2.1247",
+        "AMOUNT": "12748.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1254501011",
+        "ITEM_NO": "474502701",
+        "QTY": "3000",
+        "UNIT_PRICE": "1.3457",
+        "AMOUNT": "4037.1"
+      },
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1253936017",
+        "ITEM_NO": "500294602",
+        "QTY": "8400",
+        "UNIT_PRICE": "1.5443",
+        "AMOUNT": "12972.12"
+      },
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1255111017",
+        "ITEM_NO": "500294602",
+        "QTY": "5600",
+        "UNIT_PRICE": "1.5443",
+        "AMOUNT": "8648.08"
+      },
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1254501013",
+        "ITEM_NO": "500367201",
+        "QTY": "108",
+        "UNIT_PRICE": "1.0346",
+        "AMOUNT": "111.74"
+      },
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1254501014",
+        "ITEM_NO": "500367201",
+        "QTY": "2892",
+        "UNIT_PRICE": "1.0346",
+        "AMOUNT": "2992.06"
+      },
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1255111021",
+        "ITEM_NO": "500389901",
+        "QTY": "3000",
+        "UNIT_PRICE": "1.5834",
+        "AMOUNT": "4750.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1254501017",
+        "ITEM_NO": "500423402",
+        "QTY": "1800",
+        "UNIT_PRICE": "1.5413",
+        "AMOUNT": "2774.34"
+      },
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1253529001",
+        "ITEM_NO": "500526502",
+        "QTY": "240",
+        "UNIT_PRICE": "5.4206",
+        "AMOUNT": "1300.94"
+      },
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1252362003",
+        "ITEM_NO": "500527302",
+        "QTY": "400",
+        "UNIT_PRICE": "4.9988",
+        "AMOUNT": "1999.52"
+      },
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1250634002",
+        "ITEM_NO": "500528502",
+        "QTY": "500",
+        "UNIT_PRICE": "6.7827",
+        "AMOUNT": "3391.35"
+      },
+      {
+        "INVOICE_NO": "IV-23080255",
+        "PO_NO": "1254501020",
+        "ITEM_NO": "501411201",
+        "QTY": "3000",
+        "UNIT_PRICE": "1.1776",
+        "AMOUNT": "3532.8"
+      }
+    ]
+  },
+  {
+    "fileName": "25.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080254",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1254501003",
+        "ITEM_NO": "473403",
+        "QTY": "8640",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "11928.38"
+      },
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1254501004",
+        "ITEM_NO": "443873403",
+        "QTY": "4800",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "6626.88"
+      },
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1255111001",
+        "ITEM_NO": "443873403",
+        "QTY": "1920",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "2650.75"
+      },
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1255111002",
+        "ITEM_NO": "443873403",
+        "QTY": "960",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "1325.38"
+      },
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1253936008",
+        "ITEM_NO": "443873431",
+        "QTY": "1518",
+        "UNIT_PRICE": "2.6079",
+        "AMOUNT": "3958.79"
+      },
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1254078003",
+        "ITEM_NO": "443873431",
+        "QTY": "960",
+        "UNIT_PRICE": "2.6079",
+        "AMOUNT": "2503.58"
+      },
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1254501006",
+        "ITEM_NO": "443873431",
+        "QTY": "402",
+        "UNIT_PRICE": "2.6079",
+        "AMOUNT": "1048.38"
+      },
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1255722007",
+        "ITEM_NO": "448079503",
+        "QTY": "8000",
+        "UNIT_PRICE": "1.019",
+        "AMOUNT": "8152"
+      },
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1253936012",
+        "ITEM_NO": "448787501",
+        "QTY": "10964",
+        "UNIT_PRICE": "1.1965",
+        "AMOUNT": "13118.43"
+      },
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1254501009",
+        "ITEM_NO": "448787501",
+        "QTY": "236",
+        "UNIT_PRICE": "1.1965",
+        "AMOUNT": "282.37"
+      },
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1255538003",
+        "ITEM_NO": "454755802",
+        "QTY": "220",
+        "UNIT_PRICE": "78.2148",
+        "AMOUNT": "17207.26"
+      },
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1255339004",
+        "ITEM_NO": "455876502",
+        "QTY": "720",
+        "UNIT_PRICE": "31.6",
+        "AMOUNT": "22752"
+      },
+      {
+        "INVOICE_NO": "IV-23080254",
+        "PO_NO": "1253936014",
+        "ITEM_NO": "459920801",
+        "QTY": "2700",
+        "UNIT_PRICE": "1.5639",
+        "AMOUNT": "4222.53"
+      }
+    ]
+  },
+  {
+    "fileName": "26.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080267",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080267",
+        "PO_NO": "1253362029",
+        "ITEM_NO": "505270801",
+        "QTY": "400",
+        "UNIT_PRICE": "4.8299",
+        "AMOUNT": "1931.96"
+      },
+      {
+        "INVOICE_NO": "IV-23080267",
+        "PO_NO": "1253362031",
+        "ITEM_NO": "505270901",
+        "QTY": "720",
+        "UNIT_PRICE": "1.9927",
+        "AMOUNT": "1434.74"
+      }
+    ]
+  },
+  {
+    "fileName": "27.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080264",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1254652001",
+        "ITEM_NO": "473403",
+        "QTY": "960",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "1325.38"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1254501009",
+        "ITEM_NO": "448787501",
+        "QTY": "16800",
+        "UNIT_PRICE": "1.1965",
+        "AMOUNT": "20101.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1255538003",
+        "ITEM_NO": "454755802",
+        "QTY": "80",
+        "UNIT_PRICE": "78.2148",
+        "AMOUNT": "6257.18"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1256745001",
+        "ITEM_NO": "454755802",
+        "QTY": "100",
+        "UNIT_PRICE": "78.2148",
+        "AMOUNT": "7821.48"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1254915003",
+        "ITEM_NO": "454755802",
+        "QTY": "6",
+        "UNIT_PRICE": "78.2148",
+        "AMOUNT": "469.29"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1255538002",
+        "ITEM_NO": "454755802",
+        "QTY": "60",
+        "UNIT_PRICE": "78.2148",
+        "AMOUNT": "4692.89"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1256126001",
+        "ITEM_NO": "454755802",
+        "QTY": "74",
+        "UNIT_PRICE": "78.2148",
+        "AMOUNT": "5787.9"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1253936053",
+        "ITEM_NO": "X25919321",
+        "QTY": "2000",
+        "UNIT_PRICE": "4.448",
+        "AMOUNT": "8896"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1254501046",
+        "ITEM_NO": "X25945931",
+        "QTY": "400",
+        "UNIT_PRICE": "37.2445",
+        "AMOUNT": "14897.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1252185032",
+        "ITEM_NO": "502790701",
+        "QTY": "1055",
+        "UNIT_PRICE": "2.3077",
+        "AMOUNT": "2434.62"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1253936020",
+        "ITEM_NO": "502790701",
+        "QTY": "2545",
+        "UNIT_PRICE": "2.3077",
+        "AMOUNT": "5873.1"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1254501052",
+        "ITEM_NO": "X50038851",
+        "QTY": "200",
+        "UNIT_PRICE": "1211.931",
+        "AMOUNT": "242386.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "1255339004",
+        "ITEM_NO": "455876502",
+        "QTY": "117",
+        "UNIT_PRICE": "31.6",
+        "AMOUNT": "3697.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080264",
+        "PO_NO": "9101124001",
+        "ITEM_NO": "455876502",
+        "QTY": "3",
+        "UNIT_PRICE": "31.6",
+        "AMOUNT": "94.8"
+      }
+    ]
+  },
+  {
+    "fileName": "28.YAMAKOHK.xlsx",
+    "INVOICE_tag": "IV-23080268",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080268",
+        "PO_NO": "1253362029",
+        "ITEM_NO": "505270801",
+        "QTY": "800",
+        "UNIT_PRICE": "4.8299",
+        "AMOUNT": "3863.92"
+      }
+    ]
+  },
+  {
+    "fileName": "29.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080191",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1253936001",
+        "ITEM_NO": "4154468001",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.8505",
+        "AMOUNT": "3402"
+      },
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1253362006",
+        "ITEM_NO": "473403",
+        "QTY": "6720",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "9277.63"
+      },
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1253503001",
+        "ITEM_NO": "443873403",
+        "QTY": "960",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "1325.38"
+      },
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1253362007",
+        "ITEM_NO": "443873431",
+        "QTY": "558",
+        "UNIT_PRICE": "2.6079",
+        "AMOUNT": "1455.21"
+      },
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1253936006",
+        "ITEM_NO": "443873431",
+        "QTY": "402",
+        "UNIT_PRICE": "2.6079",
+        "AMOUNT": "1048.38"
+      },
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1253362011",
+        "ITEM_NO": "448787501",
+        "QTY": "2564",
+        "UNIT_PRICE": "1.1965",
+        "AMOUNT": "3067.83"
+      },
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1253936011",
+        "ITEM_NO": "448787501",
+        "QTY": "8636",
+        "UNIT_PRICE": "1.1965",
+        "AMOUNT": "10332.97"
+      },
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1254915001",
+        "ITEM_NO": "454755802",
+        "QTY": "20",
+        "UNIT_PRICE": "78.2148",
+        "AMOUNT": "1564.3"
+      },
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1254915002",
+        "ITEM_NO": "454755802",
+        "QTY": "100",
+        "UNIT_PRICE": "78.2148",
+        "AMOUNT": "7821.48"
+      },
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1254915003",
+        "ITEM_NO": "454755802",
+        "QTY": "60",
+        "UNIT_PRICE": "78.2148",
+        "AMOUNT": "4692.89"
+      },
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1253362014",
+        "ITEM_NO": "474502601",
+        "QTY": "6000",
+        "UNIT_PRICE": "2.1247",
+        "AMOUNT": "12748.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1253362016",
+        "ITEM_NO": "500294602",
+        "QTY": "2800",
+        "UNIT_PRICE": "1.5443",
+        "AMOUNT": "4324.04"
+      },
+      {
+        "INVOICE_NO": "IV-23080191",
+        "PO_NO": "1253936016",
+        "ITEM_NO": "500294602",
+        "QTY": "2800",
+        "UNIT_PRICE": "1.5443",
+        "AMOUNT": "4324.04"
+      }
+    ]
+  },
+  {
+    "fileName": "3.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080221",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1253362047",
+        "ITEM_NO": "X25907024",
+        "QTY": "9",
+        "UNIT_PRICE": "74.7004",
+        "AMOUNT": "672.3"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1254501041",
+        "ITEM_NO": "X25907024",
+        "QTY": "2",
+        "UNIT_PRICE": "74.7004",
+        "AMOUNT": "149.4"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1255111054",
+        "ITEM_NO": "X25907024",
+        "QTY": "4",
+        "UNIT_PRICE": "74.7004",
+        "AMOUNT": "298.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1255722035",
+        "ITEM_NO": "X25907024",
+        "QTY": "2",
+        "UNIT_PRICE": "74.7004",
+        "AMOUNT": "149.4"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1253936050",
+        "ITEM_NO": "X25917971",
+        "QTY": "800",
+        "UNIT_PRICE": "5.0485",
+        "AMOUNT": "4038.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1253362052",
+        "ITEM_NO": "X25919321",
+        "QTY": "2000",
+        "UNIT_PRICE": "4.448",
+        "AMOUNT": "8896"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1253180001",
+        "ITEM_NO": "X25920544",
+        "QTY": "340",
+        "UNIT_PRICE": "386.4863",
+        "AMOUNT": "131405.34"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1254915005",
+        "ITEM_NO": "X25923402",
+        "QTY": "225",
+        "UNIT_PRICE": "17.4938",
+        "AMOUNT": "3936.11"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1254915006",
+        "ITEM_NO": "X25923402",
+        "QTY": "525",
+        "UNIT_PRICE": "17.4938",
+        "AMOUNT": "9184.25"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1254915008",
+        "ITEM_NO": "X25930201",
+        "QTY": "137",
+        "UNIT_PRICE": "9.2645",
+        "AMOUNT": "1269.24"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1254915009",
+        "ITEM_NO": "X25930201",
+        "QTY": "13",
+        "UNIT_PRICE": "9.2645",
+        "AMOUNT": "120.44"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1253936055",
+        "ITEM_NO": "X25945931",
+        "QTY": "560",
+        "UNIT_PRICE": "37.2445",
+        "AMOUNT": "20856.92"
+      },
+      {
+        "INVOICE_NO": "IV-23080221",
+        "PO_NO": "1253936056",
+        "ITEM_NO": "X25945931",
+        "QTY": "240",
+        "UNIT_PRICE": "37.2445",
+        "AMOUNT": "8938.68"
+      }
+    ]
+  },
+  {
+    "fileName": "30.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080270",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080270",
+        "PO_NO": "1253362029",
+        "ITEM_NO": "505270801",
+        "QTY": "400",
+        "UNIT_PRICE": "4.8299",
+        "AMOUNT": "1931.96"
+      }
+    ]
+  },
+  {
+    "fileName": "4.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080219",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1251031026",
+        "ITEM_NO": "505176301",
+        "QTY": "720",
+        "UNIT_PRICE": "3.3475",
+        "AMOUNT": "2410.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1247736048",
+        "ITEM_NO": "505176401",
+        "QTY": "720",
+        "UNIT_PRICE": "13.2757",
+        "AMOUNT": "9558.5"
+      },
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1250467053",
+        "ITEM_NO": "505179301",
+        "QTY": "360",
+        "UNIT_PRICE": "9.9709",
+        "AMOUNT": "3589.52"
+      },
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1253362027",
+        "ITEM_NO": "505269201",
+        "QTY": "900",
+        "UNIT_PRICE": "1.953",
+        "AMOUNT": "1757.7"
+      },
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1253362029",
+        "ITEM_NO": "505270801",
+        "QTY": "800",
+        "UNIT_PRICE": "4.8299",
+        "AMOUNT": "3863.92"
+      },
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1253362031",
+        "ITEM_NO": "505270901",
+        "QTY": "1440",
+        "UNIT_PRICE": "1.9927",
+        "AMOUNT": "2869.49"
+      },
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1253362033",
+        "ITEM_NO": "505271801",
+        "QTY": "720",
+        "UNIT_PRICE": "2.2197",
+        "AMOUNT": "1598.18"
+      },
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1253362035",
+        "ITEM_NO": "505271901",
+        "QTY": "720",
+        "UNIT_PRICE": "2.2996",
+        "AMOUNT": "1655.71"
+      },
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1253362037",
+        "ITEM_NO": "505272301",
+        "QTY": "1800",
+        "UNIT_PRICE": "2.0335",
+        "AMOUNT": "3660.3"
+      },
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1253362039",
+        "ITEM_NO": "505274301",
+        "QTY": "800",
+        "UNIT_PRICE": "3.1938",
+        "AMOUNT": "2555.04"
+      },
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1253362041",
+        "ITEM_NO": "505274501",
+        "QTY": "1800",
+        "UNIT_PRICE": "1.8093",
+        "AMOUNT": "3256.74"
+      },
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1253362043",
+        "ITEM_NO": "505277801",
+        "QTY": "1800",
+        "UNIT_PRICE": "1.967",
+        "AMOUNT": "3540.6"
+      },
+      {
+        "INVOICE_NO": "IV-23080219",
+        "PO_NO": "1252786053",
+        "ITEM_NO": "X25907051",
+        "QTY": "424",
+        "UNIT_PRICE": "43.8577",
+        "AMOUNT": "18595.66"
+      }
+    ]
+  },
+  {
+    "fileName": "5.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080218",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080218",
+        "PO_NO": "1252786027",
+        "ITEM_NO": "503604401",
+        "QTY": "900",
+        "UNIT_PRICE": "2.298",
+        "AMOUNT": "2068.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080218",
+        "PO_NO": "1252786028",
+        "ITEM_NO": "503604901",
+        "QTY": "900",
+        "UNIT_PRICE": "2.4395",
+        "AMOUNT": "2195.55"
+      },
+      {
+        "INVOICE_NO": "IV-23080218",
+        "PO_NO": "1249386028",
+        "ITEM_NO": "503605501",
+        "QTY": "400",
+        "UNIT_PRICE": "2.7986",
+        "AMOUNT": "1119.44"
+      },
+      {
+        "INVOICE_NO": "IV-23080218",
+        "PO_NO": "1252641018",
+        "ITEM_NO": "503610201",
+        "QTY": "900",
+        "UNIT_PRICE": "11.3969",
+        "AMOUNT": "10257.21"
+      },
+      {
+        "INVOICE_NO": "IV-23080218",
+        "PO_NO": "1252641019",
+        "ITEM_NO": "503610301",
+        "QTY": "900",
+        "UNIT_PRICE": "11.4425",
+        "AMOUNT": "10298.25"
+      },
+      {
+        "INVOICE_NO": "IV-23080218",
+        "PO_NO": "1252641021",
+        "ITEM_NO": "503610501",
+        "QTY": "900",
+        "UNIT_PRICE": "11.0455",
+        "AMOUNT": "9940.95"
+      },
+      {
+        "INVOICE_NO": "IV-23080218",
+        "PO_NO": "1253362023",
+        "ITEM_NO": "503652701",
+        "QTY": "400",
+        "UNIT_PRICE": "4.9228",
+        "AMOUNT": "1969.12"
+      },
+      {
+        "INVOICE_NO": "IV-23080218",
+        "PO_NO": "1251614048",
+        "ITEM_NO": "504645101",
+        "QTY": "900",
+        "UNIT_PRICE": "2.6216",
+        "AMOUNT": "2359.44"
+      },
+      {
+        "INVOICE_NO": "IV-23080218",
+        "PO_NO": "1251614049",
+        "ITEM_NO": "504646101",
+        "QTY": "720",
+        "UNIT_PRICE": "2.6216",
+        "AMOUNT": "1887.55"
+      },
+      {
+        "INVOICE_NO": "IV-23080218",
+        "PO_NO": "1251614052",
+        "ITEM_NO": "504650901",
+        "QTY": "720",
+        "UNIT_PRICE": "3.53",
+        "AMOUNT": "2541.6"
+      },
+      {
+        "INVOICE_NO": "IV-23080218",
+        "PO_NO": "1249386034",
+        "ITEM_NO": "505175201",
+        "QTY": "240",
+        "UNIT_PRICE": "25.4817",
+        "AMOUNT": "6115.61"
+      },
+      {
+        "INVOICE_NO": "IV-23080218",
+        "PO_NO": "1251031025",
+        "ITEM_NO": "505175301",
+        "QTY": "720",
+        "UNIT_PRICE": "4.1436",
+        "AMOUNT": "2983.39"
+      }
+    ]
+  },
+  {
+    "fileName": "6.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080217",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "9099927001",
+        "ITEM_NO": "500527302",
+        "QTY": "400",
+        "UNIT_PRICE": "4.9988",
+        "AMOUNT": "1999.52"
+      },
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "1250634002",
+        "ITEM_NO": "500528502",
+        "QTY": "250",
+        "UNIT_PRICE": "6.7827",
+        "AMOUNT": "1695.68"
+      },
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "1252362005",
+        "ITEM_NO": "500614302",
+        "QTY": "4000",
+        "UNIT_PRICE": "7.7162",
+        "AMOUNT": "30864.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "1254501019",
+        "ITEM_NO": "501411201",
+        "QTY": "3000",
+        "UNIT_PRICE": "1.1776",
+        "AMOUNT": "3532.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "1252954003",
+        "ITEM_NO": "502260601",
+        "QTY": "320",
+        "UNIT_PRICE": "15.4375",
+        "AMOUNT": "4940"
+      },
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "1251771002",
+        "ITEM_NO": "502260701",
+        "QTY": "320",
+        "UNIT_PRICE": "19.7509",
+        "AMOUNT": "6320.29"
+      },
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "1253529003",
+        "ITEM_NO": "502261201",
+        "QTY": "900",
+        "UNIT_PRICE": "2.64",
+        "AMOUNT": "2376"
+      },
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "1253362022",
+        "ITEM_NO": "502789601",
+        "QTY": "900",
+        "UNIT_PRICE": "1.9352",
+        "AMOUNT": "1741.68"
+      },
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "1251614033",
+        "ITEM_NO": "502790401",
+        "QTY": "900",
+        "UNIT_PRICE": "1.9014",
+        "AMOUNT": "1711.26"
+      },
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "1252641015",
+        "ITEM_NO": "502790701",
+        "QTY": "1350",
+        "UNIT_PRICE": "2.3077",
+        "AMOUNT": "3115.4"
+      },
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "1252185033",
+        "ITEM_NO": "502790801",
+        "QTY": "600",
+        "UNIT_PRICE": "2.2128",
+        "AMOUNT": "1327.68"
+      },
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "1252185034",
+        "ITEM_NO": "502794801",
+        "QTY": "1200",
+        "UNIT_PRICE": "2.1292",
+        "AMOUNT": "2555.04"
+      },
+      {
+        "INVOICE_NO": "IV-23080217",
+        "PO_NO": "1251614038",
+        "ITEM_NO": "502794901",
+        "QTY": "750",
+        "UNIT_PRICE": "3.2659",
+        "AMOUNT": "2449.43"
+      }
+    ]
+  },
+  {
+    "fileName": "7.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080216",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1253503002",
+        "ITEM_NO": "443873403",
+        "QTY": "1920",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "2650.75"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1253936002",
+        "ITEM_NO": "443873403",
+        "QTY": "960",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "1325.38"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1253936003",
+        "ITEM_NO": "443873403",
+        "QTY": "4800",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "6626.88"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1253936004",
+        "ITEM_NO": "443873403",
+        "QTY": "2880",
+        "UNIT_PRICE": "1.3806",
+        "AMOUNT": "3976.13"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1254501008",
+        "ITEM_NO": "448079503",
+        "QTY": "4173",
+        "UNIT_PRICE": "1.019",
+        "AMOUNT": "4252.29"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1255111010",
+        "ITEM_NO": "448079503",
+        "QTY": "3827",
+        "UNIT_PRICE": "1.019",
+        "AMOUNT": "3899.71"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1253936011",
+        "ITEM_NO": "448787501",
+        "QTY": "14000",
+        "UNIT_PRICE": "1.1965",
+        "AMOUNT": "16751"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1255538001",
+        "ITEM_NO": "454755802",
+        "QTY": "640",
+        "UNIT_PRICE": "78.2148",
+        "AMOUNT": "50057.47"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1255538002",
+        "ITEM_NO": "454755802",
+        "QTY": "40",
+        "UNIT_PRICE": "78.2148",
+        "AMOUNT": "3128.59"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1253362013",
+        "ITEM_NO": "459920801",
+        "QTY": "1800",
+        "UNIT_PRICE": "1.5639",
+        "AMOUNT": "2815.02"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1253936014",
+        "ITEM_NO": "459920801",
+        "QTY": "900",
+        "UNIT_PRICE": "1.5639",
+        "AMOUNT": "1407.51"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1253936015",
+        "ITEM_NO": "474502701",
+        "QTY": "3000",
+        "UNIT_PRICE": "1.3457",
+        "AMOUNT": "4037.1"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1253936016",
+        "ITEM_NO": "500294602",
+        "QTY": "5600",
+        "UNIT_PRICE": "1.5443",
+        "AMOUNT": "8648.08"
+      },
+      {
+        "INVOICE_NO": "IV-23080216",
+        "PO_NO": "1253529001",
+        "ITEM_NO": "500526502",
+        "QTY": "480",
+        "UNIT_PRICE": "5.4206",
+        "AMOUNT": "2601.89"
+      }
+    ]
+  },
+  {
+    "fileName": "8.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080233",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080233",
+        "PO_NO": "1253936051",
+        "ITEM_NO": "X25917971",
+        "QTY": "1200",
+        "UNIT_PRICE": "5.0485",
+        "AMOUNT": "6058.2"
+      },
+      {
+        "INVOICE_NO": "IV-23080233",
+        "PO_NO": "1254915006",
+        "ITEM_NO": "X25923402",
+        "QTY": "225",
+        "UNIT_PRICE": "17.4938",
+        "AMOUNT": "3936.11"
+      },
+      {
+        "INVOICE_NO": "IV-23080233",
+        "PO_NO": "1254915007",
+        "ITEM_NO": "X25923402",
+        "QTY": "375",
+        "UNIT_PRICE": "17.4938",
+        "AMOUNT": "6560.18"
+      },
+      {
+        "INVOICE_NO": "IV-23080233",
+        "PO_NO": "1253936056",
+        "ITEM_NO": "X25945931",
+        "QTY": "560",
+        "UNIT_PRICE": "37.2445",
+        "AMOUNT": "20856.92"
+      },
+      {
+        "INVOICE_NO": "IV-23080233",
+        "PO_NO": "1253936057",
+        "ITEM_NO": "X25945931",
+        "QTY": "240",
+        "UNIT_PRICE": "37.2445",
+        "AMOUNT": "8938.68"
+      },
+      {
+        "INVOICE_NO": "IV-23080233",
+        "PO_NO": "1253936059",
+        "ITEM_NO": "X50009261",
+        "QTY": "400",
+        "UNIT_PRICE": "29.9303",
+        "AMOUNT": "11972.12"
+      },
+      {
+        "INVOICE_NO": "IV-23080233",
+        "PO_NO": "1253936060",
+        "ITEM_NO": "X50009261",
+        "QTY": "800",
+        "UNIT_PRICE": "29.9303",
+        "AMOUNT": "23944.24"
+      },
+      {
+        "INVOICE_NO": "IV-23080233",
+        "PO_NO": "1253936061",
+        "ITEM_NO": "X50019522",
+        "QTY": "300",
+        "UNIT_PRICE": "39.6469",
+        "AMOUNT": "11894.07"
+      },
+      {
+        "INVOICE_NO": "IV-23080233",
+        "PO_NO": "1253362062",
+        "ITEM_NO": "X50029891",
+        "QTY": "400",
+        "UNIT_PRICE": "11.1247",
+        "AMOUNT": "4449.88"
+      },
+      {
+        "INVOICE_NO": "IV-23080233",
+        "PO_NO": "1252786071",
+        "ITEM_NO": "X50038851",
+        "QTY": "150",
+        "UNIT_PRICE": "1211.931",
+        "AMOUNT": "181789.65"
+      },
+      {
+        "INVOICE_NO": "IV-23080233",
+        "PO_NO": "1254501052",
+        "ITEM_NO": "X50038851",
+        "QTY": "1050",
+        "UNIT_PRICE": "1211.931",
+        "AMOUNT": "1272527.55"
+      }
+    ]
+  },
+  {
+    "fileName": "9.YAMAKOH.xlsx",
+    "INVOICE_tag": "IV-23080232",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1251614052",
+        "ITEM_NO": "505150901",
+        "QTY": "360",
+        "UNIT_PRICE": "3.53",
+        "AMOUNT": "1270.8"
+      },
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1250467046",
+        "ITEM_NO": "505175201",
+        "QTY": "360",
+        "UNIT_PRICE": "25.4817",
+        "AMOUNT": "9173.41"
+      },
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1250467053",
+        "ITEM_NO": "505179301",
+        "QTY": "360",
+        "UNIT_PRICE": "9.9709",
+        "AMOUNT": "3589.52"
+      },
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1250467054",
+        "ITEM_NO": "505179402",
+        "QTY": "400",
+        "UNIT_PRICE": "5.4227",
+        "AMOUNT": "2169.08"
+      },
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1253362027",
+        "ITEM_NO": "505269201",
+        "QTY": "900",
+        "UNIT_PRICE": "1.953",
+        "AMOUNT": "1757.7"
+      },
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1253362029",
+        "ITEM_NO": "505270801",
+        "QTY": "800",
+        "UNIT_PRICE": "4.8299",
+        "AMOUNT": "3863.92"
+      },
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1253362031",
+        "ITEM_NO": "505270901",
+        "QTY": "720",
+        "UNIT_PRICE": "1.9927",
+        "AMOUNT": "1434.74"
+      },
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1253362033",
+        "ITEM_NO": "505271801",
+        "QTY": "1440",
+        "UNIT_PRICE": "2.2197",
+        "AMOUNT": "3196.37"
+      },
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1253362035",
+        "ITEM_NO": "505271901",
+        "QTY": "1440",
+        "UNIT_PRICE": "2.2996",
+        "AMOUNT": "3311.42"
+      },
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1253362037",
+        "ITEM_NO": "505272301",
+        "QTY": "900",
+        "UNIT_PRICE": "2.0335",
+        "AMOUNT": "1830.15"
+      },
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1253362039",
+        "ITEM_NO": "505274301",
+        "QTY": "1200",
+        "UNIT_PRICE": "3.1938",
+        "AMOUNT": "3832.56"
+      },
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1253362041",
+        "ITEM_NO": "505274501",
+        "QTY": "900",
+        "UNIT_PRICE": "1.8093",
+        "AMOUNT": "1628.37"
+      },
+      {
+        "INVOICE_NO": "IV-23080232",
+        "PO_NO": "1253362043",
+        "ITEM_NO": "505277801",
+        "QTY": "900",
+        "UNIT_PRICE": "1.967",
+        "AMOUNT": "1770.3"
+      }
+    ]
+  },
+  {
+    "fileName": "Yamakoh-19092023091520-0001.xlsx",
+    "INVOICE_tag": "IV-23090163",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1258025002",
+        "ITEM_NO": "448087101",
+        "QTY": "2000",
+        "UNIT_PRICE": "1.1868",
+        "AMOUNT": "2373.6"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1258025004",
+        "ITEM_NO": "448087201",
+        "QTY": "2000",
+        "UNIT_PRICE": "1.1193",
+        "AMOUNT": "2238.6"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1255599004",
+        "ITEM_NO": "457483501",
+        "QTY": "3240",
+        "UNIT_PRICE": "10.9447",
+        "AMOUNT": "35460.83"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1256180004",
+        "ITEM_NO": "459800601",
+        "QTY": "1800",
+        "UNIT_PRICE": "5.5771",
+        "AMOUNT": "10038.78"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1256180006",
+        "ITEM_NO": "459800701",
+        "QTY": "1800",
+        "UNIT_PRICE": "5.5771",
+        "AMOUNT": "10038.78"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1258025008",
+        "ITEM_NO": "469217901",
+        "QTY": "2160",
+        "UNIT_PRICE": "3.3941",
+        "AMOUNT": "7331.26"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1256180009",
+        "ITEM_NO": "500294602",
+        "QTY": "5600",
+        "UNIT_PRICE": "1.5443",
+        "AMOUNT": "8648.08"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1256209001",
+        "ITEM_NO": "500294602",
+        "QTY": "2800",
+        "UNIT_PRICE": "1.5443",
+        "AMOUNT": "4324.04"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1252641010",
+        "ITEM_NO": "500423402",
+        "QTY": "900",
+        "UNIT_PRICE": "1.5413",
+        "AMOUNT": "1387.17"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1258025014",
+        "ITEM_NO": "501535801",
+        "QTY": "1080",
+        "UNIT_PRICE": "2.6322",
+        "AMOUNT": "2842.78"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1255599010",
+        "ITEM_NO": "502252702",
+        "QTY": "1200",
+        "UNIT_PRICE": "4.5827",
+        "AMOUNT": "5499.24"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1255599011",
+        "ITEM_NO": "502258201",
+        "QTY": "720",
+        "UNIT_PRICE": "6.3576",
+        "AMOUNT": "4577.47"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1253806015",
+        "ITEM_NO": "X50003492",
+        "QTY": "350",
+        "UNIT_PRICE": "122.6075",
+        "AMOUNT": "42912.63"
+      },
+      {
+        "INVOICE_NO": "IV-23090163",
+        "PO_NO": "1256180021",
+        "ITEM_NO": "X50004542",
+        "QTY": "1080",
+        "UNIT_PRICE": "37.6447",
+        "AMOUNT": "40656.28"
+      }
+    ]
+  },
+  {
+    "fileName": "Yamakoh1-21092023084434-0001.xlsx",
+    "INVOICE_tag": "IV-23090188",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1257418001",
+        "ITEM_NO": "448087101",
+        "QTY": "2000",
+        "UNIT_PRICE": "1.1868",
+        "AMOUNT": "2373.6"
+      },
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1257418002",
+        "ITEM_NO": "448087101",
+        "QTY": "2000",
+        "UNIT_PRICE": "1.1868",
+        "AMOUNT": "2373.6"
+      },
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1257418003",
+        "ITEM_NO": "448087201",
+        "QTY": "2000",
+        "UNIT_PRICE": "1.1193",
+        "AMOUNT": "2238.6"
+      },
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1257418004",
+        "ITEM_NO": "448087201",
+        "QTY": "2000",
+        "UNIT_PRICE": "1.1193",
+        "AMOUNT": "2238.6"
+      },
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1253806004",
+        "ITEM_NO": "457483521",
+        "QTY": "377",
+        "UNIT_PRICE": "8.5219",
+        "AMOUNT": "3212.76"
+      },
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1254387004",
+        "ITEM_NO": "457483521",
+        "QTY": "2863",
+        "UNIT_PRICE": "8.5219",
+        "AMOUNT": "24398.2"
+      },
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1256180005",
+        "ITEM_NO": "459800601",
+        "QTY": "1800",
+        "UNIT_PRICE": "5.5771",
+        "AMOUNT": "10038.78"
+      },
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1258025007",
+        "ITEM_NO": "469214602",
+        "QTY": "10000",
+        "UNIT_PRICE": "2.444",
+        "AMOUNT": "24440"
+      },
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1258025009",
+        "ITEM_NO": "469217901",
+        "QTY": "1080",
+        "UNIT_PRICE": "3.3941",
+        "AMOUNT": "3665.63"
+      },
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1257418008",
+        "ITEM_NO": "469217901",
+        "QTY": "1080",
+        "UNIT_PRICE": "3.3941",
+        "AMOUNT": "3665.63"
+      },
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1257418011",
+        "ITEM_NO": "500294602",
+        "QTY": "5600",
+        "UNIT_PRICE": "1.5443",
+        "AMOUNT": "8648.08"
+      },
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1257418012",
+        "ITEM_NO": "500389901",
+        "QTY": "3000",
+        "UNIT_PRICE": "1.5834",
+        "AMOUNT": "4750.2"
+      },
+      {
+        "INVOICE_NO": "IV-23090188",
+        "PO_NO": "1251487014",
+        "ITEM_NO": "501772101",
+        "QTY": "900",
+        "UNIT_PRICE": "2.3316",
+        "AMOUNT": "2098.44"
+      }
+    ]
+  },
+  {
+    "fileName": "Yamakoh2-21092023084500-0001.xlsx",
+    "INVOICE_tag": "IV-23090189",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23090189",
+        "PO_NO": "1258025015",
+        "ITEM_NO": "501535801",
+        "QTY": "1080",
+        "UNIT_PRICE": "2.6322",
+        "AMOUNT": "2842.78"
+      },
+      {
+        "INVOICE_NO": "IV-23090189",
+        "PO_NO": "1254970013",
+        "ITEM_NO": "501535801",
+        "QTY": "1080",
+        "UNIT_PRICE": "2.6322",
+        "AMOUNT": "2842.78"
+      },
+      {
+        "INVOICE_NO": "IV-23090189",
+        "PO_NO": "1254970014",
+        "ITEM_NO": "501535801",
+        "QTY": "1080",
+        "UNIT_PRICE": "2.6322",
+        "AMOUNT": "2842.78"
+      },
+      {
+        "INVOICE_NO": "IV-23090189",
+        "PO_NO": "1254387013",
+        "ITEM_NO": "501772301",
+        "QTY": "1200",
+        "UNIT_PRICE": "1.4501",
+        "AMOUNT": "1740.12"
+      },
+      {
+        "INVOICE_NO": "IV-23090189",
+        "PO_NO": "1253806011",
+        "ITEM_NO": "501775801",
+        "QTY": "600",
+        "UNIT_PRICE": "1.8288",
+        "AMOUNT": "1097.28"
+      },
+      {
+        "INVOICE_NO": "IV-23090189",
+        "PO_NO": "1253806012",
+        "ITEM_NO": "501776301",
+        "QTY": "900",
+        "UNIT_PRICE": "3.0796",
+        "AMOUNT": "2771.64"
+      },
+      {
+        "INVOICE_NO": "IV-23090189",
+        "PO_NO": "1258025016",
+        "ITEM_NO": "502252702",
+        "QTY": "400",
+        "UNIT_PRICE": "4.5827",
+        "AMOUNT": "1833.08"
+      },
+      {
+        "INVOICE_NO": "IV-23090189",
+        "PO_NO": "1255599011",
+        "ITEM_NO": "502258201",
+        "QTY": "360",
+        "UNIT_PRICE": "6.3576",
+        "AMOUNT": "2288.74"
+      },
+      {
+        "INVOICE_NO": "IV-23090189",
+        "PO_NO": "1258025018",
+        "ITEM_NO": "X25918121",
+        "QTY": "1800",
+        "UNIT_PRICE": "4.7799",
+        "AMOUNT": "8603.82"
+      },
+      {
+        "INVOICE_NO": "IV-23090189",
+        "PO_NO": "1258025019",
+        "ITEM_NO": "X25918121",
+        "QTY": "1800",
+        "UNIT_PRICE": "4.7799",
+        "AMOUNT": "8603.82"
+      },
+      {
+        "INVOICE_NO": "IV-23090189",
+        "PO_NO": "1253806015",
+        "ITEM_NO": "X50003492",
+        "QTY": "1750",
+        "UNIT_PRICE": "122.6075",
+        "AMOUNT": "214563.13"
+      }
+    ]
+  },
+  {
+    "fileName": "YAMAKOH  PRECISION (THAILAND).xlsx",
+    "INVOICE_tag": "IV-23090013",
+    "data": [
+      {
+        "INVOICE_NO": "IV-23090013",
+        "PO_NO": "1253831002",
+        "ITEM_NO": "500294602",
+        "QTY": "2800",
+        "UNIT_PRICE": "1.5443",
+        "AMOUNT": "4324.04"
+      },
+      {
+        "INVOICE_NO": "IV-23090013",
+        "PO_NO": "1254387014",
+        "ITEM_NO": "502252702",
+        "QTY": "800",
+        "UNIT_PRICE": "4.5827",
+        "AMOUNT": "3666.16"
+      },
+      {
+        "INVOICE_NO": "IV-23090013",
+        "PO_NO": "1254387015",
+        "ITEM_NO": "502258201",
+        "QTY": "720",
+        "UNIT_PRICE": "6.3576",
+        "AMOUNT": "4577.47"
+      },
+      {
+        "INVOICE_NO": "IV-23090013",
+        "PO_NO": "1253806015",
+        "ITEM_NO": "X50003492",
+        "QTY": "560",
+        "UNIT_PRICE": "122.6075",
+        "AMOUNT": "68660.2"
+      }
+    ]
+  }
+]

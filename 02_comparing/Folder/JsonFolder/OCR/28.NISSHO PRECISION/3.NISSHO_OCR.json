@@ -1,0 +1,91 @@
+[
+  {
+    "INVOICE_NO": "L23090445",
+    "PO_NO": "1256309027",
+    "ITEM_NO": "474666701",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.494,
+    "AMOUNT": 1494,
+    "% Confidence": 0.9932128906250001,
+    "filename": "3.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090445",
+    "ITEM_NO": "56309028",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.494,
+    "AMOUNT": 1494,
+    "% Confidence": 0.8251953125,
+    "filename": "3.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090445",
+    "PO_NO": "1256309040",
+    "ITEM_NO": "474667301",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.6972,
+    "AMOUNT": 1394.4,
+    "% Confidence": 0.9956461588541666,
+    "filename": "3.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090445",
+    "PO_NO": "1256309042",
+    "ITEM_NO": "474667601",
+    "QTY": 500,
+    "UNIT_PRICE": 0.1892,
+    "AMOUNT": 94.6,
+    "% Confidence": 0.9927083333333333,
+    "filename": "3.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090445",
+    "PO_NO": "1256309043",
+    "ITEM_NO": "474667601",
+    "QTY": 1500,
+    "UNIT_PRICE": 0.1892,
+    "AMOUNT": 283.8,
+    "% Confidence": 0.9905436197916666,
+    "filename": "3.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090445",
+    "PO_NO": "1256496002",
+    "ITEM_NO": "500368101",
+    "QTY": 500,
+    "UNIT_PRICE": 0.0986,
+    "AMOUNT": 49.3,
+    "% Confidence": 0.995361328125,
+    "filename": "3.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090445",
+    "PO_NO": "1256496003",
+    "ITEM_NO": "500368101",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.0986,
+    "AMOUNT": 197.2,
+    "% Confidence": 0.9937744140625,
+    "filename": "3.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090445",
+    "PO_NO": "1257136004",
+    "ITEM_NO": "500368101",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.0986,
+    "AMOUNT": 197.2,
+    "% Confidence": 0.9922688802083334,
+    "filename": "3.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090445",
+    "PO_NO": "1257136005",
+    "ITEM_NO": "500368101",
+    "QTY": 500,
+    "UNIT_PRICE": 0.0986,
+    "AMOUNT": 36777,
+    "% Confidence": 0.9270263671875,
+    "filename": "3.NISSHO.json"
+  }
+]

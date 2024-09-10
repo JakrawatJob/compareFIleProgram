@@ -1,0 +1,18 @@
+[
+  {
+    "INVOICE_NO": "IV0056390-634",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.24431,
+    "AMOUNT": 2443.1,
+    "% Confidence": 0.6643880208333334,
+    "filename": "ENT (THAILAND) (1).json"
+  },
+  {
+    "INVOICE_NO": "IV0056390-634",
+    "QTY": 20000,
+    "UNIT_PRICE": 0.27074,
+    "AMOUNT": 5414.8,
+    "% Confidence": 0.6650390625,
+    "filename": "ENT (THAILAND) (1).json"
+  }
+]

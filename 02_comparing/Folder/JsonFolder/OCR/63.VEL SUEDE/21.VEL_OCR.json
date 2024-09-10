@@ -1,0 +1,92 @@
+[
+  {
+    "INVOICE_NO": "DY233797",
+    "PO_NO": "1256951019",
+    "ITEM_NO": "458872601",
+    "QTY": 1926,
+    "UNIT_PRICE": 0.3371,
+    "AMOUNT": 649.25,
+    "% Confidence": 0.99365234375,
+    "filename": "21.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233797",
+    "PO_NO": "1256951020",
+    "ITEM_NO": "458872601",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.3371,
+    "AMOUNT": 674.2,
+    "% Confidence": 0.9940592447916666,
+    "filename": "21.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233797",
+    "PO_NO": "9101285037",
+    "ITEM_NO": "458872601",
+    "QTY": 74,
+    "UNIT_PRICE": 0.3371,
+    "AMOUNT": 24.95,
+    "% Confidence": 0.994384765625,
+    "filename": "21.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233797",
+    "PO_NO": "9101285012",
+    "ITEM_NO": "458967001",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.4144,
+    "AMOUNT": 414.4,
+    "% Confidence": 0.99560546875,
+    "filename": "21.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233797",
+    "PO_NO": "9101339029",
+    "ITEM_NO": "458994602",
+    "QTY": 1800,
+    "UNIT_PRICE": 1.0847,
+    "AMOUNT": 1952.46,
+    "% Confidence": 0.993896484375,
+    "filename": "21.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233797",
+    "PO_NO": "1256747110",
+    "ITEM_NO": "459238601",
+    "QTY": 100,
+    "UNIT_PRICE": 2.4696,
+    "AMOUNT": 246.96,
+    "% Confidence": 0.9956868489583334,
+    "filename": "21.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233797",
+    "PO_NO": "1257363142",
+    "ITEM_NO": "459238601",
+    "QTY": 50,
+    "UNIT_PRICE": 2.4696,
+    "AMOUNT": 123.48,
+    "% Confidence": 0.9956868489583334,
+    "filename": "21.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233797",
+    "PO_NO": "1256747111",
+    "ITEM_NO": "459238701",
+    "QTY": 200,
+    "UNIT_PRICE": 2.4254,
+    "AMOUNT": 485.08,
+    "% Confidence": 0.995849609375,
+    "filename": "21.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233797",
+    "PO_NO": "1257363144",
+    "ITEM_NO": "459238801",
+    "QTY": 150,
+    "UNIT_PRICE": 2.2997,
+    "AMOUNT": 4915.74,
+    "% Confidence": 0.9294270833333332,
+    "filename": "21.VEL.json"
+  }
+]

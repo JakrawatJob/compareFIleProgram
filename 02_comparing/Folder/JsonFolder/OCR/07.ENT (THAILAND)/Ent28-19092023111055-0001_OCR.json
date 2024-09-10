@@ -1,0 +1,81 @@
+[
+  {
+    "INVOICE_NO": "E2309130",
+    "PO_NO": "1256841010",
+    "ITEM_NO": "430010611",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.06787,
+    "AMOUNT": 678.7,
+    "% Confidence": 0.9984537760416666,
+    "filename": "Ent28-19092023111055-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309130",
+    "PO_NO": "1256841011",
+    "ITEM_NO": "430010611",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.06787,
+    "AMOUNT": 339.35,
+    "% Confidence": 0.9984537760416666,
+    "filename": "Ent28-19092023111055-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309130",
+    "PO_NO": "1256841012",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.06787,
+    "AMOUNT": 339.35,
+    "% Confidence": 0.832275390625,
+    "filename": "Ent28-19092023111055-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309130",
+    "PO_NO": "1254999013",
+    "ITEM_NO": "441276901",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.2483,
+    "AMOUNT": 2483,
+    "% Confidence": 0.9984537760416666,
+    "filename": "Ent28-19092023111055-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309130",
+    "PO_NO": "1253833010",
+    "ITEM_NO": "443388221",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.37283,
+    "AMOUNT": 3728.3,
+    "% Confidence": 0.9984537760416666,
+    "filename": "Ent28-19092023111055-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309130",
+    "PO_NO": "1254415009",
+    "ITEM_NO": "443388221",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.37283,
+    "AMOUNT": 3728.3,
+    "% Confidence": 0.9983723958333334,
+    "filename": "Ent28-19092023111055-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309130",
+    "PO_NO": "1254999014",
+    "ITEM_NO": "443388221",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.37283,
+    "AMOUNT": 3728.3,
+    "% Confidence": 0.998046875,
+    "filename": "Ent28-19092023111055-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309130",
+    "PO_NO": "1256211009",
+    "ITEM_NO": "443388221",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.37283,
+    "AMOUNT": 3728.3,
+    "% Confidence": 0.9989420572916666,
+    "filename": "Ent28-19092023111055-0001.json"
+  }
+]

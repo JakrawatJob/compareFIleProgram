@@ -1,0 +1,42 @@
+[
+  {
+    "INVOICE_NO": "MM6609-1150",
+    "PO_NO": "9101321007",
+    "ITEM_NO": "469822803",
+    "QTY": 1305,
+    "UNIT_PRICE": 1.39,
+    "AMOUNT": 1683.45,
+    "% Confidence": 0.9289252387152778,
+    "filename": "16.MAE MAE.json"
+  },
+  {
+    "INVOICE_NO": "MM6609-1150",
+    "PO_NO": "9101321008",
+    "ITEM_NO": "502945402",
+    "QTY": 550,
+    "UNIT_PRICE": 0.8,
+    "AMOUNT": 440,
+    "% Confidence": 0.9892578125,
+    "filename": "16.MAE MAE.json"
+  },
+  {
+    "INVOICE_NO": "MM6609-1150",
+    "PO_NO": "9101321010",
+    "ITEM_NO": "446512204",
+    "QTY": 412,
+    "UNIT_PRICE": 1.11,
+    "AMOUNT": 156.56,
+    "% Confidence": 0.9288981119791666,
+    "filename": "16.MAE MAE.json"
+  },
+  {
+    "INVOICE_NO": "MM6609-1150",
+    "PO_NO": "9101321012",
+    "ITEM_NO": "469823504",
+    "QTY": 820,
+    "UNIT_PRICE": 1.11,
+    "AMOUNT": 3190.21,
+    "% Confidence": 0.925927734375,
+    "filename": "16.MAE MAE.json"
+  }
+]

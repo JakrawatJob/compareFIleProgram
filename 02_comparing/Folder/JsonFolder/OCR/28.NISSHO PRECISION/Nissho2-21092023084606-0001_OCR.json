@@ -1,0 +1,82 @@
+[
+  {
+    "INVOICE_NO": "L23090630",
+    "PO_NO": "1257417031",
+    "ITEM_NO": "500466901",
+    "QTY": 3000,
+    "UNIT_PRICE": 1.24251,
+    "AMOUNT": 3727.53,
+    "% Confidence": 0.99658203125,
+    "filename": "Nissho2-21092023084606-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090630",
+    "PO_NO": "1257417008",
+    "ITEM_NO": "469224711",
+    "QTY": 1000,
+    "UNIT_PRICE": 3.6495,
+    "AMOUNT": 3649.5,
+    "% Confidence": 0.9969075520833334,
+    "filename": "Nissho2-21092023084606-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090630",
+    "PO_NO": "1258024008",
+    "ITEM_NO": "469224711",
+    "QTY": 1000,
+    "UNIT_PRICE": 3.6495,
+    "AMOUNT": 3649.5,
+    "% Confidence": 0.9970703125,
+    "filename": "Nissho2-21092023084606-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090630",
+    "PO_NO": "1257417042",
+    "ITEM_NO": "502246301",
+    "QTY": 5000,
+    "UNIT_PRICE": 1.5787,
+    "AMOUNT": 7893.5,
+    "% Confidence": 0.996826171875,
+    "filename": "Nissho2-21092023084606-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090630",
+    "PO_NO": "1257417043",
+    "ITEM_NO": "502256301",
+    "QTY": 5000,
+    "UNIT_PRICE": 10.4381,
+    "AMOUNT": 52190.5,
+    "% Confidence": 0.99658203125,
+    "filename": "Nissho2-21092023084606-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090630",
+    "PO_NO": "1257417053",
+    "ITEM_NO": "502705301",
+    "QTY": 3000,
+    "UNIT_PRICE": 5.3784,
+    "AMOUNT": 16135.2,
+    "% Confidence": 0.9969889322916666,
+    "filename": "Nissho2-21092023084606-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090630",
+    "PO_NO": "1258024052",
+    "ITEM_NO": "502705301",
+    "QTY": 3000,
+    "UNIT_PRICE": 5.3784,
+    "AMOUNT": 16135.2,
+    "% Confidence": 0.9967447916666666,
+    "filename": "Nissho2-21092023084606-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090630",
+    "PO_NO": "1258024053",
+    "ITEM_NO": "502705301",
+    "QTY": 3000,
+    "UNIT_PRICE": 5.3784,
+    "AMOUNT": 16135.2,
+    "% Confidence": 0.9966634114583334,
+    "filename": "Nissho2-21092023084606-0001.json"
+  }
+]

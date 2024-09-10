@@ -1,0 +1,32 @@
+[
+  {
+    "INVOICE_NO": "L23090433",
+    "PO_NO": "1257085002",
+    "ITEM_NO": "457926701",
+    "QTY": 20000,
+    "UNIT_PRICE": 0.3101,
+    "AMOUNT": 6202,
+    "% Confidence": 0.9974772135416666,
+    "filename": "27.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090433",
+    "PO_NO": "57085003",
+    "ITEM_NO": "457926701",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.3101,
+    "AMOUNT": 3101,
+    "% Confidence": 0.99658203125,
+    "filename": "27.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090433",
+    "PO_NO": "1257085004",
+    "ITEM_NO": "457926701",
+    "QTY": 20000,
+    "UNIT_PRICE": 0.3101,
+    "AMOUNT": 6202,
+    "% Confidence": 0.997314453125,
+    "filename": "27.NISSHO.json"
+  }
+]

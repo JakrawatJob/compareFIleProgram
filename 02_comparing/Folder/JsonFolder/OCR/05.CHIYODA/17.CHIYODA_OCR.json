@@ -1,0 +1,132 @@
+[
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099009",
+    "ITEM_NO": "500541501",
+    "QTY": 1000,
+    "UNIT_PRICE": 5.6,
+    "AMOUNT": 5600,
+    "% Confidence": 0.9971516927083334,
+    "filename": "17.CHIYODA.json"
+  },
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099019",
+    "ITEM_NO": "501696102",
+    "QTY": 1500,
+    "UNIT_PRICE": 0.85,
+    "AMOUNT": 1275,
+    "% Confidence": 0.9977620442708334,
+    "filename": "17.CHIYODA.json"
+  },
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099011",
+    "ITEM_NO": "500923501",
+    "QTY": 2500,
+    "UNIT_PRICE": 0.135,
+    "AMOUNT": 337.5,
+    "% Confidence": 0.99755859375,
+    "filename": "17.CHIYODA.json"
+  },
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099015",
+    "ITEM_NO": "501138301",
+    "QTY": 2500,
+    "UNIT_PRICE": 0.2,
+    "AMOUNT": 500,
+    "% Confidence": 0.9963785807291666,
+    "filename": "17.CHIYODA.json"
+  },
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099021",
+    "ITEM_NO": "502502601",
+    "QTY": 4200,
+    "UNIT_PRICE": 23.3,
+    "AMOUNT": 97860,
+    "% Confidence": 0.9967854817708334,
+    "filename": "17.CHIYODA.json"
+  },
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099028",
+    "ITEM_NO": "504672401",
+    "QTY": 4500,
+    "UNIT_PRICE": 2.3,
+    "AMOUNT": 10350,
+    "% Confidence": 0.9964599609375,
+    "filename": "17.CHIYODA.json"
+  },
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099013",
+    "ITEM_NO": "501005801",
+    "QTY": 4900,
+    "UNIT_PRICE": 1.54,
+    "AMOUNT": 7546,
+    "% Confidence": 0.9971923828125,
+    "filename": "17.CHIYODA.json"
+  },
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099022",
+    "ITEM_NO": "502860201",
+    "QTY": 6000,
+    "UNIT_PRICE": 5.4,
+    "AMOUNT": 32400,
+    "% Confidence": 0.9969482421875,
+    "filename": "17.CHIYODA.json"
+  },
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099027",
+    "ITEM_NO": "504671901",
+    "QTY": 8700,
+    "UNIT_PRICE": 2.95,
+    "AMOUNT": 25665,
+    "% Confidence": 0.99755859375,
+    "filename": "17.CHIYODA.json"
+  },
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099029",
+    "ITEM_NO": "504673201",
+    "QTY": 3600,
+    "UNIT_PRICE": 3.25,
+    "AMOUNT": 11700,
+    "% Confidence": 0.9980875651041666,
+    "filename": "17.CHIYODA.json"
+  },
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099030",
+    "ITEM_NO": "504673301",
+    "QTY": 4000,
+    "UNIT_PRICE": 0.25,
+    "AMOUNT": 1000,
+    "% Confidence": 0.9984944661458334,
+    "filename": "17.CHIYODA.json"
+  },
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099033",
+    "ITEM_NO": "504804101",
+    "QTY": 6000,
+    "UNIT_PRICE": 0.29,
+    "AMOUNT": 8,
+    "% Confidence": 0.9306884765625,
+    "filename": "17.CHIYODA.json"
+  },
+  {
+    "INVOICE_NO": "SI1000315516",
+    "PO_NO": "1255099031",
+    "ITEM_NO": "504802301",
+    "QTY": 6000,
+    "UNIT_PRICE": 0.29,
+    "AMOUNT": 210975.65,
+    "% Confidence": 0.9291829427083332,
+    "filename": "17.CHIYODA.json"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "INVOICE_NO": "67V297366",
+    "PO_NO": "1248471002",
+    "ITEM_NO": "500202101",
+    "QTY": 120000,
+    "UNIT_PRICE": 0.402,
+    "AMOUNT": 48240,
+    "% Confidence": 0.9954833984375,
+    "filename": "31.IWATA BOLT.json"
+  },
+  {
+    "INVOICE_NO": "67V297366",
+    "PO_NO": "1248471005",
+    "ITEM_NO": "500782601",
+    "QTY": 320000,
+    "UNIT_PRICE": 0.296,
+    "AMOUNT": 94720,
+    "% Confidence": 0.9958089192708334,
+    "filename": "31.IWATA BOLT.json"
+  },
+  {
+    "INVOICE_NO": "67V297366",
+    "PO_NO": "1248471007",
+    "ITEM_NO": "500782611",
+    "QTY": 170000,
+    "UNIT_PRICE": 0.307,
+    "AMOUNT": 195150,
+    "% Confidence": 0.9290608723958332,
+    "filename": "31.IWATA BOLT.json"
+  }
+]

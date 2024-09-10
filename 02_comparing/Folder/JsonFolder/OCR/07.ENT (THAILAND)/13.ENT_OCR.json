@@ -1,0 +1,91 @@
+[
+  {
+    "INVOICE_NO": "E2308806",
+    "PO_NO": "1256325080",
+    "ITEM_NO": "428743621",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.49678,
+    "AMOUNT": 2483.9,
+    "% Confidence": 0.9961751302083334,
+    "filename": "13.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308806",
+    "PO_NO": "1256325081",
+    "ITEM_NO": "428743621",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.49678,
+    "AMOUNT": 4967.8,
+    "% Confidence": 0.9969889322916666,
+    "filename": "13.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308806",
+    "PO_NO": "1256325082",
+    "ITEM_NO": "428743621",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.49678,
+    "AMOUNT": 4967.8,
+    "% Confidence": 0.9955240885416666,
+    "filename": "13.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308806",
+    "PO_NO": "1256325083",
+    "ITEM_NO": "428743621",
+    "QTY": 25000,
+    "UNIT_PRICE": 0.49678,
+    "AMOUNT": 12419.5,
+    "% Confidence": 0.99609375,
+    "filename": "13.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308806",
+    "ITEM_NO": "428743621",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.49678,
+    "AMOUNT": 2483.9,
+    "% Confidence": 0.8289388020833334,
+    "filename": "13.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308806",
+    "PO_NO": "1255737062",
+    "ITEM_NO": "430010601",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.06856,
+    "AMOUNT": 342.8,
+    "% Confidence": 0.9952799479166666,
+    "filename": "13.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308806",
+    "PO_NO": "1256325085",
+    "ITEM_NO": "430010601",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.06856,
+    "AMOUNT": 342.8,
+    "% Confidence": 0.9972330729166666,
+    "filename": "13.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308806",
+    "PO_NO": "1255737068",
+    "ITEM_NO": "430011311",
+    "QTY": 2680,
+    "UNIT_PRICE": 0.0787,
+    "AMOUNT": 210.92,
+    "% Confidence": 0.9966634114583334,
+    "filename": "13.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308806",
+    "PO_NO": "1256325092",
+    "ITEM_NO": "430011311",
+    "QTY": 7320,
+    "UNIT_PRICE": 0.0787,
+    "AMOUNT": 576.08,
+    "% Confidence": 0.9964192708333334,
+    "filename": "13.ENT.json"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "INVOICE_NO": "IV-23080221",
+    "PO_NO": "1253936058",
+    "ITEM_NO": "9261",
+    "QTY": 400,
+    "UNIT_PRICE": 29.9303,
+    "AMOUNT": 11972.12,
+    "% Confidence": 0.9955783420138888,
+    "filename": "2.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "IV-23080221",
+    "PO_NO": "1253936059",
+    "ITEM_NO": "9261",
+    "QTY": 1200,
+    "UNIT_PRICE": 29.9303,
+    "AMOUNT": 35916.36,
+    "% Confidence": 0.9953342013888888,
+    "filename": "2.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "IV-23080221",
+    "PO_NO": "1253936061",
+    "ITEM_NO": "X50019522",
+    "QTY": 600,
+    "UNIT_PRICE": 11.1247,
+    "AMOUNT": 23788.14,
+    "% Confidence": 0.9285047743055554,
+    "filename": "2.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "IV-23080221",
+    "PO_NO": "1253362062",
+    "ITEM_NO": "50029891",
+    "QTY": 400,
+    "UNIT_PRICE": 11.1247,
+    "AMOUNT": 4449.88,
+    "% Confidence": 0.9952528211805555,
+    "filename": "2.YAMAKOH.json"
+  }
+]

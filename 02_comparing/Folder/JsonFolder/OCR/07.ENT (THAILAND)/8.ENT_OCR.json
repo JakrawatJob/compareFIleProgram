@@ -1,0 +1,26 @@
+[
+  {
+    "INVOICE_NO": "IV0062939-634",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.62935,
+    "AMOUNT": 3146.75,
+    "% Confidence": 0.665283203125,
+    "filename": "8.ENT.json"
+  },
+  {
+    "INVOICE_NO": "IV0062939-634",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.62935,
+    "AMOUNT": 3146.75,
+    "% Confidence": 0.6648763020833334,
+    "filename": "8.ENT.json"
+  },
+  {
+    "INVOICE_NO": "IV0062939-634",
+    "QTY": 3,
+    "UNIT_PRICE": 0.62935,
+    "AMOUNT": 3146.75,
+    "% Confidence": 0.598779296875,
+    "filename": "8.ENT.json"
+  }
+]

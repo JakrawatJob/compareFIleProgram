@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "22T0050181",
+    "PO_NO": "1228416001",
+    "ITEM_NO": "501319601",
+    "QTY": 18000,
+    "UNIT_PRICE": 5.9054,
+    "AMOUNT": 106297.2,
+    "% Confidence": 0.9957682291666666,
+    "filename": "MEKTEC (9).json"
+  },
+  {
+    "INVOICE_NO": "22T0050181",
+    "PO_NO": "1228871001",
+    "ITEM_NO": "501319601",
+    "QTY": 9000,
+    "UNIT_PRICE": 5.9054,
+    "AMOUNT": 53148.6,
+    "% Confidence": 0.9956868489583334,
+    "filename": "MEKTEC (9).json"
+  }
+]

@@ -1,0 +1,2692 @@
+[
+  {
+    "fileName": "1.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314764",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1252774001",
+        "ITEM_NO": "457578001",
+        "QTY": "450",
+        "UNIT_PRICE": "3.49",
+        "AMOUNT": "1570.5"
+      },
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1252877001",
+        "ITEM_NO": "428191501",
+        "QTY": "4200",
+        "UNIT_PRICE": "1.234",
+        "AMOUNT": "5182.8"
+      },
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1253349003",
+        "ITEM_NO": "457578001",
+        "QTY": "2700",
+        "UNIT_PRICE": "3.49",
+        "AMOUNT": "9423"
+      },
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1253349012",
+        "ITEM_NO": "500677301",
+        "QTY": "600",
+        "UNIT_PRICE": "2.75",
+        "AMOUNT": "1650"
+      },
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1253349004",
+        "ITEM_NO": "457578001",
+        "QTY": "2250",
+        "UNIT_PRICE": "3.49",
+        "AMOUNT": "7852.5"
+      },
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1253924002",
+        "ITEM_NO": "457578001",
+        "QTY": "2250",
+        "UNIT_PRICE": "3.49",
+        "AMOUNT": "7852.5"
+      },
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1253924004",
+        "ITEM_NO": "459144001",
+        "QTY": "2000",
+        "UNIT_PRICE": "0.12",
+        "AMOUNT": "240"
+      },
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1253924003",
+        "ITEM_NO": "457578001",
+        "QTY": "1800",
+        "UNIT_PRICE": "3.49",
+        "AMOUNT": "6282"
+      },
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1253924011",
+        "ITEM_NO": "501696102",
+        "QTY": "1500",
+        "UNIT_PRICE": "0.85",
+        "AMOUNT": "1275"
+      },
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1253924006",
+        "ITEM_NO": "500541501",
+        "QTY": "3000",
+        "UNIT_PRICE": "5.6",
+        "AMOUNT": "16800"
+      },
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1253924009",
+        "ITEM_NO": "501609001",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.9",
+        "AMOUNT": "9500"
+      },
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1253924007",
+        "ITEM_NO": "501138301",
+        "QTY": "2500",
+        "UNIT_PRICE": "0.2",
+        "AMOUNT": "500"
+      },
+      {
+        "INVOICE_NO": "SI1000314764",
+        "PO_NO": "1254731001",
+        "ITEM_NO": "473457802",
+        "QTY": "1600",
+        "UNIT_PRICE": "1.584",
+        "AMOUNT": "2534.4"
+      }
+    ]
+  },
+  {
+    "fileName": "10.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000315619",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000315619",
+        "PO_NO": "1254037002",
+        "ITEM_NO": "428191501",
+        "QTY": "6000",
+        "UNIT_PRICE": "1.234",
+        "AMOUNT": "7404"
+      },
+      {
+        "INVOICE_NO": "SI1000315619",
+        "PO_NO": "1255099016",
+        "ITEM_NO": "501609001",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.9",
+        "AMOUNT": "9500"
+      },
+      {
+        "INVOICE_NO": "SI1000315619",
+        "PO_NO": "1255099026",
+        "ITEM_NO": "503062601",
+        "QTY": "7000",
+        "UNIT_PRICE": "5",
+        "AMOUNT": "35000"
+      },
+      {
+        "INVOICE_NO": "SI1000315619",
+        "PO_NO": "1255099024",
+        "ITEM_NO": "503062201",
+        "QTY": "4600",
+        "UNIT_PRICE": "13.855",
+        "AMOUNT": "63733"
+      },
+      {
+        "INVOICE_NO": "SI1000315619",
+        "PO_NO": "1255099032",
+        "ITEM_NO": "504803501",
+        "QTY": "4000",
+        "UNIT_PRICE": "14.2",
+        "AMOUNT": "56800"
+      },
+      {
+        "INVOICE_NO": "SI1000315619",
+        "PO_NO": "1255099037",
+        "ITEM_NO": "505270701",
+        "QTY": "8000",
+        "UNIT_PRICE": "0.6",
+        "AMOUNT": "4800"
+      },
+      {
+        "INVOICE_NO": "SI1000315619",
+        "PO_NO": "1255223013",
+        "ITEM_NO": "503342101",
+        "QTY": "3600",
+        "UNIT_PRICE": "5.361",
+        "AMOUNT": "19299.6"
+      },
+      {
+        "INVOICE_NO": "SI1000315619",
+        "PO_NO": "1255334002",
+        "ITEM_NO": "473457702",
+        "QTY": "800",
+        "UNIT_PRICE": "3.91",
+        "AMOUNT": "3128"
+      },
+      {
+        "INVOICE_NO": "SI1000315619",
+        "PO_NO": "1255821025",
+        "ITEM_NO": "505274001",
+        "QTY": "2250",
+        "UNIT_PRICE": "1.65",
+        "AMOUNT": "3712.5"
+      },
+      {
+        "INVOICE_NO": "SI1000315619",
+        "PO_NO": "9101005001",
+        "ITEM_NO": "457526411",
+        "QTY": "20",
+        "UNIT_PRICE": "14.72",
+        "AMOUNT": "294.4"
+      },
+      {
+        "INVOICE_NO": "SI1000315619",
+        "PO_NO": "9101056001",
+        "ITEM_NO": "457526411",
+        "QTY": "80",
+        "UNIT_PRICE": "14.72",
+        "AMOUNT": "1177.6"
+      }
+    ]
+  },
+  {
+    "fileName": "11.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000315451",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000315451",
+        "PO_NO": "1252638015",
+        "ITEM_NO": "503913701",
+        "QTY": "5000",
+        "UNIT_PRICE": "0.17",
+        "AMOUNT": "850"
+      },
+      {
+        "INVOICE_NO": "SI1000315451",
+        "PO_NO": "1254160001",
+        "ITEM_NO": "474717002",
+        "QTY": "50000",
+        "UNIT_PRICE": "0.247",
+        "AMOUNT": "12350"
+      },
+      {
+        "INVOICE_NO": "SI1000315451",
+        "PO_NO": "1255099001",
+        "ITEM_NO": "457578001",
+        "QTY": "2250",
+        "UNIT_PRICE": "3.49",
+        "AMOUNT": "7852.5"
+      },
+      {
+        "INVOICE_NO": "SI1000315451",
+        "PO_NO": "1255334002",
+        "ITEM_NO": "473457702",
+        "QTY": "730",
+        "UNIT_PRICE": "3.91",
+        "AMOUNT": "2854.3"
+      }
+    ]
+  },
+  {
+    "fileName": "12.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000315450",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000315450",
+        "PO_NO": "1254488016",
+        "ITEM_NO": "501005901",
+        "QTY": "3300",
+        "UNIT_PRICE": "9.355",
+        "AMOUNT": "30871.5"
+      },
+      {
+        "INVOICE_NO": "SI1000315450",
+        "PO_NO": "1254488032",
+        "ITEM_NO": "502463801",
+        "QTY": "1000",
+        "UNIT_PRICE": "0.35",
+        "AMOUNT": "350"
+      },
+      {
+        "INVOICE_NO": "SI1000315450",
+        "PO_NO": "1254488027",
+        "ITEM_NO": "501696201",
+        "QTY": "2000",
+        "UNIT_PRICE": "0.98",
+        "AMOUNT": "1960"
+      },
+      {
+        "INVOICE_NO": "SI1000315450",
+        "PO_NO": "1254488029",
+        "ITEM_NO": "502113802",
+        "QTY": "2000",
+        "UNIT_PRICE": "9.2",
+        "AMOUNT": "18400"
+      },
+      {
+        "INVOICE_NO": "SI1000315450",
+        "PO_NO": "1254488028",
+        "ITEM_NO": "502093601",
+        "QTY": "3000",
+        "UNIT_PRICE": "9.35",
+        "AMOUNT": "28050"
+      },
+      {
+        "INVOICE_NO": "SI1000315450",
+        "PO_NO": "1254488041",
+        "ITEM_NO": "502997201",
+        "QTY": "5000",
+        "UNIT_PRICE": "1",
+        "AMOUNT": "5000"
+      },
+      {
+        "INVOICE_NO": "SI1000315450",
+        "PO_NO": "1254488038",
+        "ITEM_NO": "502863201",
+        "QTY": "9000",
+        "UNIT_PRICE": "0.19",
+        "AMOUNT": "1710"
+      },
+      {
+        "INVOICE_NO": "SI1000315450",
+        "PO_NO": "1254488039",
+        "ITEM_NO": "502863301",
+        "QTY": "9000",
+        "UNIT_PRICE": "0.1",
+        "AMOUNT": "900"
+      },
+      {
+        "INVOICE_NO": "SI1000315450",
+        "PO_NO": "1254488047",
+        "ITEM_NO": "503653601",
+        "QTY": "3000",
+        "UNIT_PRICE": "23.7",
+        "AMOUNT": "71100"
+      },
+      {
+        "INVOICE_NO": "SI1000315450",
+        "PO_NO": "1254488050",
+        "ITEM_NO": "504470301",
+        "QTY": "5880",
+        "UNIT_PRICE": "7.7",
+        "AMOUNT": "45276"
+      },
+      {
+        "INVOICE_NO": "SI1000315450",
+        "PO_NO": "1254488051",
+        "ITEM_NO": "504671701",
+        "QTY": "2100",
+        "UNIT_PRICE": "23.6",
+        "AMOUNT": "49560"
+      },
+      {
+        "INVOICE_NO": "SI1000315450",
+        "PO_NO": "1254488043",
+        "ITEM_NO": "503062201",
+        "QTY": "1800",
+        "UNIT_PRICE": "13.855",
+        "AMOUNT": "24939"
+      }
+    ]
+  },
+  {
+    "fileName": "13.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000315449",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000315449",
+        "PO_NO": "9100243001",
+        "ITEM_NO": "505330001",
+        "QTY": "5000",
+        "UNIT_PRICE": "1",
+        "AMOUNT": "5000"
+      },
+      {
+        "INVOICE_NO": "SI1000315449",
+        "PO_NO": "1254488060",
+        "ITEM_NO": "504801101",
+        "QTY": "3200",
+        "UNIT_PRICE": "4",
+        "AMOUNT": "12800"
+      },
+      {
+        "INVOICE_NO": "SI1000315449",
+        "PO_NO": "1254488056",
+        "ITEM_NO": "504672501",
+        "QTY": "4800",
+        "UNIT_PRICE": "0.92",
+        "AMOUNT": "4416"
+      },
+      {
+        "INVOICE_NO": "SI1000315449",
+        "PO_NO": "1254684001",
+        "ITEM_NO": "502508201",
+        "QTY": "3000",
+        "UNIT_PRICE": "0.66",
+        "AMOUNT": "1980"
+      },
+      {
+        "INVOICE_NO": "SI1000315449",
+        "PO_NO": "1254488065",
+        "ITEM_NO": "504969101",
+        "QTY": "4000",
+        "UNIT_PRICE": "5",
+        "AMOUNT": "20000"
+      },
+      {
+        "INVOICE_NO": "SI1000315449",
+        "PO_NO": "1254488067",
+        "ITEM_NO": "505269701",
+        "QTY": "6000",
+        "UNIT_PRICE": "0.15",
+        "AMOUNT": "900"
+      },
+      {
+        "INVOICE_NO": "SI1000315449",
+        "PO_NO": "1255099023",
+        "ITEM_NO": "503062201",
+        "QTY": "1000",
+        "UNIT_PRICE": "13.855",
+        "AMOUNT": "13855"
+      },
+      {
+        "INVOICE_NO": "SI1000315449",
+        "PO_NO": "1255099025",
+        "ITEM_NO": "503062601",
+        "QTY": "2000",
+        "UNIT_PRICE": "5",
+        "AMOUNT": "10000"
+      },
+      {
+        "INVOICE_NO": "SI1000315449",
+        "PO_NO": "1255099014",
+        "ITEM_NO": "501138301",
+        "QTY": "2500",
+        "UNIT_PRICE": "0.2",
+        "AMOUNT": "500"
+      },
+      {
+        "INVOICE_NO": "SI1000315449",
+        "PO_NO": "1255099035",
+        "ITEM_NO": "505269501",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.9",
+        "AMOUNT": "9500"
+      },
+      {
+        "INVOICE_NO": "SI1000315449",
+        "PO_NO": "1255223005",
+        "ITEM_NO": "501135003",
+        "QTY": "6000",
+        "UNIT_PRICE": "5.776",
+        "AMOUNT": "34656"
+      },
+      {
+        "INVOICE_NO": "SI1000315449",
+        "PO_NO": "1255223007",
+        "ITEM_NO": "501135203",
+        "QTY": "6000",
+        "UNIT_PRICE": "5.776",
+        "AMOUNT": "34656"
+      }
+    ]
+  },
+  {
+    "fileName": "14CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000315452",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000315452",
+        "PO_NO": "1253461002",
+        "ITEM_NO": "428191501",
+        "QTY": "3800",
+        "UNIT_PRICE": "1.234",
+        "AMOUNT": "4689.2"
+      },
+      {
+        "INVOICE_NO": "SI1000315452",
+        "PO_NO": "1254488009",
+        "ITEM_NO": "500677601",
+        "QTY": "1000",
+        "UNIT_PRICE": "5.1",
+        "AMOUNT": "5100"
+      },
+      {
+        "INVOICE_NO": "SI1000315452",
+        "PO_NO": "1254488049",
+        "ITEM_NO": "504262401",
+        "QTY": "3000",
+        "UNIT_PRICE": "1.4",
+        "AMOUNT": "4200"
+      },
+      {
+        "INVOICE_NO": "SI1000315452",
+        "PO_NO": "1255264002",
+        "ITEM_NO": "504775011",
+        "QTY": "8000",
+        "UNIT_PRICE": "0.11",
+        "AMOUNT": "880"
+      },
+      {
+        "INVOICE_NO": "SI1000315452",
+        "PO_NO": "9101005001",
+        "ITEM_NO": "457526411",
+        "QTY": "200",
+        "UNIT_PRICE": "14.72",
+        "AMOUNT": "2944"
+      }
+    ]
+  },
+  {
+    "fileName": "15.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000315559",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000315559",
+        "PO_NO": "9100502001",
+        "ITEM_NO": "472400311",
+        "QTY": "400",
+        "UNIT_PRICE": "0.9",
+        "AMOUNT": "360"
+      },
+      {
+        "INVOICE_NO": "SI1000315559",
+        "PO_NO": "9100502002",
+        "ITEM_NO": "472400211",
+        "QTY": "100",
+        "UNIT_PRICE": "3.15",
+        "AMOUNT": "315"
+      }
+    ]
+  },
+  {
+    "fileName": "16.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000315525",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000315525",
+        "PO_NO": "1255099006",
+        "ITEM_NO": "500369801",
+        "QTY": "1500",
+        "UNIT_PRICE": "3.1",
+        "AMOUNT": "4650"
+      },
+      {
+        "INVOICE_NO": "SI1000315525",
+        "PO_NO": "1255099007",
+        "ITEM_NO": "500369901",
+        "QTY": "1800",
+        "UNIT_PRICE": "2.85",
+        "AMOUNT": "5130"
+      },
+      {
+        "INVOICE_NO": "SI1000315525",
+        "PO_NO": "1255099024",
+        "ITEM_NO": "503062201",
+        "QTY": "3400",
+        "UNIT_PRICE": "13855",
+        "AMOUNT": "47107"
+      },
+      {
+        "INVOICE_NO": "SI1000315525",
+        "PO_NO": "1255334001",
+        "ITEM_NO": "473457602",
+        "QTY": "600",
+        "UNIT_PRICE": "4.1",
+        "AMOUNT": "2460"
+      }
+    ]
+  },
+  {
+    "fileName": "17.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000315516",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099009",
+        "ITEM_NO": "500541501",
+        "QTY": "1000",
+        "UNIT_PRICE": "5.6",
+        "AMOUNT": "5600"
+      },
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099019",
+        "ITEM_NO": "501696102",
+        "QTY": "1500",
+        "UNIT_PRICE": "0.85",
+        "AMOUNT": "1275"
+      },
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099011",
+        "ITEM_NO": "500923501",
+        "QTY": "2500",
+        "UNIT_PRICE": "0.135",
+        "AMOUNT": "337.5"
+      },
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099015",
+        "ITEM_NO": "501138301",
+        "QTY": "2500",
+        "UNIT_PRICE": "0.2",
+        "AMOUNT": "500"
+      },
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099021",
+        "ITEM_NO": "502502601",
+        "QTY": "4200",
+        "UNIT_PRICE": "23.3",
+        "AMOUNT": "97860"
+      },
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099028",
+        "ITEM_NO": "504672401",
+        "QTY": "4500",
+        "UNIT_PRICE": "2.3",
+        "AMOUNT": "10350"
+      },
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099013",
+        "ITEM_NO": "501005801",
+        "QTY": "4900",
+        "UNIT_PRICE": "1.54",
+        "AMOUNT": "7546"
+      },
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099022",
+        "ITEM_NO": "502860201",
+        "QTY": "6000",
+        "UNIT_PRICE": "5.4",
+        "AMOUNT": "32400"
+      },
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099027",
+        "ITEM_NO": "504671901",
+        "QTY": "8700",
+        "UNIT_PRICE": "2.95",
+        "AMOUNT": "25665"
+      },
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099029",
+        "ITEM_NO": "504673201",
+        "QTY": "3600",
+        "UNIT_PRICE": "3.25",
+        "AMOUNT": "11700"
+      },
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099030",
+        "ITEM_NO": "504673301",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.25",
+        "AMOUNT": "1000"
+      },
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099033",
+        "ITEM_NO": "504804101",
+        "QTY": "6000",
+        "UNIT_PRICE": "0.2",
+        "AMOUNT": "1200"
+      },
+      {
+        "INVOICE_NO": "SI1000315516",
+        "PO_NO": "1255099031",
+        "ITEM_NO": "504802301",
+        "QTY": "6000",
+        "UNIT_PRICE": "0.29",
+        "AMOUNT": "1740"
+      }
+    ]
+  },
+  {
+    "fileName": "18.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000315515",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255223004",
+        "ITEM_NO": "500949801",
+        "QTY": "2240",
+        "UNIT_PRICE": "13.026",
+        "AMOUNT": "29178.24"
+      },
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255099034",
+        "ITEM_NO": "504969101",
+        "QTY": "4000",
+        "UNIT_PRICE": "5",
+        "AMOUNT": "20000"
+      },
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255099036",
+        "ITEM_NO": "505269501",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.9",
+        "AMOUNT": "9500"
+      },
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255099038",
+        "ITEM_NO": "505271301",
+        "QTY": "5000",
+        "UNIT_PRICE": "0.22",
+        "AMOUNT": "1100"
+      },
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255223009",
+        "ITEM_NO": "501464101",
+        "QTY": "5600",
+        "UNIT_PRICE": "2.56",
+        "AMOUNT": "14336"
+      },
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255223008",
+        "ITEM_NO": "501135203",
+        "QTY": "6000",
+        "UNIT_PRICE": "5.776",
+        "AMOUNT": "34656"
+      },
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255223006",
+        "ITEM_NO": "501135003",
+        "QTY": "6000",
+        "UNIT_PRICE": "5.776",
+        "AMOUNT": "34656"
+      },
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255223010",
+        "ITEM_NO": "501464201",
+        "QTY": "8000",
+        "UNIT_PRICE": "1.024",
+        "AMOUNT": "8192"
+      },
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255223003",
+        "ITEM_NO": "500949701",
+        "QTY": "11760",
+        "UNIT_PRICE": "5.861",
+        "AMOUNT": "68925.36"
+      },
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255529001",
+        "ITEM_NO": "504448401",
+        "QTY": "2000",
+        "UNIT_PRICE": "1.85",
+        "AMOUNT": "3700"
+      },
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255529002",
+        "ITEM_NO": "504497501",
+        "QTY": "2000",
+        "UNIT_PRICE": "1.85",
+        "AMOUNT": "3700"
+      },
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255223011",
+        "ITEM_NO": "503341901",
+        "QTY": "2100",
+        "UNIT_PRICE": "11.841",
+        "AMOUNT": "24866.1"
+      },
+      {
+        "INVOICE_NO": "SI1000315515",
+        "PO_NO": "1255223012",
+        "ITEM_NO": "503342001",
+        "QTY": "3300",
+        "UNIT_PRICE": "19.299",
+        "AMOUNT": "63686.7"
+      }
+    ]
+  },
+  {
+    "fileName": "19.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000315517",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000315517",
+        "PO_NO": "1254037001",
+        "ITEM_NO": "428191501",
+        "QTY": "5200",
+        "UNIT_PRICE": "1.234",
+        "AMOUNT": "6416.8"
+      },
+      {
+        "INVOICE_NO": "SI1000315517",
+        "PO_NO": "1252172046",
+        "ITEM_NO": "505269601",
+        "QTY": "4287",
+        "UNIT_PRICE": "0.24",
+        "AMOUNT": "1028.88"
+      },
+      {
+        "INVOICE_NO": "SI1000315517",
+        "PO_NO": "1255099003",
+        "ITEM_NO": "459144001",
+        "QTY": "2000",
+        "UNIT_PRICE": "0.12",
+        "AMOUNT": "240"
+      },
+      {
+        "INVOICE_NO": "SI1000315517",
+        "PO_NO": "1255099008",
+        "ITEM_NO": "600463002",
+        "QTY": "3000",
+        "UNIT_PRICE": "0.9",
+        "AMOUNT": "2700"
+      },
+      {
+        "INVOICE_NO": "SI1000315517",
+        "PO_NO": "1255099002",
+        "ITEM_NO": "457578001",
+        "QTY": "3600",
+        "UNIT_PRICE": "3.49",
+        "AMOUNT": "12564"
+      },
+      {
+        "INVOICE_NO": "SI1000315517",
+        "PO_NO": "1255334003",
+        "ITEM_NO": "473565103",
+        "QTY": "10000",
+        "UNIT_PRICE": "0.336",
+        "AMOUNT": "3360"
+      }
+    ]
+  },
+  {
+    "fileName": "2.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314803",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1253924018",
+        "ITEM_NO": "502863201",
+        "QTY": "9000",
+        "UNIT_PRICE": "0.19",
+        "AMOUNT": "1710"
+      },
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1254037007",
+        "ITEM_NO": "501464101",
+        "QTY": "2400",
+        "UNIT_PRICE": "2.56",
+        "AMOUNT": "6144"
+      },
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1253924028",
+        "ITEM_NO": "504969101",
+        "QTY": "4000",
+        "UNIT_PRICE": "5",
+        "AMOUNT": "20000"
+      },
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1254037004",
+        "ITEM_NO": "500949801",
+        "QTY": "4480",
+        "UNIT_PRICE": "13.026",
+        "AMOUNT": "58356.48"
+      },
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1253924025",
+        "ITEM_NO": "504672501",
+        "QTY": "4800",
+        "UNIT_PRICE": "0.92",
+        "AMOUNT": "4416"
+      },
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1253924023",
+        "ITEM_NO": "503062601",
+        "QTY": "5200",
+        "UNIT_PRICE": "5",
+        "AMOUNT": "26000"
+      },
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1253924022",
+        "ITEM_NO": "503062201",
+        "QTY": "5300",
+        "UNIT_PRICE": "13.855",
+        "AMOUNT": "73431.5"
+      },
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1253924024",
+        "ITEM_NO": "504671901",
+        "QTY": "5800",
+        "UNIT_PRICE": "2.95",
+        "AMOUNT": "17110"
+      },
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1253924026",
+        "ITEM_NO": "504802301",
+        "QTY": "6000",
+        "UNIT_PRICE": "0.29",
+        "AMOUNT": "1740"
+      },
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1253924027",
+        "ITEM_NO": "504804101",
+        "QTY": "6000",
+        "UNIT_PRICE": "0.2",
+        "AMOUNT": "1200"
+      },
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1254037005",
+        "ITEM_NO": "501135003",
+        "QTY": "6000",
+        "UNIT_PRICE": "5.776",
+        "AMOUNT": "34656"
+      },
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1254037006",
+        "ITEM_NO": "501135203",
+        "QTY": "6000",
+        "UNIT_PRICE": "5.776",
+        "AMOUNT": "34656"
+      },
+      {
+        "INVOICE_NO": "SI1000314803",
+        "PO_NO": "1254037003",
+        "ITEM_NO": "500949701",
+        "QTY": "17640",
+        "UNIT_PRICE": "5.861",
+        "AMOUNT": "103388.04"
+      }
+    ]
+  },
+  {
+    "fileName": "20.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000315534",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000315534",
+        "PO_NO": "1256298008",
+        "ITEM_NO": "501139301",
+        "QTY": "3500",
+        "UNIT_PRICE": "1.3241",
+        "AMOUNT": "4634.35"
+      }
+    ]
+  },
+  {
+    "fileName": "21.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314610",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314610",
+        "PO_NO": "1253461006",
+        "ITEM_NO": "500949801",
+        "QTY": "2240",
+        "UNIT_PRICE": "13.026",
+        "AMOUNT": "29178.24"
+      },
+      {
+        "INVOICE_NO": "SI1000314610",
+        "PO_NO": "1253349048",
+        "ITEM_NO": "504802201",
+        "QTY": "4800",
+        "UNIT_PRICE": "0.19",
+        "AMOUNT": "912"
+      },
+      {
+        "INVOICE_NO": "SI1000314610",
+        "PO_NO": "1253461004",
+        "ITEM_NO": "500949701",
+        "QTY": "17640",
+        "UNIT_PRICE": "5.861",
+        "AMOUNT": "103388.04"
+      },
+      {
+        "INVOICE_NO": "SI1000314610",
+        "PO_NO": "1253742004",
+        "ITEM_NO": "504497607",
+        "QTY": "1500",
+        "UNIT_PRICE": "2.9",
+        "AMOUNT": "4350"
+      },
+      {
+        "INVOICE_NO": "SI1000314610",
+        "PO_NO": "1253461014",
+        "ITEM_NO": "501464201",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.024",
+        "AMOUNT": "5120"
+      },
+      {
+        "INVOICE_NO": "SI1000314610",
+        "PO_NO": "1253461015",
+        "ITEM_NO": "503217401",
+        "QTY": "5250",
+        "UNIT_PRICE": "0.97",
+        "AMOUNT": "5092.5"
+      },
+      {
+        "INVOICE_NO": "SI1000314610",
+        "PO_NO": "1253498003",
+        "ITEM_NO": "503471711",
+        "QTY": "3500",
+        "UNIT_PRICE": "1.1",
+        "AMOUNT": "3850"
+      },
+      {
+        "INVOICE_NO": "SI1000314610",
+        "PO_NO": "1253498001",
+        "ITEM_NO": "503471311",
+        "QTY": "9000",
+        "UNIT_PRICE": "6",
+        "AMOUNT": "54000"
+      },
+      {
+        "INVOICE_NO": "SI1000314610",
+        "PO_NO": "1253742001",
+        "ITEM_NO": "503791201",
+        "QTY": "9000",
+        "UNIT_PRICE": "1.4",
+        "AMOUNT": "12600"
+      },
+      {
+        "INVOICE_NO": "SI1000314610",
+        "PO_NO": "1253498006",
+        "ITEM_NO": "503472111",
+        "QTY": "10000",
+        "UNIT_PRICE": "0.1",
+        "AMOUNT": "1000"
+      },
+      {
+        "INVOICE_NO": "SI1000314610",
+        "PO_NO": "9100222007",
+        "ITEM_NO": "505269701",
+        "QTY": "6000",
+        "UNIT_PRICE": "0.15",
+        "AMOUNT": "900"
+      },
+      {
+        "INVOICE_NO": "SI1000314610",
+        "PO_NO": "1253924021",
+        "ITEM_NO": "503062201",
+        "QTY": "1000",
+        "UNIT_PRICE": "13.855",
+        "AMOUNT": "13855"
+      }
+    ]
+  },
+  {
+    "fileName": "22.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314763",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314763",
+        "PO_NO": "1249374044",
+        "ITEM_NO": "503611701",
+        "QTY": "700",
+        "UNIT_PRICE": "7.5",
+        "AMOUNT": "5250"
+      },
+      {
+        "INVOICE_NO": "SI1000314763",
+        "PO_NO": "1252638011",
+        "ITEM_NO": "503605801",
+        "QTY": "6000",
+        "UNIT_PRICE": "0.87",
+        "AMOUNT": "5220"
+      },
+      {
+        "INVOICE_NO": "SI1000314763",
+        "PO_NO": "1253742003",
+        "ITEM_NO": "504497501",
+        "QTY": "2000",
+        "UNIT_PRICE": "1.85",
+        "AMOUNT": "3700"
+      },
+      {
+        "INVOICE_NO": "SI1000314763",
+        "PO_NO": "1253924014",
+        "ITEM_NO": "502245701",
+        "QTY": "1000",
+        "UNIT_PRICE": "2.47",
+        "AMOUNT": "2470"
+      },
+      {
+        "INVOICE_NO": "SI1000314763",
+        "PO_NO": "1253924015",
+        "ITEM_NO": "502463801",
+        "QTY": "1000",
+        "UNIT_PRICE": "0.35",
+        "AMOUNT": "350"
+      },
+      {
+        "INVOICE_NO": "SI1000314763",
+        "PO_NO": "1253924012",
+        "ITEM_NO": "501696201",
+        "QTY": "2000",
+        "UNIT_PRICE": "0.98",
+        "AMOUNT": "1960"
+      },
+      {
+        "INVOICE_NO": "SI1000314763",
+        "PO_NO": "1253924016",
+        "ITEM_NO": "502502601",
+        "QTY": "2100",
+        "UNIT_PRICE": "23.3",
+        "AMOUNT": "48930"
+      },
+      {
+        "INVOICE_NO": "SI1000314763",
+        "PO_NO": "1253924017",
+        "ITEM_NO": "502860201",
+        "QTY": "1800",
+        "UNIT_PRICE": "5.4",
+        "AMOUNT": "9720"
+      },
+      {
+        "INVOICE_NO": "SI1000314763",
+        "PO_NO": "1254037009",
+        "ITEM_NO": "504672601",
+        "QTY": "6500",
+        "UNIT_PRICE": "1.28",
+        "AMOUNT": "8320"
+      },
+      {
+        "INVOICE_NO": "SI1000314763",
+        "PO_NO": "1253924020",
+        "ITEM_NO": "502997201",
+        "QTY": "5000",
+        "UNIT_PRICE": "1",
+        "AMOUNT": "5000"
+      },
+      {
+        "INVOICE_NO": "SI1000314763",
+        "PO_NO": "9100232001",
+        "ITEM_NO": "505269501",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.9",
+        "AMOUNT": "9500"
+      },
+      {
+        "INVOICE_NO": "SI1000314763",
+        "PO_NO": "9100232002",
+        "ITEM_NO": "505271301",
+        "QTY": "5000",
+        "UNIT_PRICE": "0.22",
+        "AMOUNT": "1100"
+      }
+    ]
+  },
+  {
+    "fileName": "23.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314611",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349021",
+        "ITEM_NO": "501138301",
+        "QTY": "2500",
+        "UNIT_PRICE": "0.2",
+        "AMOUNT": "500"
+      },
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349019",
+        "ITEM_NO": "501005901",
+        "QTY": "3300",
+        "UNIT_PRICE": "9.355",
+        "AMOUNT": "30871.5"
+      },
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349036",
+        "ITEM_NO": "503062201",
+        "QTY": "1000",
+        "UNIT_PRICE": "13.855",
+        "AMOUNT": "13855"
+      },
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349030",
+        "ITEM_NO": "501696102",
+        "QTY": "1500",
+        "UNIT_PRICE": "0.85",
+        "AMOUNT": "1275"
+      },
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349034",
+        "ITEM_NO": "502502601",
+        "QTY": "2100",
+        "UNIT_PRICE": "23.3",
+        "AMOUNT": "48930"
+      },
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349031",
+        "ITEM_NO": "502093601",
+        "QTY": "3000",
+        "UNIT_PRICE": "9.35",
+        "AMOUNT": "28050"
+      },
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349023",
+        "ITEM_NO": "501139201",
+        "QTY": "3500",
+        "UNIT_PRICE": "23.5",
+        "AMOUNT": "82250"
+      },
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349040",
+        "ITEM_NO": "503753501",
+        "QTY": "4200",
+        "UNIT_PRICE": "1.9",
+        "AMOUNT": "7980"
+      },
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349028",
+        "ITEM_NO": "501696001",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.35",
+        "AMOUNT": "6750"
+      },
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349042",
+        "ITEM_NO": "504470301",
+        "QTY": "5880",
+        "UNIT_PRICE": "7.7",
+        "AMOUNT": "45276"
+      },
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349047",
+        "ITEM_NO": "504801101",
+        "QTY": "3200",
+        "UNIT_PRICE": "4",
+        "AMOUNT": "12800"
+      },
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349045",
+        "ITEM_NO": "504673201",
+        "QTY": "3600",
+        "UNIT_PRICE": "3.25",
+        "AMOUNT": "11700"
+      },
+      {
+        "INVOICE_NO": "SI1000314611",
+        "PO_NO": "1253349043",
+        "ITEM_NO": "504671901",
+        "QTY": "5800",
+        "UNIT_PRICE": "2.95",
+        "AMOUNT": "17110"
+      }
+    ]
+  },
+  {
+    "fileName": "24.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314612",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314612",
+        "PO_NO": "1252998001",
+        "ITEM_NO": "474717002",
+        "QTY": "50000",
+        "UNIT_PRICE": "0.247",
+        "AMOUNT": "12350"
+      },
+      {
+        "INVOICE_NO": "SI1000314612",
+        "PO_NO": "1253349009",
+        "ITEM_NO": "474667501",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.1",
+        "AMOUNT": "400"
+      },
+      {
+        "INVOICE_NO": "SI1000314612",
+        "PO_NO": "1253349037",
+        "ITEM_NO": "503062601",
+        "QTY": "2000",
+        "UNIT_PRICE": "5",
+        "AMOUNT": "10000"
+      }
+    ]
+  },
+  {
+    "fileName": "25.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314237",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314237",
+        "PO_NO": "1253349039",
+        "ITEM_NO": "503653601",
+        "QTY": "3000",
+        "UNIT_PRICE": "23.7",
+        "AMOUNT": "71100"
+      },
+      {
+        "INVOICE_NO": "SI1000314237",
+        "PO_NO": "1253461005",
+        "ITEM_NO": "500949801",
+        "QTY": "2240",
+        "UNIT_PRICE": "13.026",
+        "AMOUNT": "29178.24"
+      },
+      {
+        "INVOICE_NO": "SI1000314237",
+        "PO_NO": "1253349046",
+        "ITEM_NO": "504673301",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.25",
+        "AMOUNT": "1000"
+      },
+      {
+        "INVOICE_NO": "SI1000314237",
+        "PO_NO": "1253349051",
+        "ITEM_NO": "504969101",
+        "QTY": "4000",
+        "UNIT_PRICE": "5",
+        "AMOUNT": "20000"
+      },
+      {
+        "INVOICE_NO": "SI1000314237",
+        "PO_NO": "1253461003",
+        "ITEM_NO": "500949701",
+        "QTY": "11760",
+        "UNIT_PRICE": "5.861",
+        "AMOUNT": "68925.36"
+      },
+      {
+        "INVOICE_NO": "SI1000314237",
+        "PO_NO": "1253451016",
+        "ITEM_NO": "503341901",
+        "QTY": "2100",
+        "UNIT_PRICE": "11.841",
+        "AMOUNT": "24866.1"
+      },
+      {
+        "INVOICE_NO": "SI1000314237",
+        "PO_NO": "1253461020",
+        "ITEM_NO": "503342201",
+        "QTY": "2750",
+        "UNIT_PRICE": "6.689",
+        "AMOUNT": "18394.75"
+      },
+      {
+        "INVOICE_NO": "SI1000314237",
+        "PO_NO": "1253522001",
+        "ITEM_NO": "502508201",
+        "QTY": "3000",
+        "UNIT_PRICE": "0.66",
+        "AMOUNT": "1980"
+      },
+      {
+        "INVOICE_NO": "SI1000314237",
+        "PO_NO": "1253461019",
+        "ITEM_NO": "503342101",
+        "QTY": "3600",
+        "UNIT_PRICE": "5.361",
+        "AMOUNT": "19299.6"
+      },
+      {
+        "INVOICE_NO": "SI1000314237",
+        "PO_NO": "1253461013",
+        "ITEM_NO": "501464201",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.024",
+        "AMOUNT": "5120"
+      },
+      {
+        "INVOICE_NO": "SI1000314237",
+        "PO_NO": "1253461018",
+        "ITEM_NO": "503342001",
+        "QTY": "6600",
+        "UNIT_PRICE": "19.299",
+        "AMOUNT": "127373.4"
+      },
+      {
+        "INVOICE_NO": "SI1000314237",
+        "PO_NO": "1253498002",
+        "ITEM_NO": "503471611",
+        "QTY": "10000",
+        "UNIT_PRICE": "0.493",
+        "AMOUNT": "4930"
+      }
+    ]
+  },
+  {
+    "fileName": "26.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314238",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314238",
+        "PO_NO": "1252278009",
+        "ITEM_NO": "501135003",
+        "QTY": "1000",
+        "UNIT_PRICE": "5.776",
+        "AMOUNT": "5776"
+      },
+      {
+        "INVOICE_NO": "SI1000314238",
+        "PO_NO": "1253171003",
+        "ITEM_NO": "504448401",
+        "QTY": "2000",
+        "UNIT_PRICE": "1.85",
+        "AMOUNT": "3700"
+      },
+      {
+        "INVOICE_NO": "SI1000314238",
+        "PO_NO": "1252774014",
+        "ITEM_NO": "503062601",
+        "QTY": "4600",
+        "UNIT_PRICE": "5",
+        "AMOUNT": "23000"
+      },
+      {
+        "INVOICE_NO": "SI1000314238",
+        "PO_NO": "1252877009",
+        "ITEM_NO": "503217401",
+        "QTY": "5250",
+        "UNIT_PRICE": "0.97",
+        "AMOUNT": "5092.5"
+      },
+      {
+        "INVOICE_NO": "SI1000314238",
+        "PO_NO": "1252877006",
+        "ITEM_NO": "501135203",
+        "QTY": "1000",
+        "UNIT_PRICE": "5.776",
+        "AMOUNT": "5776"
+      },
+      {
+        "INVOICE_NO": "SI1000314238",
+        "PO_NO": "1253349020",
+        "ITEM_NO": "501138301",
+        "QTY": "2500",
+        "UNIT_PRICE": "0.2",
+        "AMOUNT": "500"
+      },
+      {
+        "INVOICE_NO": "SI1000314238",
+        "PO_NO": "1253349015",
+        "ITEM_NO": "501005701",
+        "QTY": "2590",
+        "UNIT_PRICE": "3.249",
+        "AMOUNT": "8414.91"
+      },
+      {
+        "INVOICE_NO": "SI1000314238",
+        "PO_NO": "1253349027",
+        "ITEM_NO": "501696001",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.35",
+        "AMOUNT": "6750"
+      },
+      {
+        "INVOICE_NO": "SI1000314238",
+        "PO_NO": "1253461007",
+        "ITEM_NO": "501135003",
+        "QTY": "10000",
+        "UNIT_PRICE": "5.776",
+        "AMOUNT": "57760"
+      },
+      {
+        "INVOICE_NO": "SI1000314238",
+        "PO_NO": "1253461009",
+        "ITEM_NO": "501135203",
+        "QTY": "10000",
+        "UNIT_PRICE": "5.776",
+        "AMOUNT": "57760"
+      }
+    ]
+  },
+  {
+    "fileName": "27.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000313688",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000313688",
+        "PO_NO": "9098532034",
+        "ITEM_NO": "504671701",
+        "QTY": "7000",
+        "UNIT_PRICE": "23.6",
+        "AMOUNT": "165200"
+      },
+      {
+        "INVOICE_NO": "SI1000313688",
+        "PO_NO": "1252172012",
+        "ITEM_NO": "500463002",
+        "QTY": "1500",
+        "UNIT_PRICE": "0.9",
+        "AMOUNT": "1350"
+      },
+      {
+        "INVOICE_NO": "SI1000313688",
+        "PO_NO": "1252172025",
+        "ITEM_NO": "501696102",
+        "QTY": "1500",
+        "UNIT_PRICE": "0.85",
+        "AMOUNT": "1275"
+      },
+      {
+        "INVOICE_NO": "SI1000313688",
+        "PO_NO": "1252172020",
+        "ITEM_NO": "501138301",
+        "QTY": "2500",
+        "UNIT_PRICE": "0.2",
+        "AMOUNT": "500"
+      },
+      {
+        "INVOICE_NO": "SI1000313688",
+        "PO_NO": "1252278005",
+        "ITEM_NO": "500949701",
+        "QTY": "11760",
+        "UNIT_PRICE": "5.861",
+        "AMOUNT": "68925.36"
+      },
+      {
+        "INVOICE_NO": "SI1000313688",
+        "PO_NO": "1252774005",
+        "ITEM_NO": "500806301",
+        "QTY": "3000",
+        "UNIT_PRICE": "0.287",
+        "AMOUNT": "861"
+      },
+      {
+        "INVOICE_NO": "SI1000313688",
+        "PO_NO": "1252877007",
+        "ITEM_NO": "501464101",
+        "QTY": "1600",
+        "UNIT_PRICE": "2.56",
+        "AMOUNT": "4096"
+      },
+      {
+        "INVOICE_NO": "SI1000313688",
+        "PO_NO": "1252774011",
+        "ITEM_NO": "502502601",
+        "QTY": "4200",
+        "UNIT_PRICE": "23.3",
+        "AMOUNT": "97860"
+      },
+      {
+        "INVOICE_NO": "SI1000313688",
+        "PO_NO": "1252774010",
+        "ITEM_NO": "501696102",
+        "QTY": "1500",
+        "UNIT_PRICE": "0.85",
+        "AMOUNT": "1275"
+      },
+      {
+        "INVOICE_NO": "SI1000313688",
+        "PO_NO": "1252877004",
+        "ITEM_NO": "500949801",
+        "QTY": "2240",
+        "UNIT_PRICE": "13.026",
+        "AMOUNT": "29178.24"
+      },
+      {
+        "INVOICE_NO": "SI1000313688",
+        "PO_NO": "1252774012",
+        "ITEM_NO": "502620401",
+        "QTY": "6500",
+        "UNIT_PRICE": "0.14",
+        "AMOUNT": "910"
+      },
+      {
+        "INVOICE_NO": "SI1000313688",
+        "PO_NO": "1252912001",
+        "ITEM_NO": "503472111",
+        "QTY": "10000",
+        "UNIT_PRICE": "0.1",
+        "AMOUNT": "1000"
+      }
+    ]
+  },
+  {
+    "fileName": "28.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000313689",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000313689",
+        "PO_NO": "1251124002",
+        "ITEM_NO": "428191501",
+        "QTY": "6000",
+        "UNIT_PRICE": "1.234",
+        "AMOUNT": "7404"
+      },
+      {
+        "INVOICE_NO": "SI1000313689",
+        "PO_NO": "1252172010",
+        "ITEM_NO": "500369801",
+        "QTY": "1000",
+        "UNIT_PRICE": "3.1",
+        "AMOUNT": "3100"
+      },
+      {
+        "INVOICE_NO": "SI1000313689",
+        "PO_NO": "1252172009",
+        "ITEM_NO": "474667501",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.1",
+        "AMOUNT": "400"
+      },
+      {
+        "INVOICE_NO": "SI1000313689",
+        "PO_NO": "1252172002",
+        "ITEM_NO": "457526411",
+        "QTY": "2000",
+        "UNIT_PRICE": "14.72",
+        "AMOUNT": "29440"
+      },
+      {
+        "INVOICE_NO": "SI1000313689",
+        "PO_NO": "1252774003",
+        "ITEM_NO": "500369801",
+        "QTY": "1000",
+        "UNIT_PRICE": "3.1",
+        "AMOUNT": "3100"
+      },
+      {
+        "INVOICE_NO": "SI1000313689",
+        "PO_NO": "1252774004",
+        "ITEM_NO": "500369901",
+        "QTY": "1000",
+        "UNIT_PRICE": "2.85",
+        "AMOUNT": "2850"
+      },
+      {
+        "INVOICE_NO": "SI1000313689",
+        "PO_NO": "1252774001",
+        "ITEM_NO": "457578001",
+        "QTY": "1800",
+        "UNIT_PRICE": "3.49",
+        "AMOUNT": "6282"
+      },
+      {
+        "INVOICE_NO": "SI1000313689",
+        "PO_NO": "1252774002",
+        "ITEM_NO": "459144001",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.12",
+        "AMOUNT": "480"
+      }
+    ]
+  },
+  {
+    "fileName": "29.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000313910",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000313910",
+        "PO_NO": "1251797001",
+        "ITEM_NO": "474717002",
+        "QTY": "50000",
+        "UNIT_PRICE": "0.247",
+        "AMOUNT": "12350"
+      },
+      {
+        "INVOICE_NO": "SI1000313910",
+        "PO_NO": "1252172035",
+        "ITEM_NO": "503062201",
+        "QTY": "1700",
+        "UNIT_PRICE": "13.855",
+        "AMOUNT": "23553.5"
+      },
+      {
+        "INVOICE_NO": "SI1000313910",
+        "PO_NO": "1252172038",
+        "ITEM_NO": "503062601",
+        "QTY": "6400",
+        "UNIT_PRICE": "5",
+        "AMOUNT": "32000"
+      },
+      {
+        "INVOICE_NO": "SI1000313910",
+        "PO_NO": "1252278009",
+        "ITEM_NO": "501135003",
+        "QTY": "10500",
+        "UNIT_PRICE": "5.776",
+        "AMOUNT": "60648"
+      },
+      {
+        "INVOICE_NO": "SI1000313910",
+        "PO_NO": "1252774008",
+        "ITEM_NO": "501138301",
+        "QTY": "2500",
+        "UNIT_PRICE": "0.2",
+        "AMOUNT": "500"
+      },
+      {
+        "INVOICE_NO": "SI1000313910",
+        "PO_NO": "1252774009",
+        "ITEM_NO": "501696001",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.35",
+        "AMOUNT": "6750"
+      },
+      {
+        "INVOICE_NO": "SI1000313910",
+        "PO_NO": "1253171002",
+        "ITEM_NO": "503799401",
+        "QTY": "5000",
+        "UNIT_PRICE": "1",
+        "AMOUNT": "5000"
+      },
+      {
+        "INVOICE_NO": "SI1000313910",
+        "PO_NO": "1252877006",
+        "ITEM_NO": "501135203",
+        "QTY": "8500",
+        "UNIT_PRICE": "5.776",
+        "AMOUNT": "49096"
+      }
+    ]
+  },
+  {
+    "fileName": "3.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314350",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314350",
+        "PO_NO": "1252278001",
+        "ITEM_NO": "428191501",
+        "QTY": "2400",
+        "UNIT_PRICE": "1.234",
+        "AMOUNT": "2961.6"
+      },
+      {
+        "INVOICE_NO": "SI1000314350",
+        "PO_NO": "1253349002",
+        "ITEM_NO": "467526411",
+        "QTY": "2000",
+        "UNIT_PRICE": "14.72",
+        "AMOUNT": "29440"
+      },
+      {
+        "INVOICE_NO": "SI1000314350",
+        "PO_NO": "1253349006",
+        "ITEM_NO": "459144001",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.12",
+        "AMOUNT": "480"
+      }
+    ]
+  },
+  {
+    "fileName": "30.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314021",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314021",
+        "PO_NO": "1251124003",
+        "ITEM_NO": "428191501",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.234",
+        "AMOUNT": "6170"
+      },
+      {
+        "INVOICE_NO": "SI1000314021",
+        "PO_NO": "1253171001",
+        "ITEM_NO": "503798101",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.7",
+        "AMOUNT": "8500"
+      }
+    ]
+  },
+  {
+    "fileName": "4.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314351",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314351",
+        "PO_NO": "1253349010",
+        "ITEM_NO": "500541501",
+        "QTY": "1000",
+        "UNIT_PRICE": "5.6",
+        "AMOUNT": "5600"
+      },
+      {
+        "INVOICE_NO": "SI1000314351",
+        "PO_NO": "1253349011",
+        "ITEM_NO": "500541501",
+        "QTY": "3000",
+        "UNIT_PRICE": "5.6",
+        "AMOUNT": "16800"
+      },
+      {
+        "INVOICE_NO": "SI1000314351",
+        "PO_NO": "1253349032",
+        "ITEM_NO": "502113802",
+        "QTY": "2000",
+        "UNIT_PRICE": "9.2",
+        "AMOUNT": "18400"
+      }
+    ]
+  },
+  {
+    "fileName": "5.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314349",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314349",
+        "PO_NO": "1252394002",
+        "ITEM_NO": "474717002",
+        "QTY": "50000",
+        "UNIT_PRICE": "0.247",
+        "AMOUNT": "12350"
+      },
+      {
+        "INVOICE_NO": "SI1000314349",
+        "PO_NO": "1253349012",
+        "ITEM_NO": "500677301",
+        "QTY": "600",
+        "UNIT_PRICE": "2.75",
+        "AMOUNT": "1650"
+      },
+      {
+        "INVOICE_NO": "SI1000314349",
+        "PO_NO": "1253349017",
+        "ITEM_NO": "501005801",
+        "QTY": "4900",
+        "UNIT_PRICE": "1.54",
+        "AMOUNT": "7546"
+      },
+      {
+        "INVOICE_NO": "SI1000314349",
+        "PO_NO": "1253349016",
+        "ITEM_NO": "501005701",
+        "QTY": "5180",
+        "UNIT_PRICE": "3.249",
+        "AMOUNT": "16829.82"
+      },
+      {
+        "INVOICE_NO": "SI1000314349",
+        "PO_NO": "1253349038",
+        "ITEM_NO": "503652601",
+        "QTY": "3000",
+        "UNIT_PRICE": "1.94",
+        "AMOUNT": "5820"
+      },
+      {
+        "INVOICE_NO": "SI1000314349",
+        "PO_NO": "1253349041",
+        "ITEM_NO": "504262401",
+        "QTY": "3000",
+        "UNIT_PRICE": "1.4",
+        "AMOUNT": "4200"
+      },
+      {
+        "INVOICE_NO": "SI1000314349",
+        "PO_NO": "1253349049",
+        "ITEM_NO": "504803501",
+        "QTY": "500",
+        "UNIT_PRICE": "14.2",
+        "AMOUNT": "7100"
+      },
+      {
+        "INVOICE_NO": "SI1000314349",
+        "PO_NO": "1253349026",
+        "ITEM_NO": "501695801",
+        "QTY": "3000",
+        "UNIT_PRICE": "9.33",
+        "AMOUNT": "27990"
+      },
+      {
+        "INVOICE_NO": "SI1000314349",
+        "PO_NO": "1253349044",
+        "ITEM_NO": "504672501",
+        "QTY": "4800",
+        "UNIT_PRICE": "0.92",
+        "AMOUNT": "4416"
+      },
+      {
+        "INVOICE_NO": "SI1000314349",
+        "PO_NO": "1253461017",
+        "ITEM_NO": "503341901",
+        "QTY": "2100",
+        "UNIT_PRICE": "11.841",
+        "AMOUNT": "24866.1"
+      },
+      {
+        "INVOICE_NO": "SI1000314349",
+        "PO_NO": "1253461012",
+        "ITEM_NO": "501464101",
+        "QTY": "3200",
+        "UNIT_PRICE": "2.56",
+        "AMOUNT": "8192"
+      }
+    ]
+  },
+  {
+    "fileName": "6.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314191",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314191",
+        "PO_NO": "1253171004",
+        "ITEM_NO": "504497501",
+        "QTY": "2000",
+        "UNIT_PRICE": "1.85",
+        "AMOUNT": "3700"
+      },
+      {
+        "INVOICE_NO": "SI1000314191",
+        "PO_NO": "1253349010",
+        "ITEM_NO": "500541501",
+        "QTY": "2000",
+        "UNIT_PRICE": "5.6",
+        "AMOUNT": "11200"
+      }
+    ]
+  },
+  {
+    "fileName": "7.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314096",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314096",
+        "PO_NO": "1248799005",
+        "ITEM_NO": "469213001",
+        "QTY": "12000",
+        "UNIT_PRICE": "10.15",
+        "AMOUNT": "121800"
+      }
+    ]
+  },
+  {
+    "fileName": "8.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314095",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314095",
+        "PO_NO": "1252172035",
+        "ITEM_NO": "503062201",
+        "QTY": "4600",
+        "UNIT_PRICE": "13.855",
+        "AMOUNT": "63733"
+      },
+      {
+        "INVOICE_NO": "SI1000314095",
+        "PO_NO": "1252774006",
+        "ITEM_NO": "501005701",
+        "QTY": "2590",
+        "UNIT_PRICE": "3.249",
+        "AMOUNT": "8414.91"
+      },
+      {
+        "INVOICE_NO": "SI1000314095",
+        "PO_NO": "1252774007",
+        "ITEM_NO": "501005801",
+        "QTY": "4900",
+        "UNIT_PRICE": "1.54",
+        "AMOUNT": "7546"
+      },
+      {
+        "INVOICE_NO": "SI1000314095",
+        "PO_NO": "1252877008",
+        "ITEM_NO": "502673701",
+        "QTY": "1200",
+        "UNIT_PRICE": "4.585",
+        "AMOUNT": "5502"
+      },
+      {
+        "INVOICE_NO": "SI1000314095",
+        "PO_NO": "1252774016",
+        "ITEM_NO": "503870901",
+        "QTY": "4160",
+        "UNIT_PRICE": "7.015",
+        "AMOUNT": "29182.4"
+      },
+      {
+        "INVOICE_NO": "SI1000314095",
+        "PO_NO": "1252774015",
+        "ITEM_NO": "503605101",
+        "QTY": "10000",
+        "UNIT_PRICE": "1.32",
+        "AMOUNT": "13200"
+      },
+      {
+        "INVOICE_NO": "SI1000314095",
+        "PO_NO": "1252877003",
+        "ITEM_NO": "500949701",
+        "QTY": "11760",
+        "UNIT_PRICE": "5.861",
+        "AMOUNT": "68925.36"
+      },
+      {
+        "INVOICE_NO": "SI1000314095",
+        "PO_NO": "1253349001",
+        "ITEM_NO": "457526411",
+        "QTY": "2000",
+        "UNIT_PRICE": "14.72",
+        "AMOUNT": "29440"
+      },
+      {
+        "INVOICE_NO": "SI1000314095",
+        "PO_NO": "1253349005",
+        "ITEM_NO": "459144001",
+        "QTY": "2000",
+        "UNIT_PRICE": "0.12",
+        "AMOUNT": "240"
+      }
+    ]
+  },
+  {
+    "fileName": "9.CHIYODA.xlsx",
+    "INVOICE_tag": "SI1000314094",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000314094",
+        "PO_NO": "1253171005",
+        "ITEM_NO": "504497601",
+        "QTY": "1500",
+        "UNIT_PRICE": "2.9",
+        "AMOUNT": "4350"
+      },
+      {
+        "INVOICE_NO": "SI1000314094",
+        "PO_NO": "1253349018",
+        "ITEM_NO": "501005901",
+        "QTY": "3300",
+        "UNIT_PRICE": "9.355",
+        "AMOUNT": "30871.5"
+      },
+      {
+        "INVOICE_NO": "SI1000314094",
+        "PO_NO": "1253349022",
+        "ITEM_NO": "501139101",
+        "QTY": "3500",
+        "UNIT_PRICE": "19.5",
+        "AMOUNT": "68250"
+      },
+      {
+        "INVOICE_NO": "SI1000314094",
+        "PO_NO": "1253349008",
+        "ITEM_NO": "474667501",
+        "QTY": "4000",
+        "UNIT_PRICE": "0.1",
+        "AMOUNT": "400"
+      },
+      {
+        "INVOICE_NO": "SI1000314094",
+        "PO_NO": "1253349033",
+        "ITEM_NO": "502502601",
+        "QTY": "2100",
+        "UNIT_PRICE": "23.3",
+        "AMOUNT": "48930"
+      },
+      {
+        "INVOICE_NO": "SI1000314094",
+        "PO_NO": "1253349025",
+        "ITEM_NO": "501695801",
+        "QTY": "3000",
+        "UNIT_PRICE": "9.33",
+        "AMOUNT": "27990"
+      },
+      {
+        "INVOICE_NO": "SI1000314094",
+        "PO_NO": "1253349029",
+        "ITEM_NO": "501696102",
+        "QTY": "3000",
+        "UNIT_PRICE": "0.85",
+        "AMOUNT": "2550"
+      },
+      {
+        "INVOICE_NO": "SI1000314094",
+        "PO_NO": "1253349024",
+        "ITEM_NO": "501695601",
+        "QTY": "3500",
+        "UNIT_PRICE": "8.83",
+        "AMOUNT": "30905"
+      },
+      {
+        "INVOICE_NO": "SI1000314094",
+        "PO_NO": "1253349035",
+        "ITEM_NO": "502860201",
+        "QTY": "6000",
+        "UNIT_PRICE": "5.4",
+        "AMOUNT": "32400"
+      },
+      {
+        "INVOICE_NO": "SI1000314094",
+        "PO_NO": "1253461011",
+        "ITEM_NO": "501464101",
+        "QTY": "1600",
+        "UNIT_PRICE": "2.56",
+        "AMOUNT": "4096"
+      },
+      {
+        "INVOICE_NO": "SI1000314094",
+        "PO_NO": "1253498004",
+        "ITEM_NO": "503472012",
+        "QTY": "6000",
+        "UNIT_PRICE": "2.15",
+        "AMOUNT": "12900"
+      },
+      {
+        "INVOICE_NO": "SI1000314094",
+        "PO_NO": "1253498005",
+        "ITEM_NO": "503472111",
+        "QTY": "10000",
+        "UNIT_PRICE": "0.1",
+        "AMOUNT": "1000"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (1).xlsx",
+    "INVOICE_tag": "SI1000292552",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000292552",
+        "PO_NO": "1228413001",
+        "ITEM_NO": "501371701",
+        "QTY": "15000",
+        "UNIT_PRICE": "1.6608",
+        "AMOUNT": "24912"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (10).xlsx",
+    "INVOICE_tag": "SI1000293216",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293216",
+        "PO_NO": "9093736003",
+        "ITEM_NO": "504664401",
+        "QTY": "98",
+        "UNIT_PRICE": "15.15",
+        "AMOUNT": "1484.7"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (11).xlsx",
+    "INVOICE_tag": "SI1000293156",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293156",
+        "PO_NO": "9093736003",
+        "ITEM_NO": "504664401",
+        "QTY": "1432",
+        "UNIT_PRICE": "15.15",
+        "AMOUNT": "21694.8"
+      },
+      {
+        "INVOICE_NO": "SI1000293156",
+        "PO_NO": "9093788001",
+        "ITEM_NO": "504664401",
+        "QTY": "200",
+        "UNIT_PRICE": "14",
+        "AMOUNT": "2800"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (12).xlsx",
+    "INVOICE_tag": "SI1000293155",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293155",
+        "PO_NO": "1227963001",
+        "ITEM_NO": "504246502",
+        "QTY": "4000",
+        "UNIT_PRICE": "3.1158",
+        "AMOUNT": "12463.2"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (13).xlsx",
+    "INVOICE_tag": "SI1000293300",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293300",
+        "PO_NO": "9093736006",
+        "ITEM_NO": "504663401",
+        "QTY": "2130",
+        "UNIT_PRICE": "2.9",
+        "AMOUNT": "6177"
+      },
+      {
+        "INVOICE_NO": "SI1000293300",
+        "PO_NO": "9093736008",
+        "ITEM_NO": "504663701",
+        "QTY": "2130",
+        "UNIT_PRICE": "20.15",
+        "AMOUNT": "42919.5"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (14).xlsx",
+    "INVOICE_tag": "SI1000293301",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293301",
+        "PO_NO": "9093736001",
+        "ITEM_NO": "504663201",
+        "QTY": "2130",
+        "UNIT_PRICE": "4.47",
+        "AMOUNT": "9521.1"
+      },
+      {
+        "INVOICE_NO": "SI1000293301",
+        "PO_NO": "9093736011",
+        "ITEM_NO": "504246502",
+        "QTY": "960",
+        "UNIT_PRICE": "3.0916",
+        "AMOUNT": "2967.94"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (15).xlsx",
+    "INVOICE_tag": "SI1000293268",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293268",
+        "PO_NO": "1226985003",
+        "ITEM_NO": "502599701",
+        "QTY": "13000",
+        "UNIT_PRICE": "0.6283",
+        "AMOUNT": "8167.9"
+      },
+      {
+        "INVOICE_NO": "SI1000293268",
+        "PO_NO": "1227459002",
+        "ITEM_NO": "502599701",
+        "QTY": "5000",
+        "UNIT_PRICE": "0.6283",
+        "AMOUNT": "3141.5"
+      },
+      {
+        "INVOICE_NO": "SI1000293268",
+        "PO_NO": "1227459003",
+        "ITEM_NO": "502599701",
+        "QTY": "38000",
+        "UNIT_PRICE": "0.6283",
+        "AMOUNT": "23875.4"
+      },
+      {
+        "INVOICE_NO": "SI1000293268",
+        "PO_NO": "1226985004",
+        "ITEM_NO": "504585801",
+        "QTY": "2000",
+        "UNIT_PRICE": "3.0557",
+        "AMOUNT": "6111.4"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (17).xlsx",
+    "INVOICE_tag": "SI1000293270",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293270",
+        "PO_NO": "1228413005",
+        "ITEM_NO": "503098401",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.8369",
+        "AMOUNT": "9184.5"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (18).xlsx",
+    "INVOICE_tag": "SI1000293299",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293299",
+        "PO_NO": "9093736005",
+        "ITEM_NO": "504032401",
+        "QTY": "1680",
+        "UNIT_PRICE": "2.0669",
+        "AMOUNT": "3472.39"
+      },
+      {
+        "INVOICE_NO": "SI1000293299",
+        "PO_NO": "9093788002",
+        "ITEM_NO": "504754801",
+        "QTY": "500",
+        "UNIT_PRICE": "80",
+        "AMOUNT": "40000"
+      },
+      {
+        "INVOICE_NO": "SI1000293299",
+        "PO_NO": "9093736005",
+        "ITEM_NO": "504032401",
+        "QTY": "450",
+        "UNIT_PRICE": "2.0699",
+        "AMOUNT": "931.46"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (19).xlsx",
+    "INVOICE_tag": "SI1000293347",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293347",
+        "PO_NO": "9091833001",
+        "ITEM_NO": "502604101",
+        "QTY": "5000",
+        "UNIT_PRICE": "0.2197",
+        "AMOUNT": "1098.5"
+      },
+      {
+        "INVOICE_NO": "SI1000293347",
+        "PO_NO": "9093419002",
+        "ITEM_NO": "501691301",
+        "QTY": "5000",
+        "UNIT_PRICE": "5.4797",
+        "AMOUNT": "27398.5"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (2).xlsx",
+    "INVOICE_tag": "SI1000292553",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000292553",
+        "PO_NO": "1227459006",
+        "ITEM_NO": "503098401",
+        "QTY": "15000",
+        "UNIT_PRICE": "1.8369",
+        "AMOUNT": "27553.5"
+      },
+      {
+        "INVOICE_NO": "SI1000292553",
+        "PO_NO": "1227927003",
+        "ITEM_NO": "503098401",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.8369",
+        "AMOUNT": "9184.5"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (20).xlsx",
+    "INVOICE_tag": "SI1000293348",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293348",
+        "PO_NO": "9093419001",
+        "ITEM_NO": "501270201",
+        "QTY": "14400",
+        "UNIT_PRICE": "0.2197",
+        "AMOUNT": "3163.68"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (21).xlsx",
+    "INVOICE_tag": "SI1000293539",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293539",
+        "PO_NO": "1227927002",
+        "ITEM_NO": "503093801",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.4626",
+        "AMOUNT": "7313"
+      },
+      {
+        "INVOICE_NO": "SI1000293539",
+        "PO_NO": "1228413004",
+        "ITEM_NO": "503093801",
+        "QTY": "10000",
+        "UNIT_PRICE": "1.4626",
+        "AMOUNT": "14626"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (22).xlsx",
+    "INVOICE_tag": "SI1000293537",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293537",
+        "PO_NO": "1226985005",
+        "ITEM_NO": "504585801",
+        "QTY": "2000",
+        "UNIT_PRICE": "3.0557",
+        "AMOUNT": "6111.4"
+      },
+      {
+        "INVOICE_NO": "SI1000293537",
+        "PO_NO": "1227017001",
+        "ITEM_NO": "504585801",
+        "QTY": "2000",
+        "UNIT_PRICE": "3.0557",
+        "AMOUNT": "6111.4"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (23).xlsx",
+    "INVOICE_tag": "SI1000293538",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293538",
+        "PO_NO": "1228865001",
+        "ITEM_NO": "501371701",
+        "QTY": "35000",
+        "UNIT_PRICE": "1.6608",
+        "AMOUNT": "58128"
+      },
+      {
+        "INVOICE_NO": "SI1000293538",
+        "PO_NO": "1229335001",
+        "ITEM_NO": "501371701",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.6608",
+        "AMOUNT": "8304"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (24).xlsx",
+    "INVOICE_tag": "TTH01-220800644",
+    "data": [
+      {
+        "INVOICE_NO": "TTH01-220800644",
+        "PO_NO": "1229797001",
+        "ITEM_NO": "504117201",
+        "QTY": "30000",
+        "UNIT_PRICE": "15.4503",
+        "AMOUNT": "463509"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (25).xlsx",
+    "INVOICE_tag": "SI1000293609",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293609",
+        "PO_NO": "9094014001",
+        "ITEM_NO": "504664401",
+        "QTY": "600",
+        "UNIT_PRICE": "15.15",
+        "AMOUNT": "9090"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (26).xlsx",
+    "INVOICE_tag": "SI1000294183",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000294183",
+        "PO_NO": "9091452005",
+        "ITEM_NO": "502574201",
+        "QTY": "5000",
+        "UNIT_PRICE": "5.5758",
+        "AMOUNT": "27879"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (27).xlsx",
+    "INVOICE_tag": "SI1000294218",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000294218",
+        "PO_NO": "1231173003",
+        "ITEM_NO": "503098401",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.8369",
+        "AMOUNT": "9184.5"
+      },
+      {
+        "INVOICE_NO": "SI1000294218",
+        "PO_NO": "9094141001",
+        "ITEM_NO": "503098401",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.8369",
+        "AMOUNT": "9184.5"
+      },
+      {
+        "INVOICE_NO": "SI1000294218",
+        "PO_NO": "9094141002",
+        "ITEM_NO": "503098401",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.8369",
+        "AMOUNT": "9184.5"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (28).xlsx",
+    "INVOICE_tag": "SI1000294436",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000294436",
+        "PO_NO": "1229779004",
+        "ITEM_NO": "503093801",
+        "QTY": "3500",
+        "UNIT_PRICE": "1.4626",
+        "AMOUNT": "5119.1"
+      },
+      {
+        "INVOICE_NO": "SI1000294436",
+        "PO_NO": "1230682003",
+        "ITEM_NO": "503093801",
+        "QTY": "5000",
+        "UNIT_PRICE": "1.4626",
+        "AMOUNT": "7313"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (29).xlsx",
+    "INVOICE_tag": "SI1000294601",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000294601",
+        "PO_NO": "1228865002",
+        "ITEM_NO": "502599701",
+        "QTY": "30000",
+        "UNIT_PRICE": "0.6283",
+        "AMOUNT": "18849"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (3).xlsx",
+    "INVOICE_tag": "SI1000292550",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000292550",
+        "PO_NO": "1226985002",
+        "ITEM_NO": "502599701",
+        "QTY": "5000",
+        "UNIT_PRICE": "0.6283",
+        "AMOUNT": "3141.5"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (30).xlsx",
+    "INVOICE_tag": "SI1000294602",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000294602",
+        "PO_NO": "1229779001",
+        "ITEM_NO": "501180301",
+        "QTY": "5000",
+        "UNIT_PRICE": "0.0971",
+        "AMOUNT": "485.5"
+      },
+      {
+        "INVOICE_NO": "SI1000294602",
+        "PO_NO": "1229779002",
+        "ITEM_NO": "501371701",
+        "QTY": "30000",
+        "UNIT_PRICE": "1.6608",
+        "AMOUNT": "49824"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (4).xlsx",
+    "INVOICE_tag": "SI1000292551",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000292551",
+        "PO_NO": "1224793006",
+        "ITEM_NO": "503691401",
+        "QTY": "8000",
+        "UNIT_PRICE": "6.0805",
+        "AMOUNT": "48644"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (5).xlsx",
+    "INVOICE_tag": "SI1000292816",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000292816",
+        "PO_NO": "1227459004",
+        "ITEM_NO": "503093801",
+        "QTY": "10000",
+        "UNIT_PRICE": "1.4626",
+        "AMOUNT": "14626"
+      },
+      {
+        "INVOICE_NO": "SI1000292816",
+        "PO_NO": "1227506001",
+        "ITEM_NO": "501273001",
+        "QTY": "5000",
+        "UNIT_PRICE": "5.0196",
+        "AMOUNT": "25098"
+      },
+      {
+        "INVOICE_NO": "SI1000292816",
+        "PO_NO": "1227459005",
+        "ITEM_NO": "503093801",
+        "QTY": "10000",
+        "UNIT_PRICE": "1.4626",
+        "AMOUNT": "14626"
+      },
+      {
+        "INVOICE_NO": "SI1000292816",
+        "PO_NO": "9092868001",
+        "ITEM_NO": "501324701",
+        "QTY": "5000",
+        "UNIT_PRICE": "4.8067",
+        "AMOUNT": "24033.5"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (6).xlsx",
+    "INVOICE_tag": "SI1000292815",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000292815",
+        "PO_NO": "9092999001",
+        "ITEM_NO": "501269101",
+        "QTY": "2800",
+        "UNIT_PRICE": "13.5276",
+        "AMOUNT": "37877.28"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (7).xlsx",
+    "INVOICE_tag": "SI1000293005",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293005",
+        "PO_NO": "9093736002",
+        "ITEM_NO": "504721801",
+        "QTY": "2130",
+        "UNIT_PRICE": "1.21",
+        "AMOUNT": "2577.3"
+      },
+      {
+        "INVOICE_NO": "SI1000293005",
+        "PO_NO": "9093736009",
+        "ITEM_NO": "504721001",
+        "QTY": "2130",
+        "UNIT_PRICE": "1.23",
+        "AMOUNT": "2619.9"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (8).xlsx",
+    "INVOICE_tag": "SI1000293006",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000293006",
+        "PO_NO": "9093736010",
+        "ITEM_NO": "504662801",
+        "QTY": "2130",
+        "UNIT_PRICE": "2.73",
+        "AMOUNT": "5814.9"
+      }
+    ]
+  },
+  {
+    "fileName": "CHIYODA (9).xlsx",
+    "INVOICE_tag": "SI1000292926",
+    "data": [
+      {
+        "INVOICE_NO": "SI1000292926",
+        "PO_NO": "9092999002",
+        "ITEM_NO": "501950601",
+        "QTY": "4200",
+        "UNIT_PRICE": "13.3902",
+        "AMOUNT": "56238.84"
+      }
+    ]
+  }
+]

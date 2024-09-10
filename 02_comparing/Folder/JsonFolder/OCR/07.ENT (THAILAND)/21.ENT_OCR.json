@@ -1,0 +1,84 @@
+[
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 1017,
+    "UNIT_PRICE": 0.09632,
+    "AMOUNT": 97.96,
+    "% Confidence": 0.6599638967803031,
+    "filename": "21.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.09632,
+    "AMOUNT": 481.6,
+    "% Confidence": 0.6606149384469697,
+    "filename": "21.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 3983,
+    "UNIT_PRICE": 0.09632,
+    "AMOUNT": 383.64,
+    "% Confidence": 0.6614287405303031,
+    "filename": "21.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "ITEM_NO": "4",
+    "QTY": 3040,
+    "UNIT_PRICE": 0.09144,
+    "AMOUNT": 27798,
+    "% Confidence": 0.7619984019886363,
+    "filename": "21.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.09144,
+    "AMOUNT": 457.2,
+    "% Confidence": 0.6619170217803031,
+    "filename": "21.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "PO_NO": "429946901",
+    "QTY": 1960,
+    "UNIT_PRICE": 0.09144,
+    "AMOUNT": 179.22,
+    "% Confidence": 0.8273629853219697,
+    "filename": "21.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 54330,
+    "UNIT_PRICE": 0.06856,
+    "AMOUNT": 3724.86,
+    "% Confidence": 0.6610218394886364,
+    "filename": "21.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 30000,
+    "UNIT_PRICE": 0.06856,
+    "AMOUNT": 2056.8,
+    "% Confidence": 0.6615915009469697,
+    "filename": "21.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 20000,
+    "UNIT_PRICE": 0.06856,
+    "AMOUNT": 1371.2,
+    "% Confidence": 0.6614287405303031,
+    "filename": "21.ENT.json"
+  },
+  {
+    "INVOICE_NO": "41/89",
+    "QTY": 15670,
+    "UNIT_PRICE": 0.06856,
+    "AMOUNT": 1074.34,
+    "% Confidence": 0.6608590790719697,
+    "filename": "21.ENT.json"
+  }
+]

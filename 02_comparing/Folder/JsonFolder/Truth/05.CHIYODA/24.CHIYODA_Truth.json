@@ -1,0 +1,26 @@
+[
+  {
+    "INVOICE_NO": "SI1000314612",
+    "PO_NO": "1252998001",
+    "ITEM_NO": "474717002",
+    "QTY": 50000,
+    "UNIT_PRICE": 0.247,
+    "AMOUNT": 12350
+  },
+  {
+    "INVOICE_NO": "SI1000314612",
+    "PO_NO": "1253349009",
+    "ITEM_NO": "474667501",
+    "QTY": 4000,
+    "UNIT_PRICE": 0.1,
+    "AMOUNT": 400
+  },
+  {
+    "INVOICE_NO": "SI1000314612",
+    "PO_NO": "1253349037",
+    "ITEM_NO": "503062601",
+    "QTY": 2000,
+    "UNIT_PRICE": 5,
+    "AMOUNT": 10000
+  }
+]

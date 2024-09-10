@@ -1,0 +1,92 @@
+[
+  {
+    "INVOICE_NO": "DY233780",
+    "PO_NO": "1257363188",
+    "ITEM_NO": "469303001",
+    "QTY": 120,
+    "UNIT_PRICE": 5.3148,
+    "AMOUNT": 637.78,
+    "% Confidence": 0.994873046875,
+    "filename": "4.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233780",
+    "PO_NO": "1257363189",
+    "ITEM_NO": "469303001",
+    "QTY": 250,
+    "UNIT_PRICE": 5.3148,
+    "AMOUNT": 1328.7,
+    "% Confidence": 0.994140625,
+    "filename": "4.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233780",
+    "PO_NO": "1257363190",
+    "ITEM_NO": "469303001",
+    "QTY": 130,
+    "UNIT_PRICE": 5.3148,
+    "AMOUNT": 690.92,
+    "% Confidence": 0.994873046875,
+    "filename": "4.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233780",
+    "PO_NO": "1256747144",
+    "ITEM_NO": "469303101",
+    "QTY": 150,
+    "UNIT_PRICE": 4.8999,
+    "AMOUNT": 734.99,
+    "% Confidence": 0.9939778645833334,
+    "filename": "4.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233780",
+    "PO_NO": "1257363193",
+    "ITEM_NO": "469303101",
+    "QTY": 350,
+    "UNIT_PRICE": 4.8999,
+    "AMOUNT": 1714.97,
+    "% Confidence": 0.9937337239583334,
+    "filename": "4.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233780",
+    "PO_NO": "1257363199",
+    "ITEM_NO": "469346501",
+    "QTY": 449,
+    "UNIT_PRICE": 1.5575,
+    "AMOUNT": 699.32,
+    "% Confidence": 0.9952799479166666,
+    "filename": "4.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233780",
+    "PO_NO": "1257363200",
+    "ITEM_NO": "469346501",
+    "QTY": 1,
+    "UNIT_PRICE": 1.5575,
+    "AMOUNT": 1.56,
+    "% Confidence": 0.9947916666666666,
+    "filename": "4.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233780",
+    "PO_NO": "1256747156",
+    "ITEM_NO": "469347301",
+    "QTY": 215,
+    "UNIT_PRICE": 7.5495,
+    "AMOUNT": 1623.14,
+    "% Confidence": 0.994873046875,
+    "filename": "4.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233780",
+    "PO_NO": "1257363215",
+    "ITEM_NO": "469347301",
+    "QTY": 385,
+    "UNIT_PRICE": 7.5495,
+    "AMOUNT": 10337.94,
+    "% Confidence": 0.9291829427083332,
+    "filename": "4.VEL.json"
+  }
+]

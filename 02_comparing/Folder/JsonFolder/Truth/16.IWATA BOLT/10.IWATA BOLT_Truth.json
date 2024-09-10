@@ -1,0 +1,34 @@
+[
+  {
+    "INVOICE_NO": "67V303993",
+    "PO_NO": "1253764003",
+    "ITEM_NO": "762785218",
+    "QTY": 8000,
+    "UNIT_PRICE": 0.252,
+    "AMOUNT": 2016
+  },
+  {
+    "INVOICE_NO": "67V303993",
+    "PO_NO": "1251209003",
+    "ITEM_NO": "768564719",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.243,
+    "AMOUNT": 2430
+  },
+  {
+    "INVOICE_NO": "67V303993",
+    "PO_NO": "1254237002",
+    "ITEM_NO": "768579109",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.323,
+    "AMOUNT": 1615
+  },
+  {
+    "INVOICE_NO": "67V303993",
+    "PO_NO": "1253194005",
+    "ITEM_NO": "768800101",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.26,
+    "AMOUNT": 260
+  }
+]

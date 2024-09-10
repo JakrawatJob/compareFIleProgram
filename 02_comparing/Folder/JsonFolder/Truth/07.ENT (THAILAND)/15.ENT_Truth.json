@@ -1,0 +1,74 @@
+[
+  {
+    "INVOICE_NO": "E2308818",
+    "PO_NO": "1256135140",
+    "ITEM_NO": "445253402",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.6166,
+    "AMOUNT": 616.6
+  },
+  {
+    "INVOICE_NO": "E2308818",
+    "PO_NO": "1256756181",
+    "ITEM_NO": "445253402",
+    "QTY": 4000,
+    "UNIT_PRICE": 0.6166,
+    "AMOUNT": 2466.4
+  },
+  {
+    "INVOICE_NO": "E2308818",
+    "PO_NO": "1256135144",
+    "ITEM_NO": "446388002",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.4378,
+    "AMOUNT": 4378
+  },
+  {
+    "INVOICE_NO": "E2308818",
+    "PO_NO": "1256135145",
+    "ITEM_NO": "446388002",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.4378,
+    "AMOUNT": 2189
+  },
+  {
+    "INVOICE_NO": "E2308818",
+    "PO_NO": "1253760175",
+    "ITEM_NO": 454754221,
+    "QTY": 1000,
+    "UNIT_PRICE": 3.35753,
+    "AMOUNT": 3357.53
+  },
+  {
+    "INVOICE_NO": "E2308818",
+    "PO_NO": "1256756216",
+    "ITEM_NO": "457429502",
+    "QTY": 2000,
+    "UNIT_PRICE": 10.23159,
+    "AMOUNT": 20463.18
+  },
+  {
+    "INVOICE_NO": "E2308818",
+    "PO_NO": "1256135178",
+    "ITEM_NO": "457590001",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.96853,
+    "AMOUNT": 4842.65
+  },
+  {
+    "INVOICE_NO": "E2308818",
+    "PO_NO": "1256756226",
+    "ITEM_NO": "457672301",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.3775,
+    "AMOUNT": 377.5
+  },
+  {
+    "INVOICE_NO": "E2308818",
+    "PO_NO": "1256756227",
+    "ITEM_NO": "457672301",
+    "QTY": 4000,
+    "UNIT_PRICE": 0.3775,
+    "AMOUNT": 1510
+  }
+]

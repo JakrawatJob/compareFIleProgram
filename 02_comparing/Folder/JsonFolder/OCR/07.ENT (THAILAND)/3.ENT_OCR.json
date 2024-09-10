@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "E2308791",
+    "PO_NO": "1255309011",
+    "ITEM_NO": "307889021",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.11801,
+    "AMOUNT": 1180.1,
+    "% Confidence": 0.9974772135416666,
+    "filename": "3.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308791",
+    "PO_NO": "1255905016",
+    "ITEM_NO": "430011501",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.08954,
+    "AMOUNT": 447.7,
+    "% Confidence": 0.9977213541666666,
+    "filename": "3.ENT.json"
+  }
+]

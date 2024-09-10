@@ -1,0 +1,142 @@
+[
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1254652001",
+    "ITEM_NO": "73403",
+    "QTY": 960,
+    "UNIT_PRICE": 1.3806,
+    "AMOUNT": 1325.38,
+    "% Confidence": 0.9950358072916666,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1254501009",
+    "ITEM_NO": "448787501",
+    "QTY": 16800,
+    "UNIT_PRICE": 1.1965,
+    "AMOUNT": 20101.2,
+    "% Confidence": 0.9945475260416666,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1255538003",
+    "ITEM_NO": "454755802",
+    "QTY": 80,
+    "UNIT_PRICE": 78.2148,
+    "AMOUNT": 6257.18,
+    "% Confidence": 0.9954427083333334,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1256745001",
+    "ITEM_NO": "454755802",
+    "QTY": 100,
+    "UNIT_PRICE": 78.2148,
+    "AMOUNT": 7821.48,
+    "% Confidence": 0.9952799479166666,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1254915003",
+    "ITEM_NO": "454755802",
+    "QTY": 6,
+    "UNIT_PRICE": 78.2148,
+    "AMOUNT": 469.29,
+    "% Confidence": 0.9954427083333334,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1255538002",
+    "ITEM_NO": "454755802",
+    "QTY": 60,
+    "UNIT_PRICE": 78.2148,
+    "AMOUNT": 4692.89,
+    "% Confidence": 0.995361328125,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1256126001",
+    "ITEM_NO": "454755802",
+    "QTY": 74,
+    "UNIT_PRICE": 78.2148,
+    "AMOUNT": 5787.9,
+    "% Confidence": 0.9951985677083334,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1253936053",
+    "ITEM_NO": "X25919321",
+    "QTY": 2000,
+    "UNIT_PRICE": 4.448,
+    "AMOUNT": 8896,
+    "% Confidence": 0.9952799479166666,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1254501046",
+    "ITEM_NO": "X25945931",
+    "QTY": 400,
+    "UNIT_PRICE": 37.2445,
+    "AMOUNT": 14897.8,
+    "% Confidence": 0.9947102864583334,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1252185032",
+    "ITEM_NO": "502790701",
+    "QTY": 1055,
+    "UNIT_PRICE": 2.3077,
+    "AMOUNT": 2434.62,
+    "% Confidence": 0.9944661458333334,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1253936020",
+    "ITEM_NO": "502790701",
+    "QTY": 2545,
+    "UNIT_PRICE": 2.3077,
+    "AMOUNT": 5873.1,
+    "% Confidence": 0.994873046875,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1254501052",
+    "ITEM_NO": "X50038851",
+    "QTY": 200,
+    "UNIT_PRICE": 211.931,
+    "AMOUNT": 242386.2,
+    "% Confidence": 0.92763671875,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "1255339004",
+    "ITEM_NO": "455876502",
+    "QTY": 117,
+    "UNIT_PRICE": 31.6,
+    "AMOUNT": 3697.2,
+    "% Confidence": 0.9951171875,
+    "filename": "27.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "เลขที่ใบกำกับ/TAXINVOICECIV-23080264",
+    "PO_NO": "9101124001",
+    "ITEM_NO": "455876502",
+    "QTY": 3,
+    "UNIT_PRICE": 31.6,
+    "AMOUNT": 347466.49,
+    "% Confidence": 0.9286946614583332,
+    "filename": "27.YAMAKOH.json"
+  }
+]

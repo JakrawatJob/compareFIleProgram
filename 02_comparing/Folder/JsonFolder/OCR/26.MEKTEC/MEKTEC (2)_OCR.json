@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "22L1171154",
+    "PO_NO": "1225694002",
+    "ITEM_NO": "X50030361",
+    "QTY": 7870,
+    "UNIT_PRICE": 67.6378,
+    "AMOUNT": 532309.49,
+    "% Confidence": 0.9894205729166666,
+    "filename": "MEKTEC (2).json"
+  },
+  {
+    "INVOICE_NO": "22L1171154",
+    "PO_NO": "1224833001",
+    "ITEM_NO": "X50030361",
+    "QTY": 3470,
+    "UNIT_PRICE": 67.6378,
+    "AMOUNT": 234703.17,
+    "% Confidence": 0.9889322916666666,
+    "filename": "MEKTEC (2).json"
+  }
+]

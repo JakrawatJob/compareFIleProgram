@@ -1,0 +1,81 @@
+[
+  {
+    "INVOICE_NO": "DY233886",
+    "PO_NO": "1256810041",
+    "ITEM_NO": "501709901",
+    "QTY": 1800,
+    "UNIT_PRICE": 0.2362,
+    "AMOUNT": 425.16,
+    "% Confidence": 0.9937337239583334,
+    "filename": "05 Vel5-20092023084649-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233886",
+    "PO_NO": "1257419017",
+    "ITEM_NO": "501709901",
+    "QTY": 1800,
+    "UNIT_PRICE": 0.2362,
+    "AMOUNT": 425.16,
+    "% Confidence": 0.994140625,
+    "filename": "05 Vel5-20092023084649-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233886",
+    "PO_NO": "1256810043",
+    "ITEM_NO": "501710101",
+    "QTY": 2400,
+    "UNIT_PRICE": 0.6915,
+    "AMOUNT": 1659.6,
+    "% Confidence": 0.994140625,
+    "filename": "05 Vel5-20092023084649-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233886",
+    "PO_NO": "1257419022",
+    "ITEM_NO": "501782401",
+    "QTY": 3600,
+    "UNIT_PRICE": 1.1924,
+    "AMOUNT": 4292.64,
+    "% Confidence": 0.9943033854166666,
+    "filename": "05 Vel5-20092023084649-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233886",
+    "PO_NO": "1257419023",
+    "ITEM_NO": "501809901",
+    "QTY": 500,
+    "UNIT_PRICE": 7.0283,
+    "AMOUNT": 3514.15,
+    "% Confidence": 0.9950358072916666,
+    "filename": "05 Vel5-20092023084649-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233886",
+    "PO_NO": "1257419032",
+    "QTY": 1000,
+    "UNIT_PRICE": 4.5921,
+    "AMOUNT": 4592.1,
+    "% Confidence": 0.8282877604166666,
+    "filename": "05 Vel5-20092023084649-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233886",
+    "PO_NO": "1257419038",
+    "ITEM_NO": "502245901",
+    "QTY": 895,
+    "UNIT_PRICE": 10.3046,
+    "AMOUNT": 9222.62,
+    "% Confidence": 0.9947916666666666,
+    "filename": "05 Vel5-20092023084649-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233886",
+    "PO_NO": "1257419039",
+    "ITEM_NO": "502245901",
+    "QTY": 105,
+    "UNIT_PRICE": 10.3046,
+    "AMOUNT": 25213.41,
+    "% Confidence": 0.9284505208333332,
+    "filename": "05 Vel5-20092023084649-0001.json"
+  }
+]

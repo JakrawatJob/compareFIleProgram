@@ -1,0 +1,34 @@
+[
+  {
+    "INVOICE_NO": "IV-23090013",
+    "PO_NO": 1253831002,
+    "ITEM_NO": 500294602,
+    "QTY": 2800,
+    "UNIT_PRICE": 1.5443,
+    "AMOUNT": 4324.04
+  },
+  {
+    "INVOICE_NO": "IV-23090013",
+    "PO_NO": 1254387014,
+    "ITEM_NO": 502252702,
+    "QTY": 800,
+    "UNIT_PRICE": 4.5827,
+    "AMOUNT": 3666.16
+  },
+  {
+    "INVOICE_NO": "IV-23090013",
+    "PO_NO": 1254387015,
+    "ITEM_NO": 502258201,
+    "QTY": 720,
+    "UNIT_PRICE": 6.3576,
+    "AMOUNT": 4577.47
+  },
+  {
+    "INVOICE_NO": "IV-23090013",
+    "PO_NO": 1253806015,
+    "ITEM_NO": "X50003492",
+    "QTY": 560,
+    "UNIT_PRICE": 122.6075,
+    "AMOUNT": 68660.2
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "INVOICE_NO": "23T0051324",
+    "PO_NO": "1255543003",
+    "ITEM_NO": "012217",
+    "UNIT_PRICE": 3.2053,
+    "AMOUNT": 230.78,
+    "% Confidence": 0.7634657118055556,
+    "filename": "26.MEKTEC.json"
+  },
+  {
+    "INVOICE_NO": "23T0051324",
+    "PO_NO": "1256131001",
+    "ITEM_NO": "188104111",
+    "QTY": 3000,
+    "UNIT_PRICE": 3.2053,
+    "AMOUNT": 9615.9,
+    "% Confidence": 0.9951443142361112,
+    "filename": "26.MEKTEC.json"
+  },
+  {
+    "INVOICE_NO": "23T0051324",
+    "PO_NO": "1256131002",
+    "ITEM_NO": "188104111",
+    "QTY": 1000,
+    "UNIT_PRICE": 3.2053,
+    "AMOUNT": 3205.3,
+    "% Confidence": 0.9926486545138888,
+    "filename": "26.MEKTEC.json"
+  },
+  {
+    "INVOICE_NO": "23T0051324",
+    "PO_NO": "1256131003",
+    "ITEM_NO": "188104111",
+    "QTY": 2000,
+    "UNIT_PRICE": 3.2053,
+    "AMOUNT": 6410.6,
+    "% Confidence": 0.9913465711805555,
+    "filename": "26.MEKTEC.json"
+  }
+]

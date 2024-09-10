@@ -1,0 +1,23 @@
+[
+  {
+    "ITEM_NO": "800",
+    "UNIT_PRICE": 4.5827,
+    "AMOUNT": 3666.16,
+    "% Confidence": 0.43154296875000003,
+    "filename": "YAMAKOH  PRECISION (THAILAND).json"
+  },
+  {
+    "QTY": 720,
+    "UNIT_PRICE": 6.3576,
+    "AMOUNT": 4577.47,
+    "% Confidence": 0.49853515625,
+    "filename": "YAMAKOH  PRECISION (THAILAND).json"
+  },
+  {
+    "QTY": 560,
+    "UNIT_PRICE": 122.6075,
+    "AMOUNT": 68660.2,
+    "% Confidence": 0.4979654947916667,
+    "filename": "YAMAKOH  PRECISION (THAILAND).json"
+  }
+]

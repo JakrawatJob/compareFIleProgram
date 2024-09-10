@@ -1,0 +1,82 @@
+[
+  {
+    "INVOICE_NO": "L23090538",
+    "PO_NO": "1256808040",
+    "ITEM_NO": "500784001",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.3048,
+    "AMOUNT": 304.8,
+    "% Confidence": 0.9969075520833334,
+    "filename": "Nissho4-19092023092728-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090538",
+    "PO_NO": "1256808041",
+    "ITEM_NO": "500784001",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.3048,
+    "AMOUNT": 304.8,
+    "% Confidence": 0.997314453125,
+    "filename": "Nissho4-19092023092728-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090538",
+    "PO_NO": "1256808045",
+    "ITEM_NO": "501034701",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.7527,
+    "AMOUNT": 1505.4,
+    "% Confidence": 0.9969075520833334,
+    "filename": "Nissho4-19092023092728-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090538",
+    "PO_NO": "1256179037",
+    "ITEM_NO": "501098501",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.2988,
+    "AMOUNT": 597.6,
+    "% Confidence": 0.995849609375,
+    "filename": "Nissho4-19092023092728-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090538",
+    "PO_NO": "1256808049",
+    "ITEM_NO": "501098501",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.2988,
+    "AMOUNT": 597.6,
+    "% Confidence": 0.9967447916666666,
+    "filename": "Nissho4-19092023092728-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090538",
+    "PO_NO": "1256808048",
+    "ITEM_NO": "501098301",
+    "QTY": 2000,
+    "UNIT_PRICE": 1.6036,
+    "AMOUNT": 3207.2,
+    "% Confidence": 0.9962565104166666,
+    "filename": "Nissho4-19092023092728-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090538",
+    "PO_NO": "1250902051",
+    "ITEM_NO": "501098201",
+    "QTY": 1000,
+    "UNIT_PRICE": 2.9282,
+    "AMOUNT": 2928.2,
+    "% Confidence": 0.9964192708333334,
+    "filename": "Nissho4-19092023092728-0001.json"
+  },
+  {
+    "INVOICE_NO": "L23090538",
+    "PO_NO": "1256808047",
+    "ITEM_NO": "501098201",
+    "QTY": 1000,
+    "UNIT_PRICE": 2.9282,
+    "AMOUNT": 2928.2,
+    "% Confidence": 0.996826171875,
+    "filename": "Nissho4-19092023092728-0001.json"
+  }
+]

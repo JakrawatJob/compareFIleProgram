@@ -1,0 +1,1164 @@
+[
+  {
+    "fileName": "1.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178610",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178610",
+        "PO_NO": "1252589014",
+        "ITEM_NO": "X50022201",
+        "QTY": "5100",
+        "UNIT_PRICE": "44.5367",
+        "AMOUNT": "227137.17"
+      }
+    ]
+  },
+  {
+    "fileName": "10.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178609",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178609",
+        "PO_NO": "1253942009",
+        "ITEM_NO": "100806131",
+        "QTY": "1440",
+        "UNIT_PRICE": "71.866",
+        "AMOUNT": "103487.04"
+      }
+    ]
+  },
+  {
+    "fileName": "11.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178505",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178505",
+        "PO_NO": "1251989012",
+        "ITEM_NO": "X50002951",
+        "QTY": "110",
+        "UNIT_PRICE": "32.559",
+        "AMOUNT": "3581.49"
+      },
+      {
+        "INVOICE_NO": "23L1178505",
+        "PO_NO": "1252589009",
+        "ITEM_NO": "X50002951",
+        "QTY": "912",
+        "UNIT_PRICE": "32.559",
+        "AMOUNT": "29693.81"
+      },
+      {
+        "INVOICE_NO": "23L1178505",
+        "PO_NO": "1253185010",
+        "ITEM_NO": "X50002951",
+        "QTY": "802",
+        "UNIT_PRICE": "32.559",
+        "AMOUNT": "26112.32"
+      }
+    ]
+  },
+  {
+    "fileName": "12.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178512",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178512",
+        "PO_NO": "1252192013",
+        "ITEM_NO": "100916011",
+        "QTY": "2400",
+        "UNIT_PRICE": "29.3537",
+        "AMOUNT": "70448.88"
+      }
+    ]
+  },
+  {
+    "fileName": "13.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178515",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178515",
+        "PO_NO": "1253942027",
+        "ITEM_NO": "101608011",
+        "QTY": "2745",
+        "UNIT_PRICE": "27.0594",
+        "AMOUNT": "74278.05"
+      },
+      {
+        "INVOICE_NO": "23L1178515",
+        "PO_NO": "1254507018",
+        "ITEM_NO": "101608011",
+        "QTY": "3735",
+        "UNIT_PRICE": "27.0594",
+        "AMOUNT": "101066.86"
+      }
+    ]
+  },
+  {
+    "fileName": "14.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178511",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178511",
+        "PO_NO": "1255117040",
+        "ITEM_NO": "188986611",
+        "QTY": "1778",
+        "UNIT_PRICE": "2.3955",
+        "AMOUNT": "4259.2"
+      },
+      {
+        "INVOICE_NO": "23L1178511",
+        "PO_NO": "1256317043",
+        "ITEM_NO": "188986611",
+        "QTY": "7822",
+        "UNIT_PRICE": "2.3955",
+        "AMOUNT": "18737.6"
+      }
+    ]
+  },
+  {
+    "fileName": "15.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178508",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178508",
+        "PO_NO": "1247742010",
+        "ITEM_NO": "100632411",
+        "QTY": "810",
+        "UNIT_PRICE": "13.496",
+        "AMOUNT": "10931.76"
+      },
+      {
+        "INVOICE_NO": "23L1178508",
+        "PO_NO": "1252793012",
+        "ITEM_NO": "100632411",
+        "QTY": "1667",
+        "UNIT_PRICE": "13.496",
+        "AMOUNT": "22497.83"
+      }
+    ]
+  },
+  {
+    "fileName": "16.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178507",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178507",
+        "PO_NO": "1251037005",
+        "ITEM_NO": "100408511",
+        "QTY": "778",
+        "UNIT_PRICE": "12.8212",
+        "AMOUNT": "9974.89"
+      },
+      {
+        "INVOICE_NO": "23L1178507",
+        "PO_NO": "1251620003",
+        "ITEM_NO": "100408511",
+        "QTY": "4798",
+        "UNIT_PRICE": "12.8212",
+        "AMOUNT": "61516.12"
+      }
+    ]
+  },
+  {
+    "fileName": "17.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178513",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178513",
+        "PO_NO": "1253185014",
+        "ITEM_NO": "X50022171",
+        "QTY": "4032",
+        "UNIT_PRICE": "84.6871",
+        "AMOUNT": "341458.39"
+      }
+    ]
+  },
+  {
+    "fileName": "18.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178510",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178510",
+        "PO_NO": "1252793041",
+        "ITEM_NO": "198411611",
+        "QTY": "10994",
+        "UNIT_PRICE": "15.5204",
+        "AMOUNT": "170631.28"
+      },
+      {
+        "INVOICE_NO": "23L1178510",
+        "PO_NO": "1252793042",
+        "ITEM_NO": "198411611",
+        "QTY": "6286",
+        "UNIT_PRICE": "15.5204",
+        "AMOUNT": "97561.23"
+      }
+    ]
+  },
+  {
+    "fileName": "19.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178518",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178518",
+        "PO_NO": "1253942046",
+        "ITEM_NO": "101693511",
+        "QTY": "2880",
+        "UNIT_PRICE": "35.157",
+        "AMOUNT": "101252.16"
+      }
+    ]
+  },
+  {
+    "fileName": "2.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178643",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178643",
+        "PO_NO": "1253942021",
+        "ITEM_NO": "100999511",
+        "QTY": "100",
+        "UNIT_PRICE": "32.0529",
+        "AMOUNT": "3205.29"
+      }
+    ]
+  },
+  {
+    "fileName": "20.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178509",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178509",
+        "PO_NO": "1252589004",
+        "ITEM_NO": "X25904291",
+        "QTY": "900",
+        "UNIT_PRICE": "66.8725",
+        "AMOUNT": "60185.25"
+      }
+    ]
+  },
+  {
+    "fileName": "21.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178601",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178601",
+        "PO_NO": "9098577013",
+        "ITEM_NO": "101614111",
+        "QTY": "3940",
+        "UNIT_PRICE": "36.4054",
+        "AMOUNT": "143437.28"
+      },
+      {
+        "INVOICE_NO": "23L1178601",
+        "PO_NO": "9098577018",
+        "ITEM_NO": "101614111",
+        "QTY": "1340",
+        "UNIT_PRICE": "36.4054",
+        "AMOUNT": "48783.24"
+      }
+    ]
+  },
+  {
+    "fileName": "22.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178612",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178612",
+        "PO_NO": "1254507020",
+        "ITEM_NO": "101608711",
+        "QTY": "2880",
+        "UNIT_PRICE": "14.0358",
+        "AMOUNT": "40423.1"
+      },
+      {
+        "INVOICE_NO": "23L1178612",
+        "PO_NO": "1254507021",
+        "ITEM_NO": "101608711",
+        "QTY": "960",
+        "UNIT_PRICE": "14.0358",
+        "AMOUNT": "13474.37"
+      }
+    ]
+  },
+  {
+    "fileName": "23.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178602",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178602",
+        "PO_NO": "9098577017",
+        "ITEM_NO": "101609911",
+        "QTY": "960",
+        "UNIT_PRICE": "37.9574",
+        "AMOUNT": "36439.1"
+      },
+      {
+        "INVOICE_NO": "23L1178602",
+        "PO_NO": "1253942039",
+        "ITEM_NO": "101609911",
+        "QTY": "3960",
+        "UNIT_PRICE": "37.9574",
+        "AMOUNT": "150311.3"
+      },
+      {
+        "INVOICE_NO": "23L1178602",
+        "PO_NO": "1253942040",
+        "ITEM_NO": "101609911",
+        "QTY": "360",
+        "UNIT_PRICE": "37.9574",
+        "AMOUNT": "13664.66"
+      }
+    ]
+  },
+  {
+    "fileName": "24.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178600",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178600",
+        "PO_NO": "9098577012",
+        "ITEM_NO": "101608511",
+        "QTY": "2880",
+        "UNIT_PRICE": "26.6545",
+        "AMOUNT": "76764.96"
+      }
+    ]
+  },
+  {
+    "fileName": "25.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178514",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178514",
+        "PO_NO": "1253942041",
+        "ITEM_NO": "101613711",
+        "QTY": "2824",
+        "UNIT_PRICE": "33.6724",
+        "AMOUNT": "95090.86"
+      },
+      {
+        "INVOICE_NO": "23L1178514",
+        "PO_NO": "1254507026",
+        "ITEM_NO": "101613711",
+        "QTY": "1016",
+        "UNIT_PRICE": "33.6724",
+        "AMOUNT": "34211.16"
+      }
+    ]
+  },
+  {
+    "fileName": "26.MEKTEC.xlsx",
+    "INVOICE_tag": "23T0051324",
+    "data": [
+      {
+        "INVOICE_NO": "23T0051324",
+        "PO_NO": "1255543003",
+        "ITEM_NO": "188104111",
+        "QTY": "72",
+        "UNIT_PRICE": "3.2053",
+        "AMOUNT": "230.78"
+      },
+      {
+        "INVOICE_NO": "23T0051324",
+        "PO_NO": "1256131001",
+        "ITEM_NO": "188104111",
+        "QTY": "3000",
+        "UNIT_PRICE": "3.2053",
+        "AMOUNT": "9615.9"
+      },
+      {
+        "INVOICE_NO": "23T0051324",
+        "PO_NO": "1256131002",
+        "ITEM_NO": "188104111",
+        "QTY": "1000",
+        "UNIT_PRICE": "3.2053",
+        "AMOUNT": "3205.3"
+      },
+      {
+        "INVOICE_NO": "23T0051324",
+        "PO_NO": "1256131003",
+        "ITEM_NO": "188104111",
+        "QTY": "2000",
+        "UNIT_PRICE": "3.2053",
+        "AMOUNT": "6410.6"
+      }
+    ]
+  },
+  {
+    "fileName": "27.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178577",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178577",
+        "PO_NO": "1257560042",
+        "ITEM_NO": "101614011",
+        "QTY": "80",
+        "UNIT_PRICE": "41.3314",
+        "AMOUNT": "3306.51"
+      }
+    ]
+  },
+  {
+    "fileName": "28.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178516",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178516",
+        "PO_NO": "1253942043",
+        "ITEM_NO": "101614011",
+        "QTY": "3520",
+        "UNIT_PRICE": "41.3314",
+        "AMOUNT": "145486.53"
+      }
+    ]
+  },
+  {
+    "fileName": "29.MEKTEC.xlsx",
+    "INVOICE_tag": "23T0051312",
+    "data": [
+      {
+        "INVOICE_NO": "23T0051312",
+        "PO_NO": "1255543003",
+        "ITEM_NO": "188104111",
+        "QTY": "960",
+        "UNIT_PRICE": "3.2053",
+        "AMOUNT": "3077.09"
+      }
+    ]
+  },
+  {
+    "fileName": "3.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178608",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178608",
+        "PO_NO": "1250473011",
+        "ITEM_NO": "100408811",
+        "QTY": "553",
+        "UNIT_PRICE": "53.6464",
+        "AMOUNT": "29666.46"
+      },
+      {
+        "INVOICE_NO": "23L1178608",
+        "PO_NO": "1251037009",
+        "ITEM_NO": "100408811",
+        "QTY": "2327",
+        "UNIT_PRICE": "53.6464",
+        "AMOUNT": "124835.17"
+      }
+    ]
+  },
+  {
+    "fileName": "30.MEKTEC.xlsx",
+    "INVOICE_tag": "23T0051324",
+    "data": [
+      {
+        "INVOICE_NO": "23T0051324",
+        "PO_NO": "1256750001",
+        "ITEM_NO": "188104111",
+        "QTY": "968",
+        "UNIT_PRICE": "3.2053",
+        "AMOUNT": "3102.73"
+      }
+    ]
+  },
+  {
+    "fileName": "4.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178626",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178626",
+        "PO_NO": "1253942021",
+        "ITEM_NO": "100999511",
+        "QTY": "4423",
+        "UNIT_PRICE": "32.0529",
+        "AMOUNT": "141769.98"
+      },
+      {
+        "INVOICE_NO": "23L1178626",
+        "PO_NO": "1254507017",
+        "ITEM_NO": "100999511",
+        "QTY": "377",
+        "UNIT_PRICE": "32.0529",
+        "AMOUNT": "12083.94"
+      }
+    ]
+  },
+  {
+    "fileName": "5.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178649",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178649",
+        "PO_NO": "1255117029",
+        "ITEM_NO": "101609511",
+        "QTY": "735",
+        "UNIT_PRICE": "33.8411",
+        "AMOUNT": "24873.21"
+      }
+    ]
+  },
+  {
+    "fileName": "6.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178642",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178642",
+        "PO_NO": "1254507022",
+        "ITEM_NO": "101609511",
+        "QTY": "2880",
+        "UNIT_PRICE": "33.8411",
+        "AMOUNT": "97462.37"
+      }
+    ]
+  },
+  {
+    "fileName": "7.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178613",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178613",
+        "PO_NO": "1254507023",
+        "ITEM_NO": "101609611",
+        "QTY": "800",
+        "UNIT_PRICE": "24.6301",
+        "AMOUNT": "19704.08"
+      },
+      {
+        "INVOICE_NO": "23L1178613",
+        "PO_NO": "1255117031",
+        "ITEM_NO": "101609611",
+        "QTY": "2400",
+        "UNIT_PRICE": "24.6301",
+        "AMOUNT": "59112.24"
+      },
+      {
+        "INVOICE_NO": "23L1178613",
+        "PO_NO": "1255117032",
+        "ITEM_NO": "101609611",
+        "QTY": "4000",
+        "UNIT_PRICE": "24.6301",
+        "AMOUNT": "98520.4"
+      }
+    ]
+  },
+  {
+    "fileName": "8.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178611",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178611",
+        "PO_NO": "1254507026",
+        "ITEM_NO": "101613711",
+        "QTY": "4800",
+        "UNIT_PRICE": "33.6724",
+        "AMOUNT": "161627.52"
+      }
+    ]
+  },
+  {
+    "fileName": "9.MEKTEC.xlsx",
+    "INVOICE_tag": "23L1178644",
+    "data": [
+      {
+        "INVOICE_NO": "23L1178644",
+        "PO_NO": "9098577018",
+        "ITEM_NO": "101614111",
+        "QTY": "100",
+        "UNIT_PRICE": "36.4054",
+        "AMOUNT": "3640.54"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (1).xlsx",
+    "INVOICE_tag": "23L1171212",
+    "data": [
+      {
+        "INVOICE_NO": "23L1171212",
+        "PO_NO": "1221208007",
+        "ITEM_NO": "X50030351",
+        "QTY": "13070",
+        "UNIT_PRICE": "89.9892",
+        "AMOUNT": "1176158.84"
+      },
+      {
+        "INVOICE_NO": "23L1171212",
+        "PO_NO": "1221637007",
+        "ITEM_NO": "X50030351",
+        "QTY": "90",
+        "UNIT_PRICE": "89.9892",
+        "AMOUNT": "8099.03"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (10).xlsx",
+    "INVOICE_tag": "22L1171238",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171238",
+        "PO_NO": "1220778006",
+        "ITEM_NO": "X50030371",
+        "QTY": "6480",
+        "UNIT_PRICE": "164.7684",
+        "AMOUNT": "1067699.23"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (11).xlsx",
+    "INVOICE_tag": "22L1171249",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171249",
+        "PO_NO": "1226529003",
+        "ITEM_NO": "X50033651",
+        "QTY": "3840",
+        "UNIT_PRICE": "164.8714",
+        "AMOUNT": "633106.18"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (12).xlsx",
+    "INVOICE_tag": "22L1171252",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171252",
+        "PO_NO": "1226106003",
+        "ITEM_NO": "X50030361",
+        "QTY": "13020",
+        "UNIT_PRICE": "67.6378",
+        "AMOUNT": "880644.16"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (13).xlsx",
+    "INVOICE_tag": "22L1171253",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171253",
+        "PO_NO": "1220778006",
+        "ITEM_NO": "X50030371",
+        "QTY": "6480",
+        "UNIT_PRICE": "164.7684",
+        "AMOUNT": "1067699.23"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (14).xlsx",
+    "INVOICE_tag": "22L1171251",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171251",
+        "PO_NO": "1221637007",
+        "ITEM_NO": "X50030351",
+        "QTY": "19040",
+        "UNIT_PRICE": "89.9892",
+        "AMOUNT": "1713394.37"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (15).xlsx",
+    "INVOICE_tag": "22L1171286",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171286",
+        "PO_NO": "9093480008",
+        "ITEM_NO": "X50034651",
+        "QTY": "10",
+        "UNIT_PRICE": "144.7517",
+        "AMOUNT": "1447.52"
+      },
+      {
+        "INVOICE_NO": "22L1171286",
+        "PO_NO": "9093480001",
+        "ITEM_NO": "X50034651",
+        "QTY": "10",
+        "UNIT_PRICE": "144.7517",
+        "AMOUNT": "1447.52"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (16).xlsx",
+    "INVOICE_tag": "22L1171287",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171287",
+        "PO_NO": "9093480010",
+        "ITEM_NO": "X50034681",
+        "QTY": "10",
+        "UNIT_PRICE": "44.0504",
+        "AMOUNT": "440.5"
+      },
+      {
+        "INVOICE_NO": "22L1171287",
+        "PO_NO": "9093480004",
+        "ITEM_NO": "X50034681",
+        "QTY": "10",
+        "UNIT_PRICE": "44.0504",
+        "AMOUNT": "440.5"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (17).xlsx",
+    "INVOICE_tag": "TTH01-220800400",
+    "data": [
+      {
+        "INVOICE_NO": "TTH01-220800400",
+        "PO_NO": "9093622001",
+        "ITEM_NO": "504665101",
+        "QTY": "1190",
+        "UNIT_PRICE": "33.6345",
+        "AMOUNT": "40025.06"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (18).xlsx",
+    "INVOICE_tag": "22L1171289",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171289",
+        "PO_NO": "9093480003",
+        "ITEM_NO": "X50034661",
+        "QTY": "10",
+        "UNIT_PRICE": "57.2346",
+        "AMOUNT": "572.35"
+      },
+      {
+        "INVOICE_NO": "22L1171289",
+        "PO_NO": "9093480007",
+        "ITEM_NO": "X50034661",
+        "QTY": "10",
+        "UNIT_PRICE": "57.2346",
+        "AMOUNT": "572.35"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (19).xlsx",
+    "INVOICE_tag": "22L1171294",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171294",
+        "PO_NO": "9090694003",
+        "ITEM_NO": "X50021341",
+        "QTY": "1533",
+        "UNIT_PRICE": "146.0221",
+        "AMOUNT": "223851.88"
+      },
+      {
+        "INVOICE_NO": "22L1171294",
+        "PO_NO": "9090694001",
+        "ITEM_NO": "X50021341",
+        "QTY": "1107",
+        "UNIT_PRICE": "146.0221",
+        "AMOUNT": "161646.46"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (2).xlsx",
+    "INVOICE_tag": "22L1171154",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171154",
+        "PO_NO": "1225694002",
+        "ITEM_NO": "X50030361",
+        "QTY": "7870",
+        "UNIT_PRICE": "67.6378",
+        "AMOUNT": "532309.49"
+      },
+      {
+        "INVOICE_NO": "22L1171154",
+        "PO_NO": "1224833001",
+        "ITEM_NO": "X50030361",
+        "QTY": "3470",
+        "UNIT_PRICE": "67.6378",
+        "AMOUNT": "234703.17"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (20).xlsx",
+    "INVOICE_tag": "22L1171274",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171274",
+        "PO_NO": "1220778006",
+        "ITEM_NO": "X50030371",
+        "QTY": "2400",
+        "UNIT_PRICE": "164.7684",
+        "AMOUNT": "395444.16"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (21).xlsx",
+    "INVOICE_tag": "22L1171280",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171280",
+        "PO_NO": "1226529003",
+        "ITEM_NO": "X50033651",
+        "QTY": "1920",
+        "UNIT_PRICE": "164.8714",
+        "AMOUNT": "316553.09"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (22).xlsx",
+    "INVOICE_tag": "22L1171288",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171288",
+        "PO_NO": "9093480009",
+        "ITEM_NO": "X50034671",
+        "QTY": "10",
+        "UNIT_PRICE": "224.9557",
+        "AMOUNT": "2249.56"
+      },
+      {
+        "INVOICE_NO": "22L1171288",
+        "PO_NO": "9093480012",
+        "ITEM_NO": "X50034671",
+        "QTY": "10",
+        "UNIT_PRICE": "224.9557",
+        "AMOUNT": "2249.56"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (23).xlsx",
+    "INVOICE_tag": "22T0050204",
+    "data": [
+      {
+        "INVOICE_NO": "22T0050204",
+        "PO_NO": "1228871001",
+        "ITEM_NO": "501319601",
+        "QTY": "18000",
+        "UNIT_PRICE": "5.9054",
+        "AMOUNT": "106297.2"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (24).xlsx",
+    "INVOICE_tag": "22L1171325",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171325",
+        "PO_NO": "1226106003",
+        "ITEM_NO": "X50030361",
+        "QTY": "1570",
+        "UNIT_PRICE": "67.6378",
+        "AMOUNT": "106191.35"
+      },
+      {
+        "INVOICE_NO": "22L1171325",
+        "PO_NO": "1226529001",
+        "ITEM_NO": "X50030361",
+        "QTY": "22790",
+        "UNIT_PRICE": "67.6378",
+        "AMOUNT": "1541465.46"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (25).xlsx",
+    "INVOICE_tag": "22L1171326",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171326",
+        "PO_NO": "1220778006",
+        "ITEM_NO": "X50030371",
+        "QTY": "4160",
+        "UNIT_PRICE": "164.7684",
+        "AMOUNT": "685436.54"
+      },
+      {
+        "INVOICE_NO": "22L1171326",
+        "PO_NO": "1220778007",
+        "ITEM_NO": "X50030371",
+        "QTY": "2320",
+        "UNIT_PRICE": "164.7684",
+        "AMOUNT": "382262.69"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (26).xlsx",
+    "INVOICE_tag": "22L1171353",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171353",
+        "PO_NO": "1220778007",
+        "ITEM_NO": "X50030371",
+        "QTY": "6960",
+        "UNIT_PRICE": "164.7684",
+        "AMOUNT": "1146788.06"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (27).xlsx",
+    "INVOICE_tag": "22L1171383",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171383",
+        "PO_NO": "9093480006",
+        "ITEM_NO": "X50034651",
+        "QTY": "1180",
+        "UNIT_PRICE": "144.7517",
+        "AMOUNT": "170807.01"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (28).xlsx",
+    "INVOICE_tag": "22L1171384",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171384",
+        "PO_NO": "9093480005",
+        "ITEM_NO": "X50034661",
+        "QTY": "1180",
+        "UNIT_PRICE": "57.2346",
+        "AMOUNT": "67536.83"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (29).xlsx",
+    "INVOICE_tag": "22L1171372",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171372",
+        "PO_NO": "1221637007",
+        "ITEM_NO": "X50030351",
+        "QTY": "23520",
+        "UNIT_PRICE": "89.9892",
+        "AMOUNT": "2116545.98"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (3).xlsx",
+    "INVOICE_tag": "22L1171152",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171152",
+        "PO_NO": "1226529003",
+        "ITEM_NO": "X50033651",
+        "QTY": "5520",
+        "UNIT_PRICE": "164.8714",
+        "AMOUNT": "910090.13"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (30).xlsx",
+    "INVOICE_tag": "22L1171373",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171373",
+        "PO_NO": "1226529001",
+        "ITEM_NO": "X50030361",
+        "QTY": "26460",
+        "UNIT_PRICE": "67.6378",
+        "AMOUNT": "1789696.19"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (31).xlsx",
+    "INVOICE_tag": "22L1171374",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171374",
+        "PO_NO": "1220778007",
+        "ITEM_NO": "X50030371",
+        "QTY": "7200",
+        "UNIT_PRICE": "164.7684",
+        "AMOUNT": "1186332.48"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (32).xlsx",
+    "INVOICE_tag": "22L1171375",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171375",
+        "PO_NO": "1223903005",
+        "ITEM_NO": "X50021351",
+        "QTY": "3544",
+        "UNIT_PRICE": "28.7718",
+        "AMOUNT": "101967.26"
+      },
+      {
+        "INVOICE_NO": "22L1171375",
+        "PO_NO": "1224798001",
+        "ITEM_NO": "X50021351",
+        "QTY": "23056",
+        "UNIT_PRICE": "28.7718",
+        "AMOUNT": "663362.62"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (4).xlsx",
+    "INVOICE_tag": "22L1171214",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171214",
+        "PO_NO": "1224833001",
+        "ITEM_NO": "X50030361",
+        "QTY": "580",
+        "UNIT_PRICE": "67.6378",
+        "AMOUNT": "39229.92"
+      },
+      {
+        "INVOICE_NO": "22L1171214",
+        "PO_NO": "1226106003",
+        "ITEM_NO": "X50030361",
+        "QTY": "12860",
+        "UNIT_PRICE": "67.6378",
+        "AMOUNT": "869822.11"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (5).xlsx",
+    "INVOICE_tag": "22L1171219",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171219",
+        "PO_NO": "1224357002",
+        "ITEM_NO": "X50020611",
+        "QTY": "1224",
+        "UNIT_PRICE": "91.4655",
+        "AMOUNT": "111953.77"
+      },
+      {
+        "INVOICE_NO": "22L1171219",
+        "PO_NO": "9090752001",
+        "ITEM_NO": "X50020611",
+        "QTY": "2268",
+        "UNIT_PRICE": "91.4655",
+        "AMOUNT": "207443.75"
+      },
+      {
+        "INVOICE_NO": "22L1171219",
+        "PO_NO": "9090752002",
+        "ITEM_NO": "X50020611",
+        "QTY": "792",
+        "UNIT_PRICE": "91.4655",
+        "AMOUNT": "72440.68"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (6).xlsx",
+    "INVOICE_tag": "22L1171209",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171209",
+        "PO_NO": "1226529003",
+        "ITEM_NO": "X50033651",
+        "QTY": "5760",
+        "UNIT_PRICE": "164.8714",
+        "AMOUNT": "949659.26"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (7).xlsx",
+    "INVOICE_tag": "22L1171210",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171210",
+        "PO_NO": "1219937004",
+        "ITEM_NO": "X50016541",
+        "QTY": "1947",
+        "UNIT_PRICE": "110.1432",
+        "AMOUNT": "214448.81"
+      },
+      {
+        "INVOICE_NO": "22L1171210",
+        "PO_NO": "1218749001",
+        "ITEM_NO": "X50016541",
+        "QTY": "1890",
+        "UNIT_PRICE": "110.1432",
+        "AMOUNT": "208170.65"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (8).xlsx",
+    "INVOICE_tag": "22L1171211",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171211",
+        "PO_NO": "1223903005",
+        "ITEM_NO": "X50021351",
+        "QTY": "4200",
+        "UNIT_PRICE": "28.7718",
+        "AMOUNT": "120841.56"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC (9).xlsx",
+    "INVOICE_tag": "22T0050181",
+    "data": [
+      {
+        "INVOICE_NO": "22T0050181",
+        "PO_NO": "1228416001",
+        "ITEM_NO": "501319601",
+        "QTY": "18000",
+        "UNIT_PRICE": "5.9054",
+        "AMOUNT": "106297.2"
+      },
+      {
+        "INVOICE_NO": "22T0050181",
+        "PO_NO": "1228871001",
+        "ITEM_NO": "501319601",
+        "QTY": "9000",
+        "UNIT_PRICE": "5.9054",
+        "AMOUNT": "53148.6"
+      }
+    ]
+  },
+  {
+    "fileName": "MEKTEC.xlsx",
+    "INVOICE_tag": "22L1171153",
+    "data": [
+      {
+        "INVOICE_NO": "22L1171153",
+        "PO_NO": "1221208006",
+        "ITEM_NO": "X50030351",
+        "QTY": "3250",
+        "UNIT_PRICE": "89.9892",
+        "AMOUNT": "292464.9"
+      },
+      {
+        "INVOICE_NO": "22L1171153",
+        "PO_NO": "1221208007",
+        "ITEM_NO": "X50030351",
+        "QTY": "8230",
+        "UNIT_PRICE": "89.9892",
+        "AMOUNT": "740611.12"
+      }
+    ]
+  }
+]

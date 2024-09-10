@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "L23090469",
+    "PO_NO": "1257359053",
+    "ITEM_NO": "501764601",
+    "QTY": 1000,
+    "UNIT_PRICE": 5.988,
+    "AMOUNT": 5988,
+    "% Confidence": 0.9947591145833333,
+    "filename": "25.NISSHO.json"
+  },
+  {
+    "INVOICE_NO": "L23090469",
+    "PO_NO": "57965058",
+    "ITEM_NO": "502479801",
+    "QTY": 600,
+    "UNIT_PRICE": 24.9,
+    "AMOUNT": 14940,
+    "% Confidence": 0.9958089192708334,
+    "filename": "25.NISSHO.json"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "INVOICE_NO": "E2308814",
+    "PO_NO": "1254925075",
+    "ITEM_NO": "427548811",
+    "QTY": 4000,
+    "UNIT_PRICE": 0.9362,
+    "AMOUNT": 3744.8,
+    "% Confidence": 0.9971516927083334,
+    "filename": "30.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308814",
+    "PO_NO": "1255548092",
+    "ITEM_NO": "427549001",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.53322,
+    "AMOUNT": 533.22,
+    "% Confidence": 0.9976399739583334,
+    "filename": "30.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308814",
+    "PO_NO": "1256135080",
+    "ITEM_NO": "428168902",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.40019,
+    "AMOUNT": 2000.95,
+    "% Confidence": 0.9978841145833334,
+    "filename": "30.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308814",
+    "PO_NO": "1256756109",
+    "ITEM_NO": "428168902",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.40019,
+    "AMOUNT": 2000.95,
+    "% Confidence": 0.998046875,
+    "filename": "30.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308814",
+    "PO_NO": "1256756110",
+    "ITEM_NO": "428743621",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.49678,
+    "AMOUNT": 4967.8,
+    "% Confidence": 0.996826171875,
+    "filename": "30.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308814",
+    "PO_NO": "1256135083",
+    "ITEM_NO": "429869901",
+    "QTY": 290,
+    "UNIT_PRICE": 0.13015,
+    "AMOUNT": 37.74,
+    "% Confidence": 0.9974772135416666,
+    "filename": "30.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308814",
+    "PO_NO": "1256135084",
+    "ITEM_NO": "429869901",
+    "QTY": 19000,
+    "UNIT_PRICE": 0.13015,
+    "AMOUNT": 2472.85,
+    "% Confidence": 0.996826171875,
+    "filename": "30.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308814",
+    "PO_NO": "1256135085",
+    "ITEM_NO": "429869901",
+    "QTY": 6000,
+    "UNIT_PRICE": 0.13015,
+    "AMOUNT": 780.9,
+    "% Confidence": 0.9972330729166666,
+    "filename": "30.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308814",
+    "PO_NO": "1256756111",
+    "ITEM_NO": "429869901",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.13015,
+    "AMOUNT": 260.3,
+    "% Confidence": 0.9969889322916666,
+    "filename": "30.ENT.json"
+  },
+  {
+    "INVOICE_NO": "E2308814",
+    "PO_NO": "1256756112",
+    "ITEM_NO": "429869901",
+    "QTY": 4710,
+    "UNIT_PRICE": 0.13015,
+    "AMOUNT": 613.01,
+    "% Confidence": 0.996826171875,
+    "filename": "30.ENT.json"
+  }
+]

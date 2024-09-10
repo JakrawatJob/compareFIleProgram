@@ -1,0 +1,32 @@
+[
+  {
+    "INVOICE_NO": "E2309374",
+    "PO_NO": "1257425069",
+    "ITEM_NO": "767111211",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.36815,
+    "AMOUNT": 736.3,
+    "% Confidence": 0.9988606770833334,
+    "filename": "Ent12-19092023105912-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309374",
+    "PO_NO": "1257425070",
+    "ITEM_NO": "767111211",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.36815,
+    "AMOUNT": 368.15,
+    "% Confidence": 0.9982096354166666,
+    "filename": "Ent12-19092023105912-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309374",
+    "PO_NO": "1257425071",
+    "ITEM_NO": "767111211",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.36815,
+    "AMOUNT": 736.3,
+    "% Confidence": 0.9989420572916666,
+    "filename": "Ent12-19092023105912-0001.json"
+  }
+]

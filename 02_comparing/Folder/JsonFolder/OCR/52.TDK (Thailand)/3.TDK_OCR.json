@@ -1,0 +1,32 @@
+[
+  {
+    "INVOICE_NO": "10264190",
+    "PO_NO": "1253777001",
+    "ITEM_NO": "147158511",
+    "QTY": 2880,
+    "UNIT_PRICE": 10.97896,
+    "AMOUNT": 31619.4,
+    "% Confidence": 0.9973958333333334,
+    "filename": "3.TDK.json"
+  },
+  {
+    "INVOICE_NO": "10264190",
+    "PO_NO": "1254356001",
+    "ITEM_NO": "147158511",
+    "QTY": 2880,
+    "UNIT_PRICE": 10.97896,
+    "AMOUNT": 31619.4,
+    "% Confidence": 0.9969075520833334,
+    "filename": "3.TDK.json"
+  },
+  {
+    "INVOICE_NO": "10264190",
+    "PO_NO": "1254356002",
+    "ITEM_NO": "147158511",
+    "QTY": 2880,
+    "UNIT_PRICE": 10.97896,
+    "AMOUNT": 31619.4,
+    "% Confidence": 0.9973958333333334,
+    "filename": "3.TDK.json"
+  }
+]

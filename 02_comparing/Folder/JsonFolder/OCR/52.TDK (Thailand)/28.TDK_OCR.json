@@ -1,0 +1,60 @@
+[
+  {
+    "INVOICE_NO": "10264447",
+    "PO_NO": "1251018003",
+    "ITEM_NO": "145796511",
+    "QTY": 4000,
+    "UNIT_PRICE": 0.45549,
+    "AMOUNT": 1821.96,
+    "% Confidence": 0.9972330729166666,
+    "filename": "28.TDK.json"
+  },
+  {
+    "INVOICE_NO": "10264447",
+    "PO_NO": "9097412053",
+    "ITEM_NO": "180209021",
+    "QTY": 40000,
+    "UNIT_PRICE": 0.16195,
+    "AMOUNT": 6478,
+    "% Confidence": 0.9974772135416666,
+    "filename": "28.TDK.json"
+  },
+  {
+    "INVOICE_NO": "10264447",
+    "PO_NO": "9097530001",
+    "ITEM_NO": "180225121",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.16195,
+    "AMOUNT": 1619.5,
+    "% Confidence": 0.9967041015625,
+    "filename": "28.TDK.json"
+  },
+  {
+    "INVOICE_NO": "10264447",
+    "PO_NO": "1248319002",
+    "ITEM_NO": "181235911",
+    "QTY": 15000,
+    "UNIT_PRICE": 0.10797,
+    "AMOUNT": 1619.55,
+    "% Confidence": 0.9962565104166666,
+    "filename": "28.TDK.json"
+  },
+  {
+    "INVOICE_NO": "10264447",
+    "PO_NO": "1246120008",
+    "ITEM_NO": "181246011",
+    "QTY": 15000,
+    "UNIT_PRICE": 10797,
+    "AMOUNT": 1619.55,
+    "% Confidence": 0.9310546875,
+    "filename": "28.TDK.json"
+  },
+  {
+    "INVOICE_NO": "10264447",
+    "PO_NO": "1254683002",
+    "QTY": 84000,
+    "AMOUNT": 921.1,
+    "% Confidence": 0.598779296875,
+    "filename": "28.TDK.json"
+  }
+]

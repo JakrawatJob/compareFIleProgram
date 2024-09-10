@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "V-23080267",
+    "PO_NO": "1253362029",
+    "ITEM_NO": "70801",
+    "QTY": 400,
+    "UNIT_PRICE": 4.8299,
+    "AMOUNT": 1931.96,
+    "% Confidence": 0.99609375,
+    "filename": "26.YAMAKOH.json"
+  },
+  {
+    "INVOICE_NO": "V-23080267",
+    "PO_NO": "1253362031",
+    "ITEM_NO": "505270901",
+    "QTY": 720,
+    "UNIT_PRICE": 1.9927,
+    "AMOUNT": 1434.74,
+    "% Confidence": 0.9952799479166666,
+    "filename": "26.YAMAKOH.json"
+  }
+]

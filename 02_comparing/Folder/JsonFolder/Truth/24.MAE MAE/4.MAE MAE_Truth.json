@@ -1,0 +1,34 @@
+[
+  {
+    "INVOICE_NO": "MM6609-0742",
+    "PO_NO": "9101166008",
+    "ITEM_NO": "446512407",
+    "QTY": 92,
+    "UNIT_PRICE": 1.1,
+    "AMOUNT": 101.2
+  },
+  {
+    "INVOICE_NO": "MM6609-0742",
+    "PO_NO": "9101166020",
+    "ITEM_NO": "502945202",
+    "QTY": 290,
+    "UNIT_PRICE": 0.8,
+    "AMOUNT": 232
+  },
+  {
+    "INVOICE_NO": "MM6609-0742",
+    "PO_NO": "9101208001",
+    "ITEM_NO": "502226801",
+    "QTY": 100,
+    "UNIT_PRICE": 0.85,
+    "AMOUNT": 85
+  },
+  {
+    "INVOICE_NO": "MM6609-0742",
+    "PO_NO": "9101208002",
+    "ITEM_NO": "502226801",
+    "QTY": 288,
+    "UNIT_PRICE": 0.85,
+    "AMOUNT": 244.8
+  }
+]

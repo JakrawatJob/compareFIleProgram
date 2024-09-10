@@ -1,0 +1,90 @@
+[
+  {
+    "INVOICE_NO": "DY233778",
+    "PO_NO": "269157602",
+    "QTY": 750,
+    "UNIT_PRICE": 0.9491,
+    "AMOUNT": 711.83,
+    "% Confidence": 0.8296712239583334,
+    "filename": "1.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233778",
+    "PO_NO": "1256747031",
+    "ITEM_NO": "443375301",
+    "QTY": 140,
+    "UNIT_PRICE": 0.4239,
+    "AMOUNT": 59.35,
+    "% Confidence": 0.99462890625,
+    "filename": "1.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233778",
+    "PO_NO": "1257363022",
+    "ITEM_NO": "443375301",
+    "QTY": 4860,
+    "UNIT_PRICE": 0.4239,
+    "AMOUNT": 2060.15,
+    "% Confidence": 0.99462890625,
+    "filename": "1.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233778",
+    "PO_NO": "1256128025",
+    "ITEM_NO": "444489001",
+    "QTY": 426,
+    "UNIT_PRICE": 0.6633,
+    "AMOUNT": 282.57,
+    "% Confidence": 0.9949544270833334,
+    "filename": "1.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233778",
+    "PO_NO": "1256747035",
+    "ITEM_NO": "444489001",
+    "QTY": 3000,
+    "UNIT_PRICE": 0.6633,
+    "AMOUNT": 1989.9,
+    "% Confidence": 0.9947102864583334,
+    "filename": "1.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233778",
+    "ITEM_NO": "444489001",
+    "QTY": 1074,
+    "UNIT_PRICE": 0.6633,
+    "AMOUNT": 712.38,
+    "% Confidence": 0.8297526041666666,
+    "filename": "1.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233778",
+    "PO_NO": "1257363031",
+    "ITEM_NO": "446238801",
+    "QTY": 300,
+    "UNIT_PRICE": 3.081,
+    "AMOUNT": 924.3,
+    "% Confidence": 0.99609375,
+    "filename": "1.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233778",
+    "PO_NO": "1256747046",
+    "ITEM_NO": "447139102",
+    "QTY": 620,
+    "UNIT_PRICE": 6.9357,
+    "AMOUNT": 4300.13,
+    "% Confidence": 0.99609375,
+    "filename": "1.VEL.json"
+  },
+  {
+    "INVOICE_NO": "DY233778",
+    "PO_NO": "1257363044",
+    "ITEM_NO": "447139102",
+    "QTY": 1180,
+    "UNIT_PRICE": 6.9357,
+    "AMOUNT": 19224.74,
+    "% Confidence": 0.9301595052083332,
+    "filename": "1.VEL.json"
+  }
+]

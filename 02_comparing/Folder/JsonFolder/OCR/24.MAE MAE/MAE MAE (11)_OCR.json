@@ -1,0 +1,12 @@
+[
+  {
+    "INVOICE_NO": "MM6509-0321",
+    "PO_NO": "9094142003",
+    "ITEM_NO": "503640201",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.954,
+    "AMOUNT": 4770,
+    "% Confidence": 0.996826171875,
+    "filename": "MAE MAE (11).json"
+  }
+]

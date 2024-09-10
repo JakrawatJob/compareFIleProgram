@@ -1,0 +1,91 @@
+[
+  {
+    "INVOICE_NO": "DY233884",
+    "PO_NO": "1256810025",
+    "ITEM_NO": "501034301",
+    "QTY": 760,
+    "UNIT_PRICE": 3.7199,
+    "AMOUNT": 2827.12,
+    "% Confidence": 0.993896484375,
+    "filename": "03 Vel3-20092023084552-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233884",
+    "PO_NO": "1256810026",
+    "ITEM_NO": "501034301",
+    "QTY": 2000,
+    "UNIT_PRICE": 3.7199,
+    "AMOUNT": 7439.8,
+    "% Confidence": 0.9927571614583334,
+    "filename": "03 Vel3-20092023084552-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233884",
+    "PO_NO": "1257419012",
+    "ITEM_NO": "501034301",
+    "QTY": 1000,
+    "UNIT_PRICE": 3.7199,
+    "AMOUNT": 3719.9,
+    "% Confidence": 0.9944661458333334,
+    "filename": "03 Vel3-20092023084552-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233884",
+    "PO_NO": "1257419013",
+    "ITEM_NO": "501034301",
+    "QTY": 240,
+    "UNIT_PRICE": 3.7199,
+    "AMOUNT": 892.78,
+    "% Confidence": 0.994873046875,
+    "filename": "03 Vel3-20092023084552-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233884",
+    "PO_NO": "1256810027",
+    "ITEM_NO": "501034501",
+    "QTY": 1800,
+    "UNIT_PRICE": 0.9865,
+    "AMOUNT": 1775.7,
+    "% Confidence": 0.9939778645833334,
+    "filename": "03 Vel3-20092023084552-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233884",
+    "PO_NO": "1256810028",
+    "ITEM_NO": "501035001",
+    "QTY": 1200,
+    "UNIT_PRICE": 15.408,
+    "AMOUNT": 18489.6,
+    "% Confidence": 0.9944661458333334,
+    "filename": "03 Vel3-20092023084552-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233884",
+    "PO_NO": "1256810029",
+    "QTY": 1000,
+    "UNIT_PRICE": 13.263,
+    "AMOUNT": 13263,
+    "% Confidence": 0.8290201822916666,
+    "filename": "03 Vel3-20092023084552-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233884",
+    "PO_NO": "1256810030",
+    "ITEM_NO": "501098601",
+    "QTY": 1000,
+    "UNIT_PRICE": 13.263,
+    "AMOUNT": 13263,
+    "% Confidence": 0.994873046875,
+    "filename": "03 Vel3-20092023084552-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233884",
+    "PO_NO": "1256810032",
+    "ITEM_NO": "501137001",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.0163,
+    "AMOUNT": 62687.2,
+    "% Confidence": 0.9284505208333332,
+    "filename": "03 Vel3-20092023084552-0001.json"
+  }
+]

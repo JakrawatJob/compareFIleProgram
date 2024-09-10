@@ -1,0 +1,82 @@
+[
+  {
+    "INVOICE_NO": "E2309120",
+    "PO_NO": "1256187015",
+    "ITEM_NO": "263556281",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.13151,
+    "AMOUNT": 131.51,
+    "% Confidence": 0.9976399739583334,
+    "filename": "Ent18-19092023110613-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309120",
+    "PO_NO": "1256187016",
+    "ITEM_NO": "263556281",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.13151,
+    "AMOUNT": 131.51,
+    "% Confidence": 0.9979654947916666,
+    "filename": "Ent18-19092023110613-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309120",
+    "PO_NO": "1256187017",
+    "ITEM_NO": "263556281",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.13151,
+    "AMOUNT": 263.02,
+    "% Confidence": 0.9978841145833334,
+    "filename": "Ent18-19092023110613-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309120",
+    "PO_NO": "1256187018",
+    "ITEM_NO": "263556281",
+    "QTY": 3000,
+    "UNIT_PRICE": 0.13151,
+    "AMOUNT": 394.53,
+    "% Confidence": 0.9976399739583334,
+    "filename": "Ent18-19092023110613-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309120",
+    "PO_NO": "1256816019",
+    "ITEM_NO": "308020401",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.09343,
+    "AMOUNT": 93.43,
+    "% Confidence": 0.9984537760416666,
+    "filename": "Ent18-19092023110613-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309120",
+    "PO_NO": "1256816020",
+    "ITEM_NO": "308020401",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.09343,
+    "AMOUNT": 186.86,
+    "% Confidence": 0.9988606770833334,
+    "filename": "Ent18-19092023110613-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309120",
+    "PO_NO": "1256816021",
+    "ITEM_NO": "308020401",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.09343,
+    "AMOUNT": 93.43,
+    "% Confidence": 0.998779296875,
+    "filename": "Ent18-19092023110613-0001.json"
+  },
+  {
+    "INVOICE_NO": "E2309120",
+    "PO_NO": "1255606018",
+    "ITEM_NO": "309148131",
+    "QTY": 5000,
+    "UNIT_PRICE": 0.34666,
+    "AMOUNT": 1733.3,
+    "% Confidence": 0.9979654947916666,
+    "filename": "Ent18-19092023110613-0001.json"
+  }
+]

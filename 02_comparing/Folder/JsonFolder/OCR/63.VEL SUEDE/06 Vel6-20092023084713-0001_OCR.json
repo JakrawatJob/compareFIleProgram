@@ -1,0 +1,62 @@
+[
+  {
+    "INVOICE_NO": "DY233887",
+    "PO_NO": "1257419040",
+    "ITEM_NO": "502246001",
+    "QTY": 720,
+    "UNIT_PRICE": 12.1562,
+    "AMOUNT": 8752.46,
+    "% Confidence": 0.993896484375,
+    "filename": "06 Vel6-20092023084713-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233887",
+    "PO_NO": "1257419041",
+    "ITEM_NO": "502246001",
+    "QTY": 280,
+    "UNIT_PRICE": 12.1562,
+    "AMOUNT": 3403.74,
+    "% Confidence": 0.9954427083333334,
+    "filename": "06 Vel6-20092023084713-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233887",
+    "PO_NO": "1256810047",
+    "ITEM_NO": "502251001",
+    "QTY": 1000,
+    "UNIT_PRICE": 4.2771,
+    "AMOUNT": 4277.1,
+    "% Confidence": 0.9947916666666666,
+    "filename": "06 Vel6-20092023084713-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233887",
+    "PO_NO": "1257419042",
+    "ITEM_NO": "502251001",
+    "QTY": 1000,
+    "UNIT_PRICE": 4.2771,
+    "AMOUNT": 4277.1,
+    "% Confidence": 0.9957682291666666,
+    "filename": "06 Vel6-20092023084713-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233887",
+    "PO_NO": "1256810048",
+    "ITEM_NO": "502251101",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.747,
+    "AMOUNT": 1747,
+    "% Confidence": 0.99609375,
+    "filename": "06 Vel6-20092023084713-0001.json"
+  },
+  {
+    "INVOICE_NO": "DY233887",
+    "PO_NO": "1257419045",
+    "ITEM_NO": "502251101",
+    "QTY": 2000,
+    "UNIT_PRICE": 1.747,
+    "AMOUNT": 25951.4,
+    "% Confidence": 0.9295084635416666,
+    "filename": "06 Vel6-20092023084713-0001.json"
+  }
+]

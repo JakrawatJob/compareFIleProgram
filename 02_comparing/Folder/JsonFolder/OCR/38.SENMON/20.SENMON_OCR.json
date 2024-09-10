@@ -1,0 +1,12 @@
+[
+  {
+    "INVOICE_NO": "SMP66-02282",
+    "PO_NO": "125",
+    "ITEM_NO": "445477201",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.5,
+    "AMOUNT": 500,
+    "% Confidence": 0.993896484375,
+    "filename": "20.SENMON.json"
+  }
+]
