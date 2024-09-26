@@ -113,7 +113,7 @@ rl.question("Please enter the folder name: ", (folderName) => {
     //console.log(arrfiles);
     let notfound = 0;
     for (let i = 0; i < arrfiles.length; i += 1) {
-      //console.log(arrfiles[i], arrfiles2[i]);
+      console.log(arrfiles[i], arrfiles2[i]);
       const filename = getFilenameWithoutExtension(arrfiles[i]);
       let isPresent = false;
       let fileTruth = "";
@@ -122,11 +122,13 @@ rl.question("Please enter the folder name: ", (folderName) => {
         fileTruth = getFilenameWithoutExtension(arrfiles2[j]);
         if (filename) {
           const regex = /_STA|_STBIWH|_STBOWH|_STC/;
-          const newFilename = filename.replace(regex, "");
-          console.log(
-            newFilename.replace("_OCR", ""),
-            fileTruth.replace("_Truth", "")
-          );
+          let newFilename = filename.replace(regex, "");
+          newFilename = newFilename.replace("_OCR", "");
+          fileTruth = fileTruth.replace("_Truth", "");
+          const nonAlphanumericRegex = /[^a-zA-Z0-9]/g;
+          newFilename = newFilename.replace(nonAlphanumericRegex, "");
+          fileTruth = fileTruth.replace(nonAlphanumericRegex, "");
+
 
           if (
             newFilename.replace("_OCR", "") != fileTruth.replace("_Truth", "")
