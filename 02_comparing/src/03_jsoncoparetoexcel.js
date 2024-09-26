@@ -110,49 +110,66 @@ rl.question("Please enter the folder name: ", (folderName) => {
       ...column,
       style: { font: { bold: false } },
     }));
+    //Function for find similary word
+    // 1. Helper Function: Extract Filename Without Extension
+    function getTrigrams(str) {
+      const trigrams = {};
+      for (let i = 0; i < str.length - 2; i++) {
+        const trigram = str.substring(i, i + 3).toLowerCase();
+        trigrams[trigram] = (trigrams[trigram] || 0) + 1;
+      }
+      return trigrams;
+    }
+
+    function cosineSimilarity(a, b) {
+      const trigramsA = getTrigrams(a);
+      const trigramsB = getTrigrams(b);
+
+      const intersection = Object.keys(trigramsA).filter(trigram => trigramsB[trigram]);
+
+      let dotProduct = 0;
+      intersection.forEach(trigram => {
+        dotProduct += trigramsA[trigram] * trigramsB[trigram];
+      });
+
+      const magnitudeA = Math.sqrt(Object.values(trigramsA).reduce((sum, val) => sum + val * val, 0));
+      const magnitudeB = Math.sqrt(Object.values(trigramsB).reduce((sum, val) => sum + val * val, 0));
+
+      return dotProduct / (magnitudeA * magnitudeB);
+    }
+
+    function findMostSimilarCosine(target, candidates) {
+      let maxSimilarity = -1;
+      let mostSimilar = "";
+
+      candidates.forEach(candidate => {
+        const similarity = cosineSimilarity(target, candidate);
+        if (similarity > maxSimilarity) {
+          maxSimilarity = similarity;
+          mostSimilar = candidate;
+        }
+      });
+
+      return mostSimilar;
+    }
+    //
     //console.log(arrfiles);
     let notfound = 0;
     for (let i = 0; i < arrfiles.length; i += 1) {
-      console.log(arrfiles[i], arrfiles2[i]);
+      //console.log(arrfiles[i], arrfiles2[i]);
       const filename = getFilenameWithoutExtension(arrfiles[i]);
-      let isPresent = false;
+      let isPresent = true;
       let fileTruth = "";
-      let mapTruth = arrfiles2[i];
-      for (let j = 0; j < arrfiles2.length; j += 1) {
-        fileTruth = getFilenameWithoutExtension(arrfiles2[j]);
-        if (filename) {
-          const regex = /_STA|_STBIWH|_STBOWH|_STC/;
-          let newFilename = filename.replace(regex, "");
-          newFilename = newFilename.replace("_OCR", "");
-          fileTruth = fileTruth.replace("_Truth", "");
-          const nonAlphanumericRegex = /[^a-zA-Z0-9]/g;
-          newFilename = newFilename.replace(nonAlphanumericRegex, "");
-          fileTruth = fileTruth.replace(nonAlphanumericRegex, "");
-
-
-          if (
-            newFilename.replace("_OCR", "") != fileTruth.replace("_Truth", "")
-          ) {
-            isPresent = false;
-          } else {
-            mapTruth = arrfiles2[j];
-            isPresent = true;
-            j = arrfiles2.length;
-          }
-        }
-      }
-      console.log("isPresent", isPresent);
+      let mostSimilar = "";
+      mostSimilar = findMostSimilarCosine(arrfiles[i], arrfiles2);
       const data = readJSONFile(arrfiles[i]);
-      //console.log("data here", data);
       if (data.length == 0) {
-        console.log("IS HERE");
         continue;
       }
       const modifiedData = modifyData(filename, data, i);
-      const filename2 = fileTruth;
-      let data_truth = readJSONFile(mapTruth);
+      const filename2 = getFilenameWithoutExtension(mostSimilar);
+      let data_truth = readJSONFile(mostSimilar);
 
-      //console.log(data_truth);
 
       let modifiedData2;
       if (!isPresent) {
@@ -281,6 +298,10 @@ rl.question("Please enter the folder name: ", (folderName) => {
     combinedValuesPercent.push(
       "Total Result percentage",
       100 - (totalSum / (allitem * 6)) * 100
+    );
+    combinedValuesPercent.push(
+      "number of file compare",
+      arrfiles2.length
     );
     worksheet.addRow(combinedValuesPercent);
     const targetFolderPath = path.join("../Folder/Output/", folderName);
